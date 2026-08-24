@@ -44,24 +44,35 @@ Technical, security, ethical, operational, partnership, legal, and baseline docu
 
 ## Institutional Build Sequence
 
+### Phase 1 - Institutional Foundation
+
 1. [Founding Thesis](./FOUNDING-THESIS.md) - Task 1 - Complete/Draft v1.0
 2. [Official Problem Statement](./OFFICIAL-PROBLEM-STATEMENT.md) - Task 2 - Complete/Draft v1.0
 3. [Vision, Mission & Purpose](./VISION-MISSION-PURPOSE.md) - Task 3 - Complete/Draft v1.0
 4. [Values & Institutional Principles](./VALUES-AND-INSTITUTIONAL-PRINCIPLES.md) - Task 4 - Complete/Draft v1.0
 5. [Code of Conduct](./CODE-OF-CONDUCT.md) - Task 5 - Complete/Draft v1.0
-6. [Organization Charter](./ORGANIZATION-CHARTER.md) - Task 6 - Complete / Draft v1.0
-7. Governance Framework - Task 7 - NEXT
-8. Organization Structure & Decision Rights - Task 8 - Planned
-9. Open-Source & Licensing Framework - Task 9 - Planned
+6. [Organization Charter](./ORGANIZATION-CHARTER.md) - Task 6 - Complete/Draft v1.0
+7. [Governance Framework](./GOVERNANCE-FRAMEWORK.md) - Task 7 - Complete / Draft v1.0
+8. [Organization Structure & Decision Rights](./ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md) - Task 8 - Complete / Draft v1.0
+
+### Phase 2 - Open Participation, Trust, and Risk
+
+9. Open-Source & Licensing Framework - Task 9 - NEXT
 10. Contributing Framework - Task 10 - Planned
 11. Security & Responsible Technology Policy - Task 11 - Planned
 12. Ethics, Sovereignty & Public-Interest Framework - Task 12 - Planned
 13. Risk Management Framework - Task 13 - Planned
+
+### Phase 3 - Operating Model and Institutional Development
+
 14. Operating Model - Task 14 - Planned
 15. Organization Roadmap - Task 15 - Planned
 16. Funding & Financial Framework - Task 16 - Planned
 17. Partnership & Stakeholder Framework - Task 17 - Planned
 18. Research & Innovation Framework - Task 18 - Planned
+
+### Phase 4 - Programme Governance, Legal Readiness, and Baseline
+
 19. Programme Governance Framework - Task 19 - Planned
 20. Legal & Institutional Readiness - Task 20 - Planned
 21. Organization Documentation Baseline v1.0 - Task 21 - Planned

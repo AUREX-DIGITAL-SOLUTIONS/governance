@@ -8,7 +8,7 @@
 **Institution:** Aurex Digital Solutions  
 **Starting Jurisdiction:** Kenya  
 **Document Type:** Vision, Mission & Purpose Statement  
-**Navigation:** [Previous: Official Problem Statement](./OFFICIAL-PROBLEM-STATEMENT.md) | [Back to Documentation Index](./README.md) | [Next: Values & Institutional Principles](./VALUES-AND-INSTITUTIONAL-PRINCIPLES.md)
+**Navigation:** [Previous: Official Problem Statement](./OFFICIAL-PROBLEM-STATEMENT.md) | [Home: Documentation Index](./README.md) | [Next: Values & Institutional Principles](./VALUES-AND-INSTITUTIONAL-PRINCIPLES.md)
 
 > This document defines the purpose, vision, mission, and institutional mandate of Aurex Digital Solutions. It does not claim that Aurex Digital Solutions is a government agency, licensed utility, regulator, system operator, national grid operator, or already deployed national energy platform.
 
@@ -233,7 +233,9 @@ Current build status:
 - Task 4 - Values & Institutional Principles: Complete/Draft v1.0
 - Task 5 - Code of Conduct: Complete/Draft v1.0
 - Task 6 - Organization Charter: Complete/Draft v1.0
-- Task 7 - Governance Framework: Next
+- Task 7 - Governance Framework: Complete/Draft v1.0
+- Task 8 - Organization Structure & Decision Rights: Complete/Draft v1.0
+- Task 9 - Open-Source & Licensing Framework: Next
 
 Previous document: [Official Problem Statement](./OFFICIAL-PROBLEM-STATEMENT.md)
 

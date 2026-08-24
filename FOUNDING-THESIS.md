@@ -7,7 +7,7 @@
 **Starting Jurisdiction:** Kenya  
 **Document Type:** Foundational Thesis  
 **Task:** Task 1 - Founding Thesis  
-**Navigation:** [Back to Documentation Index](./README.md) | [Next: Official Problem Statement](./OFFICIAL-PROBLEM-STATEMENT.md)
+**Navigation:** [Home: Documentation Index](./README.md) | [Next: Official Problem Statement](./OFFICIAL-PROBLEM-STATEMENT.md)
 
 > This document defines the founding thesis for Aurex Digital Solutions as an institution. It does not claim that Aurex Digital Solutions is currently operating a national energy system, has government approval, or has deployed a national energy platform.
 
@@ -322,7 +322,9 @@ Current build status:
 - Task 4 - Values & Institutional Principles: Complete/Draft v1.0
 - Task 5 - Code of Conduct: Complete/Draft v1.0
 - Task 6 - Organization Charter: Complete/Draft v1.0
-- Task 7 - Governance Framework: Next
+- Task 7 - Governance Framework: Complete/Draft v1.0
+- Task 8 - Organization Structure & Decision Rights: Complete/Draft v1.0
+- Task 9 - Open-Source & Licensing Framework: Next
 
 Home: [Documentation Index](./README.md)
 

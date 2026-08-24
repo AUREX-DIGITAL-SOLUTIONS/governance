@@ -610,13 +610,13 @@ AUREX DIGITAL SOLUTIONS
 06 Organization Charter                    COMPLETE / DRAFT v1.0
         |
         v
-07 Governance Framework                    NEXT
+07 Governance Framework                    COMPLETE / DRAFT v1.0
         |
         v
-08 Organization Structure & Decision Rights PLANNED
+08 Organization Structure & Decision Rights COMPLETE / DRAFT v1.0
         |
         v
-09 Open-Source & Licensing Framework       PLANNED
+09 Open-Source & Licensing Framework       NEXT
         |
         v
 10 Contributing Framework                  PLANNED

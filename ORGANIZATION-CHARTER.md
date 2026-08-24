@@ -6,7 +6,7 @@
 **Institution:** Aurex Digital Solutions  
 **Jurisdictional origin:** Kenya  
 **Long-term orientation:** Africa  
-**Navigation:** [Previous: Code of Conduct](./CODE-OF-CONDUCT.md) | [Home: Documentation Index](./README.md) | Next: Task 7 - Governance Framework
+**Navigation:** [Previous: Code of Conduct](./CODE-OF-CONDUCT.md) | [Home: Documentation Index](./README.md) | [Next: Governance Framework](./GOVERNANCE-FRAMEWORK.md)
 
 The Organization Charter is the constitutional capstone of Tasks 1-5.
 
@@ -550,7 +550,7 @@ DELEGATED RESPONSIBILITY
 INSTITUTIONAL ACCOUNTABILITY
 ```
 
-Detailed governance bodies and decision rights shall be established in Task 7 - Governance Framework.
+Detailed governance bodies and decision rights are developed through [Task 7 - Governance Framework](./GOVERNANCE-FRAMEWORK.md) and [Task 8 - Organization Structure & Decision Rights](./ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md).
 
 ---
 
@@ -582,7 +582,7 @@ Material institutional decisions should eventually be assigned to clearly define
 These may include future bodies such as:
 
 - founder/executive leadership;
-- governing board;
+- future governing body;
 - technical steering body;
 - programme leadership;
 - security authority;
@@ -590,7 +590,7 @@ These may include future bodies such as:
 - finance authority;
 - risk authority.
 
-Their precise composition should not be invented in the Charter before Task 7 defines governance.
+Their precise composition should be defined through the [Governance Framework](./GOVERNANCE-FRAMEWORK.md), [Task 8 decision-rights work](./ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md), and later formal governance processes rather than invented in the Charter.
 
 ---
 
@@ -817,20 +817,20 @@ This does not mean Aurex is legally incorporated, government-authorized, regulat
 
 ---
 
-## 34. What Task 7 Must Answer
+## 34. Relationship to the Governance Framework
 
 The Charter deliberately says that Aurex must have governance without prematurely inventing the governance model.
 
-Task 7 must answer:
+[Task 7 - Governance Framework](./GOVERNANCE-FRAMEWORK.md) now answers:
 
 > Who actually makes decisions inside Aurex?
 
-It should define:
+It defines:
 
 - governing bodies;
 - founder authority;
 - executive authority;
-- board authority;
+- future governing authority;
 - technical authority;
 - programme authority;
 - reserved decisions;
@@ -843,7 +843,9 @@ It should define:
 - emergency authority;
 - governance evolution.
 
-That makes Task 7 - Governance Framework the correct next step.
+[Task 8 - Organization Structure & Decision Rights](./ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md) now translates the governance architecture into roles, reporting relationships, authority boundaries, and decision-rights matrices.
+
+The next step is Task 9 - Open-Source & Licensing Framework.
 
 ---
 
@@ -856,9 +858,9 @@ That makes Task 7 - Governance Framework the correct next step.
 04 Values & Institutional Principles       COMPLETE / DRAFT v1.0
 05 Code of Conduct                         COMPLETE / DRAFT v1.0
 06 Organization Charter                    COMPLETE / DRAFT v1.0
-07 Governance Framework                    NEXT
-08 Organization Structure & Decision Rights PLANNED
-09 Open-Source & Licensing Framework       PLANNED
+07 Governance Framework                    COMPLETE / DRAFT v1.0
+08 Organization Structure & Decision Rights COMPLETE / DRAFT v1.0
+09 Open-Source & Licensing Framework       NEXT
 10 Contributing Framework                  PLANNED
 11 Security & Responsible Technology Policy PLANNED
 12 Ethics, Sovereignty & Public-Interest Framework PLANNED
@@ -875,10 +877,10 @@ That makes Task 7 - Governance Framework the correct next step.
 
 The constitutional phase is complete in draft form.
 
-The next phase is governance.
+The next phase is open-source and licensing.
 
 Previous document: [Code of Conduct](./CODE-OF-CONDUCT.md)
 
 Home: [Documentation Index](./README.md)
 
-Next task: Task 7 - Governance Framework.
+Next document: [Governance Framework](./GOVERNANCE-FRAMEWORK.md)

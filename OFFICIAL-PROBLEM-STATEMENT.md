@@ -8,7 +8,7 @@
 **Institution:** Aurex Digital Solutions  
 **Starting Jurisdiction:** Kenya  
 **Document Type:** Official Problem Statement  
-**Navigation:** [Previous: Founding Thesis](./FOUNDING-THESIS.md) | [Back to Documentation Index](./README.md) | [Next: Vision, Mission & Purpose](./VISION-MISSION-PURPOSE.md)
+**Navigation:** [Previous: Founding Thesis](./FOUNDING-THESIS.md) | [Home: Documentation Index](./README.md) | [Next: Vision, Mission & Purpose](./VISION-MISSION-PURPOSE.md)
 
 > This document defines the problem that Aurex Digital Solutions exists to investigate, develop for, validate, and steward. It does not claim that Aurex Digital Solutions is a government agency, a licensed utility, a regulator, a national grid operator, or an already deployed national energy platform.
 
@@ -453,7 +453,9 @@ Current build status:
 - Task 4 - Values & Institutional Principles: Complete/Draft v1.0
 - Task 5 - Code of Conduct: Complete/Draft v1.0
 - Task 6 - Organization Charter: Complete/Draft v1.0
-- Task 7 - Governance Framework: Next
+- Task 7 - Governance Framework: Complete/Draft v1.0
+- Task 8 - Organization Structure & Decision Rights: Complete/Draft v1.0
+- Task 9 - Open-Source & Licensing Framework: Next
 
 Previous: [Founding Thesis](./FOUNDING-THESIS.md)
 

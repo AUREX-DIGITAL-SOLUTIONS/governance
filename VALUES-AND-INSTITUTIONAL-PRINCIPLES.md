@@ -8,7 +8,7 @@
 **Institution:** Aurex Digital Solutions  
 **Starting Jurisdiction:** Kenya  
 **Document Type:** Values and Institutional Principles  
-**Navigation:** [Previous: Vision, Mission & Purpose](./VISION-MISSION-PURPOSE.md) | [Back to Documentation Index](./README.md) | [Next: Code of Conduct](./CODE-OF-CONDUCT.md)
+**Navigation:** [Previous: Vision, Mission & Purpose](./VISION-MISSION-PURPOSE.md) | [Home: Documentation Index](./README.md) | [Next: Code of Conduct](./CODE-OF-CONDUCT.md)
 
 > This document defines how Aurex Digital Solutions should behave while pursuing its mission. It does not grant operational authority, regulatory status, utility status, system-operator status, or any right to control public or private energy assets. Authority, safety, technical maturity, and public-infrastructure responsibility must be earned, documented, validated, and governed.
 
@@ -849,13 +849,13 @@ AUREX DIGITAL SOLUTIONS
 06 Organization Charter                    COMPLETE / DRAFT v1.0
         |
         v
-07 Governance Framework                    NEXT
+07 Governance Framework                    COMPLETE / DRAFT v1.0
         |
         v
-08 Organization Structure & Decision Rights PLANNED
+08 Organization Structure & Decision Rights COMPLETE / DRAFT v1.0
         |
         v
-09 Open-Source & Licensing Framework       PLANNED
+09 Open-Source & Licensing Framework       NEXT
         |
         v
 10 Contributing Framework                  PLANNED
