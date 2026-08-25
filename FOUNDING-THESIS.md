@@ -325,7 +325,8 @@ Current build status:
 - Task 7 - Governance Framework: Complete/Draft v1.0
 - Task 8 - Organization Structure & Decision Rights: Complete/Draft v1.0
 - Task 9 - Open-Source & Licensing Framework: Complete/Draft v1.0
-- Task 10 - Contributing Framework: Next
+- Task 10 - Contributing Framework: Complete/Draft v1.0
+- Task 11 - Security & Responsible Technology Policy: Next
 
 Home: [Documentation Index](./README.md)
 

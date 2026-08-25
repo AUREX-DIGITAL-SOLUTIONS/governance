@@ -847,7 +847,7 @@ It defines:
 
 [Task 9 - Open-Source & Licensing Framework](./OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md) now defines Aurex's draft open-source, licensing, dependency, contributor-IP, and repository-governance direction.
 
-The next step is Task 10 - Contributing Framework.
+The next step is Task 11 - Security & Responsible Technology Policy.
 
 ---
 
@@ -863,8 +863,8 @@ The next step is Task 10 - Contributing Framework.
 07 Governance Framework                    COMPLETE / DRAFT v1.0
 08 Organization Structure & Decision Rights COMPLETE / DRAFT v1.0
 09 Open-Source & Licensing Framework       COMPLETE / DRAFT v1.0
-10 Contributing Framework                  NEXT
-11 Security & Responsible Technology Policy PLANNED
+10 Contributing Framework                  COMPLETE / DRAFT v1.0
+11 Security & Responsible Technology Policy NEXT
 12 Ethics, Sovereignty & Public-Interest Framework PLANNED
 13 Risk Management Framework               PLANNED
 14 Operating Model                         PLANNED

@@ -42,7 +42,10 @@ Organization Structure & Decision Rights
 Open-Source & Licensing Framework
     |
     v
-Technical, security, ethical, operational, partnership, legal, and baseline documents
+Contributing Framework
+    |
+    v
+Security, ethical, operational, partnership, legal, and baseline documents
 ```
 
 ## Institutional Build Sequence
@@ -61,8 +64,8 @@ Technical, security, ethical, operational, partnership, legal, and baseline docu
 ### Phase 2 - Open Participation, Trust, and Risk
 
 9. [Open-Source & Licensing Framework](./OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md) - Task 9 - Complete / Draft v1.0
-10. Contributing Framework - Task 10 - NEXT
-11. Security & Responsible Technology Policy - Task 11 - Planned
+10. [Contributing Framework](./CONTRIBUTING-FRAMEWORK.md) - Task 10 - Complete / Draft v1.0
+11. Security & Responsible Technology Policy - Task 11 - NEXT
 12. Ethics, Sovereignty & Public-Interest Framework - Task 12 - Planned
 13. Risk Management Framework - Task 13 - Planned
 

@@ -858,10 +858,10 @@ AUREX DIGITAL SOLUTIONS
 09 Open-Source & Licensing Framework       COMPLETE / DRAFT v1.0
         |
         v
-10 Contributing Framework                  NEXT
+10 Contributing Framework                  COMPLETE / DRAFT v1.0
         |
         v
-11 Security & Responsible Technology Policy PLANNED
+11 Security & Responsible Technology Policy NEXT
         |
         v
 12 Ethics, Sovereignty & Public-Interest Framework PLANNED

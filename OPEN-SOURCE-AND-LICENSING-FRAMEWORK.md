@@ -8,7 +8,7 @@
 **Phase:** Technical Governance  
 **Purpose:** Define Aurex Digital Solutions' draft institutional policy direction for open-source software, licensing, contributor intellectual property, third-party dependencies, documentation, data, trademarks, security-sensitive materials, and open technical collaboration.
 
-**Navigation:** [Previous: Organization Structure & Decision Rights](./ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md) | [Home: Documentation Index](./README.md) | Next task: Task 10 - Contributing Framework
+**Navigation:** [Previous: Organization Structure & Decision Rights](./ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md) | [Home: Documentation Index](./README.md) | [Next: Contributing Framework](./CONTRIBUTING-FRAMEWORK.md)
 
 Task 8 established who holds responsibility and decision authority.
 
@@ -1120,13 +1120,13 @@ Make license decisions, dependency obligations, notices, and exceptions traceabl
 
 ---
 
-## 48. What Task 10 Must Solve
+## 48. How Task 10 Continues This Framework
 
-Task 10 is:
+Task 10 is now:
 
 **Contributing Framework**
 
-It must define:
+It defines:
 
 - who may contribute;
 - how contributions are proposed, reviewed, accepted, rejected, and maintained;
@@ -1142,7 +1142,7 @@ It must define:
 - repository governance;
 - contribution pathways for researchers, engineers, institutions, utilities, vendors, and community participants.
 
-Task 10 should convert this licensing direction into a practical participation model.
+Task 10 converts this licensing direction into a practical participation model.
 
 ---
 
@@ -1158,8 +1158,8 @@ Task 10 should convert this licensing direction into a practical participation m
 07 Governance Framework                    COMPLETE / DRAFT v1.0
 08 Organization Structure & Decision Rights COMPLETE / DRAFT v1.0
 09 Open-Source & Licensing Framework       COMPLETE / DRAFT v1.0
-10 Contributing Framework                  NEXT
-11 Security & Responsible Technology Policy PLANNED
+10 Contributing Framework                  COMPLETE / DRAFT v1.0
+11 Security & Responsible Technology Policy NEXT
 12 Ethics, Sovereignty & Public-Interest Framework PLANNED
 13 Risk Management Framework               PLANNED
 14 Operating Model                         PLANNED
@@ -1178,4 +1178,4 @@ Previous document: [Organization Structure & Decision Rights](./ORGANIZATION-STR
 
 Home: [Documentation Index](./README.md)
 
-Next task: Task 10 - Contributing Framework.
+Next document: [Contributing Framework](./CONTRIBUTING-FRAMEWORK.md)
