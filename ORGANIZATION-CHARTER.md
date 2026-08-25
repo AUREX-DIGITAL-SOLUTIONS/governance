@@ -485,7 +485,7 @@ Aurex may create and steward:
 - technical architectures;
 - other intellectual assets.
 
-Ownership, licensing, and contributor rights shall be governed through applicable agreements and the future Open-Source & Licensing Framework.
+Ownership, licensing, and contributor rights shall be governed through applicable agreements and the [Open-Source & Licensing Framework](./OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md).
 
 ---
 
@@ -845,7 +845,9 @@ It defines:
 
 [Task 8 - Organization Structure & Decision Rights](./ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md) now translates the governance architecture into roles, reporting relationships, authority boundaries, and decision-rights matrices.
 
-The next step is Task 9 - Open-Source & Licensing Framework.
+[Task 9 - Open-Source & Licensing Framework](./OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md) now defines Aurex's draft open-source, licensing, dependency, contributor-IP, and repository-governance direction.
+
+The next step is Task 10 - Contributing Framework.
 
 ---
 
@@ -860,8 +862,8 @@ The next step is Task 9 - Open-Source & Licensing Framework.
 06 Organization Charter                    COMPLETE / DRAFT v1.0
 07 Governance Framework                    COMPLETE / DRAFT v1.0
 08 Organization Structure & Decision Rights COMPLETE / DRAFT v1.0
-09 Open-Source & Licensing Framework       NEXT
-10 Contributing Framework                  PLANNED
+09 Open-Source & Licensing Framework       COMPLETE / DRAFT v1.0
+10 Contributing Framework                  NEXT
 11 Security & Responsible Technology Policy PLANNED
 12 Ethics, Sovereignty & Public-Interest Framework PLANNED
 13 Risk Management Framework               PLANNED
@@ -877,7 +879,7 @@ The next step is Task 9 - Open-Source & Licensing Framework.
 
 The constitutional phase is complete in draft form.
 
-The next phase is open-source and licensing.
+The next phase is open contribution governance.
 
 Previous document: [Code of Conduct](./CODE-OF-CONDUCT.md)
 

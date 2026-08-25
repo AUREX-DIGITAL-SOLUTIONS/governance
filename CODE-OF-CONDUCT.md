@@ -616,10 +616,10 @@ AUREX DIGITAL SOLUTIONS
 08 Organization Structure & Decision Rights COMPLETE / DRAFT v1.0
         |
         v
-09 Open-Source & Licensing Framework       NEXT
+09 Open-Source & Licensing Framework       COMPLETE / DRAFT v1.0
         |
         v
-10 Contributing Framework                  PLANNED
+10 Contributing Framework                  NEXT
         |
         v
 11 Security & Responsible Technology Policy PLANNED

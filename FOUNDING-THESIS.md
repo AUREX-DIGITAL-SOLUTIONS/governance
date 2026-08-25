@@ -324,7 +324,8 @@ Current build status:
 - Task 6 - Organization Charter: Complete/Draft v1.0
 - Task 7 - Governance Framework: Complete/Draft v1.0
 - Task 8 - Organization Structure & Decision Rights: Complete/Draft v1.0
-- Task 9 - Open-Source & Licensing Framework: Next
+- Task 9 - Open-Source & Licensing Framework: Complete/Draft v1.0
+- Task 10 - Contributing Framework: Next
 
 Home: [Documentation Index](./README.md)
 

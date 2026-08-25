@@ -39,6 +39,9 @@ Governance Framework
 Organization Structure & Decision Rights
     |
     v
+Open-Source & Licensing Framework
+    |
+    v
 Technical, security, ethical, operational, partnership, legal, and baseline documents
 ```
 
@@ -57,8 +60,8 @@ Technical, security, ethical, operational, partnership, legal, and baseline docu
 
 ### Phase 2 - Open Participation, Trust, and Risk
 
-9. Open-Source & Licensing Framework - Task 9 - NEXT
-10. Contributing Framework - Task 10 - Planned
+9. [Open-Source & Licensing Framework](./OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md) - Task 9 - Complete / Draft v1.0
+10. Contributing Framework - Task 10 - NEXT
 11. Security & Responsible Technology Policy - Task 11 - Planned
 12. Ethics, Sovereignty & Public-Interest Framework - Task 12 - Planned
 13. Risk Management Framework - Task 13 - Planned

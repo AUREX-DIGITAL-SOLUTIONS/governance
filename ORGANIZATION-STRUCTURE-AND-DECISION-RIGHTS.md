@@ -8,7 +8,7 @@
 **Current maturity:** Founder-led / pre-formalization  
 **Purpose:** Define the institutional structure, roles, accountabilities, decision ownership, delegation, and authority boundaries of Aurex Digital Solutions.
 
-**Navigation:** [Previous: Governance Framework](./GOVERNANCE-FRAMEWORK.md) | [Home: Documentation Index](./README.md) | Next task: Task 9 - Open-Source & Licensing Framework
+**Navigation:** [Previous: Governance Framework](./GOVERNANCE-FRAMEWORK.md) | [Home: Documentation Index](./README.md) | [Next: Open-Source & Licensing Framework](./OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md)
 
 Task 7 established the governance architecture.
 
@@ -1187,13 +1187,13 @@ OPEN-SOURCE & LICENSING FRAMEWORK
 
 ---
 
-## 43. What Task 9 Must Solve
+## 43. Relationship to Task 9
 
 Task 9 is:
 
-**Open-Source & Licensing Framework**
+[Open-Source & Licensing Framework](./OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md)
 
-It must define:
+It now defines:
 
 - Aurex's open-source position;
 - license strategy;
@@ -1204,9 +1204,9 @@ It must define:
 - dependency and third-party license rules;
 - how open collaboration aligns with institutional control, security, and public-interest obligations.
 
-Task 9 should not be treated as a branding exercise.
+Task 9 is not a branding exercise.
 
-It is where Aurex decides how open infrastructure can be built without losing legal clarity, security discipline, institutional ownership, or contributor trust.
+It defines how open infrastructure can be built without losing legal clarity, security discipline, institutional ownership, or contributor trust.
 
 ---
 
@@ -1239,10 +1239,10 @@ AUREX DIGITAL SOLUTIONS
 08 Organization Structure & Decision Rights COMPLETE / DRAFT v1.0
         |
         v
-09 Open-Source & Licensing Framework       NEXT
+09 Open-Source & Licensing Framework       COMPLETE / DRAFT v1.0
         |
         v
-10 Contributing Framework                  PLANNED
+10 Contributing Framework                  NEXT
         |
         v
 11 Security & Responsible Technology Policy PLANNED
@@ -1284,4 +1284,4 @@ Previous document: [Governance Framework](./GOVERNANCE-FRAMEWORK.md)
 
 Home: [Documentation Index](./README.md)
 
-Next task: Task 9 - Open-Source & Licensing Framework.
+Next document: [Open-Source & Licensing Framework](./OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md)

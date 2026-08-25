@@ -820,7 +820,7 @@ Repository access should reflect institutional roles, not friendship or convenie
 
 Open-source governance must not expose sensitive infrastructure, credentials, private data, or security details.
 
-Task 9 will define the detailed Open-Source & Licensing Framework.
+Task 9 now defines the detailed [Open-Source & Licensing Framework](./OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md).
 
 ---
 
@@ -1168,6 +1168,8 @@ That document specifies:
 
 Task 8 keeps the same stage-aware discipline: it defines the next needed structure without pretending Aurex already has roles, offices, or bodies that have not yet been created.
 
+Task 9, [Open-Source & Licensing Framework](./OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md), now defines Aurex's draft licensing, dependency, contributor-IP, and open collaboration rules.
+
 ---
 
 ## 39. Institutional Build Status
@@ -1181,8 +1183,8 @@ Task 8 keeps the same stage-aware discipline: it defines the next needed structu
 06 Organization Charter                    COMPLETE / DRAFT v1.0
 07 Governance Framework                    COMPLETE / DRAFT v1.0
 08 Organization Structure & Decision Rights COMPLETE / DRAFT v1.0
-09 Open-Source & Licensing Framework       NEXT
-10 Contributing Framework                  PLANNED
+09 Open-Source & Licensing Framework       COMPLETE / DRAFT v1.0
+10 Contributing Framework                  NEXT
 11 Security & Responsible Technology Policy PLANNED
 12 Ethics, Sovereignty & Public-Interest Framework PLANNED
 13 Risk Management Framework               PLANNED
