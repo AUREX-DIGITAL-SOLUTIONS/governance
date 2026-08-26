@@ -6,7 +6,7 @@
 **Institution:** Aurex Digital Solutions  
 **Phase:** Technical Governance  
 **Applicability:** Aurex software, research, infrastructure, programmes, repositories, contributors, data systems, AI systems, edge devices, and energy-control technologies  
-**Navigation:** [Previous: Contributing Framework](./CONTRIBUTING-FRAMEWORK.md) | [Home: Documentation Index](./README.md) | Next task: Task 12 - Ethics, Sovereignty & Public-Interest Framework
+**Navigation:** [Previous: Contributing Framework](./CONTRIBUTING-FRAMEWORK.md) | [Home: Documentation Index](./README.md) | [Next: Ethics, Sovereignty & Public-Interest Framework](./ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md)
 
 Task 10 established how people participate in building Aurex.
 
@@ -1558,19 +1558,19 @@ This boundary is central to Aurex's public-interest legitimacy.
 
 ---
 
-## 65. What Task 12 Must Solve
+## 65. How Task 12 Continues This Framework
 
 Task 11 establishes secure and responsible technology boundaries.
 
-Task 12 must answer a wider institutional question:
+Task 12 now answers a wider institutional question:
 
 > How does Aurex ensure its technology serves ethics, sovereignty, public interest, and African institutional agency?
 
-Therefore the next artifact is:
+The next completed artifact is:
 
-**Task 12 - Ethics, Sovereignty & Public-Interest Framework**
+[Task 12 - Ethics, Sovereignty & Public-Interest Framework](./ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md)
 
-It should address:
+It addresses:
 
 - public-interest obligations;
 - energy sovereignty;
@@ -1601,8 +1601,8 @@ It should address:
 09 Open-Source & Licensing Framework       COMPLETE / DRAFT v1.0
 10 Contributing Framework                  COMPLETE / DRAFT v1.0
 11 Security & Responsible Technology Policy COMPLETE / DRAFT v1.0
-12 Ethics, Sovereignty & Public-Interest Framework NEXT
-13 Risk Management Framework               PLANNED
+12 Ethics, Sovereignty & Public-Interest Framework COMPLETE / DRAFT v1.0
+13 Risk Management Framework               NEXT
 14 Operating Model                         PLANNED
 15 Organization Roadmap                    PLANNED
 16 Funding & Financial Framework           PLANNED
@@ -1619,4 +1619,4 @@ Previous document: [Contributing Framework](./CONTRIBUTING-FRAMEWORK.md)
 
 Home: [Documentation Index](./README.md)
 
-Next task: Task 12 - Ethics, Sovereignty & Public-Interest Framework.
+Next document: [Ethics, Sovereignty & Public-Interest Framework](./ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md)

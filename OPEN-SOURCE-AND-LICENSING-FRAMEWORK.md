@@ -1160,8 +1160,8 @@ Task 10 converts this licensing direction into a practical participation model.
 09 Open-Source & Licensing Framework       COMPLETE / DRAFT v1.0
 10 Contributing Framework                  COMPLETE / DRAFT v1.0
 11 Security & Responsible Technology Policy COMPLETE / DRAFT v1.0
-12 Ethics, Sovereignty & Public-Interest Framework NEXT
-13 Risk Management Framework               PLANNED
+12 Ethics, Sovereignty & Public-Interest Framework COMPLETE / DRAFT v1.0
+13 Risk Management Framework               NEXT
 14 Operating Model                         PLANNED
 15 Organization Roadmap                    PLANNED
 16 Funding & Financial Framework           PLANNED

@@ -49,6 +49,9 @@ Security & Responsible Technology Policy
     |
     v
 Ethics, Sovereignty & Public-Interest Framework
+    |
+    v
+Risk Management Framework
 ```
 
 ## Institutional Build Sequence
@@ -64,16 +67,18 @@ Ethics, Sovereignty & Public-Interest Framework
 7. [Governance Framework](./GOVERNANCE-FRAMEWORK.md) - Task 7 - Complete / Draft v1.0
 8. [Organization Structure & Decision Rights](./ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md) - Task 8 - Complete / Draft v1.0
 
-### Phase 2 - Open Participation, Trust, and Risk
+### Phase 2 - Technical Governance
 
 9. [Open-Source & Licensing Framework](./OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md) - Task 9 - Complete / Draft v1.0
 10. [Contributing Framework](./CONTRIBUTING-FRAMEWORK.md) - Task 10 - Complete / Draft v1.0
 11. [Security & Responsible Technology Policy](./SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md) - Task 11 - Complete / Draft v1.0
-12. Ethics, Sovereignty & Public-Interest Framework - Task 12 - NEXT
-13. Risk Management Framework - Task 13 - Planned
+12. [Ethics, Sovereignty & Public-Interest Framework](./ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md) - Task 12 - Complete / Draft v1.0
 
-### Phase 3 - Operating Model and Institutional Development
+Task 12 completes the initial Technical Governance phase.
 
+### Phase 3 - Operations and Institutional Development
+
+13. Risk Management Framework - Task 13 - NEXT
 14. Operating Model - Task 14 - Planned
 15. Organization Roadmap - Task 15 - Planned
 16. Funding & Financial Framework - Task 16 - Planned

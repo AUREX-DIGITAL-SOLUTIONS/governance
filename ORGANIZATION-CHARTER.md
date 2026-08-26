@@ -847,7 +847,9 @@ It defines:
 
 [Task 9 - Open-Source & Licensing Framework](./OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md) now defines Aurex's draft open-source, licensing, dependency, contributor-IP, and repository-governance direction.
 
-The next step is Task 12 - Ethics, Sovereignty & Public-Interest Framework.
+[Task 10 - Contributing Framework](./CONTRIBUTING-FRAMEWORK.md), [Task 11 - Security & Responsible Technology Policy](./SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md), and [Task 12 - Ethics, Sovereignty & Public-Interest Framework](./ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md) now complete the initial Technical Governance phase.
+
+The next step is Task 13 - Risk Management Framework.
 
 ---
 
@@ -865,8 +867,8 @@ The next step is Task 12 - Ethics, Sovereignty & Public-Interest Framework.
 09 Open-Source & Licensing Framework       COMPLETE / DRAFT v1.0
 10 Contributing Framework                  COMPLETE / DRAFT v1.0
 11 Security & Responsible Technology Policy COMPLETE / DRAFT v1.0
-12 Ethics, Sovereignty & Public-Interest Framework NEXT
-13 Risk Management Framework               PLANNED
+12 Ethics, Sovereignty & Public-Interest Framework COMPLETE / DRAFT v1.0
+13 Risk Management Framework               NEXT
 14 Operating Model                         PLANNED
 15 Organization Roadmap                    PLANNED
 16 Funding & Financial Framework           PLANNED
@@ -879,7 +881,7 @@ The next step is Task 12 - Ethics, Sovereignty & Public-Interest Framework.
 
 The constitutional phase is complete in draft form.
 
-The next phase is open contribution governance.
+Task 13 begins the Operations phase with risk management.
 
 Previous document: [Code of Conduct](./CODE-OF-CONDUCT.md)
 

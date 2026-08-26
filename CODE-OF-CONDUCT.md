@@ -625,10 +625,10 @@ AUREX DIGITAL SOLUTIONS
 11 Security & Responsible Technology Policy COMPLETE / DRAFT v1.0
         |
         v
-12 Ethics, Sovereignty & Public-Interest Framework NEXT
+12 Ethics, Sovereignty & Public-Interest Framework COMPLETE / DRAFT v1.0
         |
         v
-13 Risk Management Framework               PLANNED
+13 Risk Management Framework               NEXT
         |
         v
 14 Operating Model                         PLANNED

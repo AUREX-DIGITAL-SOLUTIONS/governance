@@ -238,7 +238,8 @@ Current build status:
 - Task 9 - Open-Source & Licensing Framework: Complete/Draft v1.0
 - Task 10 - Contributing Framework: Complete/Draft v1.0
 - Task 11 - Security & Responsible Technology Policy: Complete/Draft v1.0
-- Task 12 - Ethics, Sovereignty & Public-Interest Framework: Next
+- Task 12 - Ethics, Sovereignty & Public-Interest Framework: Complete/Draft v1.0
+- Task 13 - Risk Management Framework: Next
 
 Previous document: [Official Problem Statement](./OFFICIAL-PROBLEM-STATEMENT.md)
 
