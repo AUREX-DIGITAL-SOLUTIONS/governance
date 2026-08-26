@@ -8,7 +8,7 @@
 **Phase:** Technical Governance
 **Purpose:** Define Aurex Digital Solutions' institution-wide framework for responsible participation, contribution review, contributor progression, maintainer authority, and contribution governance across Aurex-controlled projects.
 
-**Navigation:** [Previous: Open-Source & Licensing Framework](./OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md) | [Home: Documentation Index](./README.md) | Next task: Task 11 - Security & Responsible Technology Policy
+**Navigation:** [Previous: Open-Source & Licensing Framework](./OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md) | [Home: Documentation Index](./README.md) | [Next: Security & Responsible Technology Policy](./SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md)
 
 Task 9 established how Aurex technology can be legally shared, reused, modified, distributed, and governed through open-source and licensing rules.
 
@@ -718,7 +718,7 @@ Potential vulnerabilities should not initially be posted publicly where doing so
 
 They should follow Aurex's private security-reporting mechanism once established.
 
-Task 11 will define that process through the Security & Responsible Technology Policy.
+Task 11 defines that process through the Security & Responsible Technology Policy.
 
 ---
 
@@ -1209,19 +1209,15 @@ Do not install enterprise bureaucracy before a contributor community exists.
 
 ---
 
-## 55. What Task 11 Must Solve
+## 55. How Task 11 Continues This Framework
 
 Task 10 opens Aurex to participation.
 
-That creates another question:
+Task 11 is now:
 
-> How do we ensure the systems people contribute remain safe, secure, trustworthy, and responsibly used?
+**Security & Responsible Technology Policy**
 
-Therefore the next artifact is:
-
-**Task 11 - Security & Responsible Technology Policy**
-
-It should establish:
+It defines:
 
 - security governance;
 - threat modelling;
@@ -1237,9 +1233,21 @@ It should establish:
 - AI safety and responsible automation;
 - responsible release rules for sensitive energy infrastructure work.
 
+Task 11 establishes the security boundary contributors must respect.
+
+## 56. What Task 12 Must Solve
+
+Task 11 defines secure and responsible technology boundaries.
+
+Task 12 must define the wider ethical, sovereignty, and public-interest framework that guides how Aurex technology should serve African energy systems and communities.
+
+Therefore the next artifact is:
+
+**Task 12 - Ethics, Sovereignty & Public-Interest Framework**
+
 ---
 
-## 56. Institutional Build Status
+## 57. Institutional Build Status
 
 ```text
 01 Founding Thesis                         COMPLETE / DRAFT v1.0
@@ -1252,8 +1260,8 @@ It should establish:
 08 Organization Structure & Decision Rights COMPLETE / DRAFT v1.0
 09 Open-Source & Licensing Framework       COMPLETE / DRAFT v1.0
 10 Contributing Framework                  COMPLETE / DRAFT v1.0
-11 Security & Responsible Technology Policy NEXT
-12 Ethics, Sovereignty & Public-Interest Framework PLANNED
+11 Security & Responsible Technology Policy COMPLETE / DRAFT v1.0
+12 Ethics, Sovereignty & Public-Interest Framework NEXT
 13 Risk Management Framework               PLANNED
 14 Operating Model                         PLANNED
 15 Organization Roadmap                    PLANNED
@@ -1271,4 +1279,4 @@ Previous document: [Open-Source & Licensing Framework](./OPEN-SOURCE-AND-LICENSI
 
 Home: [Documentation Index](./README.md)
 
-Next task: Task 11 - Security & Responsible Technology Policy.
+Next document: [Security & Responsible Technology Policy](./SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md)

@@ -457,7 +457,8 @@ Current build status:
 - Task 8 - Organization Structure & Decision Rights: Complete/Draft v1.0
 - Task 9 - Open-Source & Licensing Framework: Complete/Draft v1.0
 - Task 10 - Contributing Framework: Complete/Draft v1.0
-- Task 11 - Security & Responsible Technology Policy: Next
+- Task 11 - Security & Responsible Technology Policy: Complete/Draft v1.0
+- Task 12 - Ethics, Sovereignty & Public-Interest Framework: Next
 
 Previous: [Founding Thesis](./FOUNDING-THESIS.md)
 

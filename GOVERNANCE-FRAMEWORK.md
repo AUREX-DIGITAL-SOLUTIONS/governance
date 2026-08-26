@@ -1185,8 +1185,8 @@ Task 9, [Open-Source & Licensing Framework](./OPEN-SOURCE-AND-LICENSING-FRAMEWOR
 08 Organization Structure & Decision Rights COMPLETE / DRAFT v1.0
 09 Open-Source & Licensing Framework       COMPLETE / DRAFT v1.0
 10 Contributing Framework                  COMPLETE / DRAFT v1.0
-11 Security & Responsible Technology Policy NEXT
-12 Ethics, Sovereignty & Public-Interest Framework PLANNED
+11 Security & Responsible Technology Policy COMPLETE / DRAFT v1.0
+12 Ethics, Sovereignty & Public-Interest Framework NEXT
 13 Risk Management Framework               PLANNED
 14 Operating Model                         PLANNED
 15 Organization Roadmap                    PLANNED

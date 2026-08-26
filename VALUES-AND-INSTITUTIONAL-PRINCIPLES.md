@@ -861,10 +861,10 @@ AUREX DIGITAL SOLUTIONS
 10 Contributing Framework                  COMPLETE / DRAFT v1.0
         |
         v
-11 Security & Responsible Technology Policy NEXT
+11 Security & Responsible Technology Policy COMPLETE / DRAFT v1.0
         |
         v
-12 Ethics, Sovereignty & Public-Interest Framework PLANNED
+12 Ethics, Sovereignty & Public-Interest Framework NEXT
         |
         v
 13 Risk Management Framework               PLANNED

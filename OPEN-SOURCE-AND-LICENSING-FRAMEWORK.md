@@ -873,7 +873,7 @@ COORDINATE RELEASE
 DISCLOSE APPROPRIATELY
 ```
 
-Task 11 will formalize this through the Security & Responsible Technology Policy.
+Task 11 formalizes this through the Security & Responsible Technology Policy.
 
 ---
 
@@ -1159,8 +1159,8 @@ Task 10 converts this licensing direction into a practical participation model.
 08 Organization Structure & Decision Rights COMPLETE / DRAFT v1.0
 09 Open-Source & Licensing Framework       COMPLETE / DRAFT v1.0
 10 Contributing Framework                  COMPLETE / DRAFT v1.0
-11 Security & Responsible Technology Policy NEXT
-12 Ethics, Sovereignty & Public-Interest Framework PLANNED
+11 Security & Responsible Technology Policy COMPLETE / DRAFT v1.0
+12 Ethics, Sovereignty & Public-Interest Framework NEXT
 13 Risk Management Framework               PLANNED
 14 Operating Model                         PLANNED
 15 Organization Roadmap                    PLANNED

@@ -8,7 +8,7 @@ Its purpose is to advance Africa's transition from fragmented energy infrastruct
 
 Its mission is to research, develop, validate, and steward open, interoperable, secure, intelligence-driven digital energy coordination infrastructure that helps Kenya and other African energy systems become more reliable, resilient, affordable, transparent, flexible, and economically productive.
 
-This documentation set defines the institutional foundation, problem framing, mission architecture, governance path, operating model, programme structure, and institutional boundaries for Aurex Digital Solutions.
+This documentation set defines the institutional foundation, problem framing, mission architecture, governance path, operating model, programme structure, security posture, and institutional boundaries for Aurex Digital Solutions.
 
 This README is the authoritative navigation index for the institutional documentation build. It should link only to documents that exist and should not describe planned artifacts as completed.
 
@@ -45,19 +45,22 @@ Open-Source & Licensing Framework
 Contributing Framework
     |
     v
-Security, ethical, operational, partnership, legal, and baseline documents
+Security & Responsible Technology Policy
+    |
+    v
+Ethics, Sovereignty & Public-Interest Framework
 ```
 
 ## Institutional Build Sequence
 
 ### Phase 1 - Institutional Foundation
 
-1. [Founding Thesis](./FOUNDING-THESIS.md) - Task 1 - Complete/Draft v1.0
-2. [Official Problem Statement](./OFFICIAL-PROBLEM-STATEMENT.md) - Task 2 - Complete/Draft v1.0
-3. [Vision, Mission & Purpose](./VISION-MISSION-PURPOSE.md) - Task 3 - Complete/Draft v1.0
-4. [Values & Institutional Principles](./VALUES-AND-INSTITUTIONAL-PRINCIPLES.md) - Task 4 - Complete/Draft v1.0
-5. [Code of Conduct](./CODE-OF-CONDUCT.md) - Task 5 - Complete/Draft v1.0
-6. [Organization Charter](./ORGANIZATION-CHARTER.md) - Task 6 - Complete/Draft v1.0
+1. [Founding Thesis](./FOUNDING-THESIS.md) - Task 1 - Complete / Draft v1.0
+2. [Official Problem Statement](./OFFICIAL-PROBLEM-STATEMENT.md) - Task 2 - Complete / Draft v1.0
+3. [Vision, Mission & Purpose](./VISION-MISSION-PURPOSE.md) - Task 3 - Complete / Draft v1.0
+4. [Values & Institutional Principles](./VALUES-AND-INSTITUTIONAL-PRINCIPLES.md) - Task 4 - Complete / Draft v1.0
+5. [Code of Conduct](./CODE-OF-CONDUCT.md) - Task 5 - Complete / Draft v1.0
+6. [Organization Charter](./ORGANIZATION-CHARTER.md) - Task 6 - Complete / Draft v1.0
 7. [Governance Framework](./GOVERNANCE-FRAMEWORK.md) - Task 7 - Complete / Draft v1.0
 8. [Organization Structure & Decision Rights](./ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md) - Task 8 - Complete / Draft v1.0
 
@@ -65,8 +68,8 @@ Security, ethical, operational, partnership, legal, and baseline documents
 
 9. [Open-Source & Licensing Framework](./OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md) - Task 9 - Complete / Draft v1.0
 10. [Contributing Framework](./CONTRIBUTING-FRAMEWORK.md) - Task 10 - Complete / Draft v1.0
-11. Security & Responsible Technology Policy - Task 11 - NEXT
-12. Ethics, Sovereignty & Public-Interest Framework - Task 12 - Planned
+11. [Security & Responsible Technology Policy](./SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md) - Task 11 - Complete / Draft v1.0
+12. Ethics, Sovereignty & Public-Interest Framework - Task 12 - NEXT
 13. Risk Management Framework - Task 13 - Planned
 
 ### Phase 3 - Operating Model and Institutional Development
