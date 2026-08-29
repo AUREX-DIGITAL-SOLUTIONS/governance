@@ -1321,7 +1321,7 @@ PROPOSED SOLUTION
 LONG-TERM VISION
 ```
 
-This is particularly important when discussing concepts such as Kenya's **last-mile visibility gap**.
+This is particularly important when discussing concepts such as Aurex's Kenya **last-mile visibility gap** research framing.
 
 Aurex should not convert its own problem framing into an alleged government finding without evidence.
 
@@ -1649,7 +1649,7 @@ Task 15 preserves stage awareness and avoids inventing departments, approvals, p
 18 Research & Innovation Framework         COMPLETE / DRAFT v1.0
 19 Programme Governance Framework          COMPLETE / DRAFT v1.0
 20 Legal & Institutional Readiness         COMPLETE / DRAFT v1.0
-21 Organization Documentation Baseline v1.0 NEXT
+21 Organization Documentation Baseline v1.0 COMPLETE / BASELINE DRAFT v1.0
 ```
 
 Task 14 is complete as a Draft v1.0 foundational artifact. Task 15 is now complete as a Draft v1.0 foundational artifact.

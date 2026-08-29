@@ -1933,7 +1933,7 @@ Task 20 should preserve the rule that programme ambition does not create legal s
 18 Research & Innovation Framework         COMPLETE / DRAFT v1.0
 19 Programme Governance Framework          COMPLETE / DRAFT v1.0
 20 Legal & Institutional Readiness         COMPLETE / DRAFT v1.0
-21 Organization Documentation Baseline v1.0 NEXT
+21 Organization Documentation Baseline v1.0 COMPLETE / BASELINE DRAFT v1.0
 ```
 
 Task 19 is complete as a Draft v1.0 foundational artifact.

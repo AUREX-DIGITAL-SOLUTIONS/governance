@@ -1245,7 +1245,7 @@ The next completed artifact is:
 
 [Task 12 - Ethics, Sovereignty & Public-Interest Framework](./ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md)
 
-Task 13 begins the Operations phase through the Risk Management Framework. Task 14 - Operating Model, Task 15 - Organization Roadmap, and Task 16 - Funding & Financial Framework are now complete. Task 17 - Partnership & Stakeholder Framework is now complete as a Draft v1.0 foundational artifact. Task 18 - Research & Innovation Framework is now complete as a Draft v1.0 foundational artifact. Task 19 - Programme Governance Framework is now complete as a Draft v1.0 foundational artifact. Task 20 - Legal & Institutional Readiness is now complete as a Draft v1.0 foundational artifact. Task 21 - Organization Documentation Baseline v1.0 is the next step.
+Task 13 begins the Operations phase through the Risk Management Framework. Task 14 - Operating Model, Task 15 - Organization Roadmap, and Task 16 - Funding & Financial Framework are now complete. Task 17 - Partnership & Stakeholder Framework is now complete as a Draft v1.0 foundational artifact. Task 18 - Research & Innovation Framework is now complete as a Draft v1.0 foundational artifact. Task 19 - Programme Governance Framework is now complete as a Draft v1.0 foundational artifact. Task 20 - Legal & Institutional Readiness is now complete as a Draft v1.0 foundational artifact. Task 21 - Organization Documentation Baseline v1.0 is complete as the Baseline Draft v1.0 consolidation artifact.
 
 ---
 
@@ -1272,7 +1272,7 @@ Task 13 begins the Operations phase through the Risk Management Framework. Task 
 18 Research & Innovation Framework         COMPLETE / DRAFT v1.0
 19 Programme Governance Framework          COMPLETE / DRAFT v1.0
 20 Legal & Institutional Readiness         COMPLETE / DRAFT v1.0
-21 Organization Documentation Baseline v1.0 NEXT
+21 Organization Documentation Baseline v1.0 COMPLETE / BASELINE DRAFT v1.0
 ```
 
 Task 10 is complete as a Draft v1.0 foundational artifact.

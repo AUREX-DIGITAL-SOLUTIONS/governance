@@ -247,7 +247,7 @@ Current build status:
 - Task 18 - Research & Innovation Framework: Complete/Draft v1.0
 - Task 19 - Programme Governance Framework: Complete / Draft v1.0
 - Task 20 - Legal & Institutional Readiness: Complete / Draft v1.0
-- Task 21 - Organization Documentation Baseline v1.0: NEXT
+- Task 21 - Organization Documentation Baseline v1.0: Complete / Baseline Draft v1.0
 
 Previous document: [Official Problem Statement](./OFFICIAL-PROBLEM-STATEMENT.md)
 

@@ -299,12 +299,12 @@ As of Task 20:
 18 Research & Innovation Framework        COMPLETE / DRAFT v1.0
 19 Programme Governance Framework         COMPLETE / DRAFT v1.0
 20 Legal & Institutional Readiness        COMPLETE / DRAFT v1.0
-21 Documentation Baseline v1.0            NEXT
+21 Documentation Baseline v1.0            COMPLETE / BASELINE DRAFT v1.0
 ```
 
 Therefore Aurex should **finish its institutional baseline before declaring the institution-building phase complete**.
 
-The immediate sequencing is clear: complete Task 21 to establish **Aurex Digital Solutions - Organization Documentation Baseline v1.0**, while research and technical learning can continue in parallel without overstating maturity.
+The immediate sequencing is clear: use **Aurex Digital Solutions - Organization Documentation Baseline v1.0** as the reference point for execution, while research and technical learning continue without overstating maturity.
 
 ---
 
@@ -364,7 +364,7 @@ WHAT IS THE VALUE OF FIXING IT?
 
 This is much stronger than merely stating:
 
-> Kenya has a last-mile visibility gap.
+> Aurex hypothesizes that a last-mile visibility gap may exist in specific Kenyan facility and distributed-energy contexts, subject to validation.
 
 The near-term research priority is to validate where meaningful visibility, interoperability and coordination gaps actually exist across Kenyan facility and distributed-energy infrastructure.
 
@@ -1007,7 +1007,7 @@ Organizational maturity should remain proportional to programme consequence.
 
 Legal development should progress alongside technical maturity.
 
-Task 20 has established the legal and institutional readiness framework. Immediate work now includes Task 21, the documentation baseline.
+Task 20 established the legal and institutional readiness framework. Task 21 now establishes the documentation baseline; immediate work shifts into execution.
 
 Later requirements may depend on actual activities and could involve:
 
@@ -1462,14 +1462,14 @@ Aurex should maintain a simple roadmap dashboard:
 
 | Area | Current Position | Next Evidence Gate |
 | --- | --- | --- |
-| Institution | Founder-led, documented foundation through Task 20 complete as Draft v1.0 | Complete Task 21 documentation baseline |
+| Institution | Founder-led, documented foundation through Task 21 complete as Baseline Draft v1.0 | Execute legal/formalization actions as required |
 | Research | Thesis and questions identified | Evidence package for Kenyan facility/distributed-energy visibility and coordination gaps |
 | Technology | Facility EMS direction identified | Reproducible research/prototype environment |
 | Programme | No pilot or programme yet claimed | Prototype scope justified by evidence |
 | Partnerships | Framework complete / Draft v1.0 | Legitimate stakeholder discovery under partnership controls |
 | Funding | Framework complete / Draft v1.0 | Apply Task 16 funding controls and evidence-linked funding logic |
 | Legal | Framework complete / Draft v1.0 | Evidence-backed legal and regulatory readiness register |
-| Documentation | Tasks 1-20 complete as Draft v1.0 | Documentation Baseline v1.0 through Task 21 |
+| Documentation | Tasks 1-21 complete as Aurex Institutional Documentation Baseline v1.0 | Maintain traceable changes and execution records |
 
 ---
 
@@ -1621,7 +1621,7 @@ Task 17 preserves institutional independence while enabling legitimate collabora
 18 Research & Innovation Framework         COMPLETE / DRAFT v1.0
 19 Programme Governance Framework          COMPLETE / DRAFT v1.0
 20 Legal & Institutional Readiness         COMPLETE / DRAFT v1.0
-21 Organization Documentation Baseline v1.0 NEXT
+21 Organization Documentation Baseline v1.0 COMPLETE / BASELINE DRAFT v1.0
 ```
 
 Task 15 is complete as a Draft v1.0 foundational artifact.

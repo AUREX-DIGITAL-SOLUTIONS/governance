@@ -979,7 +979,7 @@ Future Programme A
 Future Programme B
 ```
 
-Do not make NEOS the entire organizational structure.
+Do not make NEOS, a historical shorthand for a National Energy Operating System concept, the entire organizational structure.
 
 ---
 
@@ -1275,7 +1275,7 @@ AUREX DIGITAL SOLUTIONS
 20 Legal & Institutional Readiness         COMPLETE / DRAFT v1.0
         |
         v
-21 Organization Documentation Baseline v1.0 NEXT
+21 Organization Documentation Baseline v1.0 COMPLETE / BASELINE DRAFT v1.0
 ```
 
 Task 8 is complete as a Draft v1.0 foundational artifact.

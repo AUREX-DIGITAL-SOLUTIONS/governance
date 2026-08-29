@@ -7,7 +7,7 @@
 **Phase:** Legalization
 **Jurisdictional starting point:** Kenya
 **Scope:** Legal formation, corporate governance, regulatory boundaries, contracts, IP, data, cybersecurity, energy-sector authorization, employment, safety, procurement and institutional compliance
-**Navigation:** [Previous: Programme Governance Framework](./PROGRAMME-GOVERNANCE-FRAMEWORK.md) | [Home: Documentation Index](./README.md) | Next task: Task 21 - Organization Documentation Baseline v1.0
+**Navigation:** [Previous: Programme Governance Framework](./PROGRAMME-GOVERNANCE-FRAMEWORK.md) | [Home: Documentation Index](./README.md) | [Next: Organization Documentation Baseline v1.0](./ORGANIZATION-DOCUMENTATION-BASELINE-V1.0.md)
 
 Task 19 established how Aurex governs programmes.
 
@@ -1611,17 +1611,17 @@ This list is a verification map, not a completed legal review.
 
 ---
 
-## 93. What Task 21 Must Solve
+## 93. What Task 21 Establishes
 
 Task 20 defines legal and institutional readiness.
 
-Task 21 must establish the Organization Documentation Baseline v1.0.
+Task 21 establishes the Organization Documentation Baseline v1.0.
 
-Therefore the next artifact is:
+The resulting baseline artifact is:
 
 **Task 21 - Organization Documentation Baseline v1.0**
 
-It should answer:
+It answers:
 
 - which Tasks 1-20 are part of the formal baseline;
 - whether titles, links, metadata and statuses are consistent;
@@ -1630,7 +1630,7 @@ It should answer:
 - what evidence gaps must be recorded;
 - how future amendments, versioning and document control will be handled.
 
-Task 21 should preserve the rule that a documentation baseline records the state of the institution; it does not create legal authority by itself.
+Task 21 preserves the rule that a documentation baseline records the state of the institution; it does not create legal authority by itself.
 
 ---
 
@@ -1657,7 +1657,7 @@ Task 21 should preserve the rule that a documentation baseline records the state
 18 Research & Innovation Framework         COMPLETE / DRAFT v1.0
 19 Programme Governance Framework          COMPLETE / DRAFT v1.0
 20 Legal & Institutional Readiness         COMPLETE / DRAFT v1.0
-21 Organization Documentation Baseline v1.0 NEXT
+21 Organization Documentation Baseline v1.0 COMPLETE / BASELINE DRAFT v1.0
 ```
 
 Task 20 is complete as a Draft v1.0 foundational artifact.
@@ -1666,4 +1666,4 @@ Previous document: [Programme Governance Framework](./PROGRAMME-GOVERNANCE-FRAME
 
 Home: [Documentation Index](./README.md)
 
-Next task: Task 21 - Organization Documentation Baseline v1.0.
+Next document: [Organization Documentation Baseline v1.0](./ORGANIZATION-DOCUMENTATION-BASELINE-V1.0.md).

@@ -891,7 +891,7 @@ AUREX DIGITAL SOLUTIONS
 20 Legal & Institutional Readiness         COMPLETE / DRAFT v1.0
         |
         v
-21 Organization Documentation Baseline v1.0 NEXT
+21 Organization Documentation Baseline v1.0 COMPLETE / BASELINE DRAFT v1.0
 ```
 
 Previous document: [Vision, Mission & Purpose](./VISION-MISSION-PURPOSE.md)
