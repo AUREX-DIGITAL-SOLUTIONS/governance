@@ -1684,8 +1684,8 @@ Task 18 should preserve the discipline that research exists to discover what is 
 17 Partnership & Stakeholder Framework     COMPLETE / DRAFT v1.0
 18 Research & Innovation Framework         COMPLETE / DRAFT v1.0
 19 Programme Governance Framework          COMPLETE / DRAFT v1.0
-20 Legal & Institutional Readiness         NEXT
-21 Organization Documentation Baseline v1.0 PLANNED
+20 Legal & Institutional Readiness         COMPLETE / DRAFT v1.0
+21 Organization Documentation Baseline v1.0 NEXT
 ```
 
 Task 17 is complete as a Draft v1.0 foundational artifact.

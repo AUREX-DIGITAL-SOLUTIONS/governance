@@ -279,7 +279,7 @@ The sign-off means the contributor asserts that they have the right to submit th
 
 It is not merely decorative commit text.
 
-This document does not enable DCO enforcement by itself. Task 20 and repository-specific implementation work should confirm the legal and operational readiness of any enforcement mechanism.
+This document does not enable DCO enforcement by itself. The Legal & Institutional Readiness framework and repository-specific implementation work should confirm the legal and operational readiness of any enforcement mechanism.
 
 ---
 
@@ -1245,7 +1245,7 @@ The next completed artifact is:
 
 [Task 12 - Ethics, Sovereignty & Public-Interest Framework](./ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md)
 
-Task 13 begins the Operations phase through the Risk Management Framework. Task 14 - Operating Model, Task 15 - Organization Roadmap, and Task 16 - Funding & Financial Framework are now complete. Task 17 - Partnership & Stakeholder Framework is now complete as a Draft v1.0 foundational artifact. Task 18 - Research & Innovation Framework is now complete as a Draft v1.0 foundational artifact. Task 19 - Programme Governance Framework is now complete as a Draft v1.0 foundational artifact. Task 20 - Legal & Institutional Readiness is the next step.
+Task 13 begins the Operations phase through the Risk Management Framework. Task 14 - Operating Model, Task 15 - Organization Roadmap, and Task 16 - Funding & Financial Framework are now complete. Task 17 - Partnership & Stakeholder Framework is now complete as a Draft v1.0 foundational artifact. Task 18 - Research & Innovation Framework is now complete as a Draft v1.0 foundational artifact. Task 19 - Programme Governance Framework is now complete as a Draft v1.0 foundational artifact. Task 20 - Legal & Institutional Readiness is now complete as a Draft v1.0 foundational artifact. Task 21 - Organization Documentation Baseline v1.0 is the next step.
 
 ---
 
@@ -1271,8 +1271,8 @@ Task 13 begins the Operations phase through the Risk Management Framework. Task 
 17 Partnership & Stakeholder Framework     COMPLETE / DRAFT v1.0
 18 Research & Innovation Framework         COMPLETE / DRAFT v1.0
 19 Programme Governance Framework          COMPLETE / DRAFT v1.0
-20 Legal & Institutional Readiness         NEXT
-21 Organization Documentation Baseline v1.0 PLANNED
+20 Legal & Institutional Readiness         COMPLETE / DRAFT v1.0
+21 Organization Documentation Baseline v1.0 NEXT
 ```
 
 Task 10 is complete as a Draft v1.0 foundational artifact.

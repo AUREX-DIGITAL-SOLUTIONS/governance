@@ -285,26 +285,26 @@ OPERATING MODEL
 ROADMAP
 ```
 
-Tasks 16-21 will complete the first institutional baseline.
+Tasks 16-20 now complete the documented foundations immediately before the first institutional baseline.
 
 ---
 
 ## 11. Stage 0 - Remaining Work
 
-After Task 15:
+As of Task 20:
 
 ```text
-16 Funding & Financial Framework
-17 Partnership & Stakeholder Framework
-18 Research & Innovation Framework
-19 Programme Governance Framework
-20 Legal & Institutional Readiness
-21 Documentation Baseline v1.0
+16 Funding & Financial Framework          COMPLETE / DRAFT v1.0
+17 Partnership & Stakeholder Framework    COMPLETE / DRAFT v1.0
+18 Research & Innovation Framework        COMPLETE / DRAFT v1.0
+19 Programme Governance Framework         COMPLETE / DRAFT v1.0
+20 Legal & Institutional Readiness        COMPLETE / DRAFT v1.0
+21 Documentation Baseline v1.0            NEXT
 ```
 
 Therefore Aurex should **finish its institutional baseline before declaring the institution-building phase complete**.
 
-The immediate sequencing is clear: complete Tasks 16-21 to establish **Aurex Digital Solutions - Organization Documentation Baseline v1.0**, while research and technical learning can continue in parallel without overstating maturity.
+The immediate sequencing is clear: complete Task 21 to establish **Aurex Digital Solutions - Organization Documentation Baseline v1.0**, while research and technical learning can continue in parallel without overstating maturity.
 
 ---
 
@@ -1007,7 +1007,7 @@ Organizational maturity should remain proportional to programme consequence.
 
 Legal development should progress alongside technical maturity.
 
-Immediate work includes Task 20.
+Task 20 has established the legal and institutional readiness framework. Immediate work now includes Task 21, the documentation baseline.
 
 Later requirements may depend on actual activities and could involve:
 
@@ -1462,14 +1462,14 @@ Aurex should maintain a simple roadmap dashboard:
 
 | Area | Current Position | Next Evidence Gate |
 | --- | --- | --- |
-| Institution | Founder-led, documented foundation in progress | Complete Tasks 16-21 |
+| Institution | Founder-led, documented foundation through Task 20 complete as Draft v1.0 | Complete Task 21 documentation baseline |
 | Research | Thesis and questions identified | Evidence package for Kenyan facility/distributed-energy visibility and coordination gaps |
 | Technology | Facility EMS direction identified | Reproducible research/prototype environment |
 | Programme | No pilot or programme yet claimed | Prototype scope justified by evidence |
-| Partnerships | Learning-stage engagement only | Partnership framework and legitimate stakeholder discovery |
+| Partnerships | Framework complete / Draft v1.0 | Legitimate stakeholder discovery under partnership controls |
 | Funding | Framework complete / Draft v1.0 | Apply Task 16 funding controls and evidence-linked funding logic |
-| Legal | Readiness pending | Task 20 legal and institutional readiness analysis |
-| Documentation | Tasks 1-15 complete as Draft v1.0 | Documentation Baseline v1.0 through Task 21 |
+| Legal | Framework complete / Draft v1.0 | Evidence-backed legal and regulatory readiness register |
+| Documentation | Tasks 1-20 complete as Draft v1.0 | Documentation Baseline v1.0 through Task 21 |
 
 ---
 
@@ -1620,8 +1620,8 @@ Task 17 preserves institutional independence while enabling legitimate collabora
 17 Partnership & Stakeholder Framework     COMPLETE / DRAFT v1.0
 18 Research & Innovation Framework         COMPLETE / DRAFT v1.0
 19 Programme Governance Framework          COMPLETE / DRAFT v1.0
-20 Legal & Institutional Readiness         NEXT
-21 Organization Documentation Baseline v1.0 PLANNED
+20 Legal & Institutional Readiness         COMPLETE / DRAFT v1.0
+21 Organization Documentation Baseline v1.0 NEXT
 ```
 
 Task 15 is complete as a Draft v1.0 foundational artifact.

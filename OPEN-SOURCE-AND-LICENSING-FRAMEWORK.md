@@ -1065,9 +1065,9 @@ But ownership and enforcement ultimately depend on the legal persons or entities
 
 Therefore:
 
-> Final institutional IP ownership arrangements must be reconciled during Task 20 - Legal & Institutional Readiness.
+> Final institutional IP ownership arrangements should be reconciled through the Legal & Institutional Readiness framework and subsequent qualified legal review where consequences warrant it.
 
-Until then, Aurex should avoid making claims that the licensing framework has already settled legal incorporation, ownership assignment, employment IP, contractor IP, or contributor rights questions.
+Aurex should avoid making claims that the licensing framework has already settled legal incorporation, ownership assignment, employment IP, contractor IP, or contributor rights questions without evidence.
 
 ---
 
@@ -1084,7 +1084,7 @@ The recommended initial policy direction is:
 7. Maintain dependency inventory and license-compatibility review as release gates.
 8. Contribute upstream where appropriate rather than creating permanent divergence.
 9. Keep trademarks and official branding controlled even where code is open.
-10. Escalate unresolved ownership, incorporation, contributor, and enforcement questions to Task 20.
+10. Escalate unresolved ownership, incorporation, contributor, and enforcement questions to the Legal & Institutional Readiness Register and qualified review where appropriate.
 
 This is a policy direction, not automatic relicensing.
 
@@ -1168,8 +1168,8 @@ Task 10 converts this licensing direction into a practical participation model.
 17 Partnership & Stakeholder Framework     COMPLETE / DRAFT v1.0
 18 Research & Innovation Framework         COMPLETE / DRAFT v1.0
 19 Programme Governance Framework          COMPLETE / DRAFT v1.0
-20 Legal & Institutional Readiness         NEXT
-21 Organization Documentation Baseline v1.0 PLANNED
+20 Legal & Institutional Readiness         COMPLETE / DRAFT v1.0
+21 Organization Documentation Baseline v1.0 NEXT
 ```
 
 Task 9 is complete as a Draft v1.0 foundational artifact.

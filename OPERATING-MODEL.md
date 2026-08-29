@@ -1648,8 +1648,8 @@ Task 15 preserves stage awareness and avoids inventing departments, approvals, p
 17 Partnership & Stakeholder Framework     COMPLETE / DRAFT v1.0
 18 Research & Innovation Framework         COMPLETE / DRAFT v1.0
 19 Programme Governance Framework          COMPLETE / DRAFT v1.0
-20 Legal & Institutional Readiness         NEXT
-21 Organization Documentation Baseline v1.0 PLANNED
+20 Legal & Institutional Readiness         COMPLETE / DRAFT v1.0
+21 Organization Documentation Baseline v1.0 NEXT
 ```
 
 Task 14 is complete as a Draft v1.0 foundational artifact. Task 15 is now complete as a Draft v1.0 foundational artifact.

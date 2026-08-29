@@ -8,7 +8,7 @@ Its purpose is to advance Africa's transition from fragmented energy infrastruct
 
 Its mission is to research, develop, validate, and steward open, interoperable, secure, intelligence-driven digital energy coordination infrastructure that helps Kenya and other African energy systems become more reliable, resilient, affordable, transparent, flexible, and economically productive.
 
-This documentation set defines the institutional foundation, problem framing, mission architecture, governance path, operating model, programme structure, security posture, external relationship governance, research and innovation discipline, programme governance discipline, and institutional boundaries for Aurex Digital Solutions.
+This documentation set defines the institutional foundation, problem framing, mission architecture, governance path, operating model, programme structure, security posture, external relationship governance, research and innovation discipline, programme governance discipline, legal and institutional readiness, and institutional boundaries for Aurex Digital Solutions.
 
 This README is the authoritative navigation index for the institutional documentation build. It should link only to documents that exist and should not describe planned artifacts as completed.
 
@@ -70,6 +70,9 @@ Research & Innovation Framework
     |
     v
 Programme Governance Framework
+    |
+    v
+Legal & Institutional Readiness
 ```
 
 ## Institutional Build Sequence
@@ -111,10 +114,10 @@ Task 13 begins the Operations phase by converting Aurex's accumulated institutio
 
 ### Phase 5 - Legalization and Documentation Baseline
 
-Task 20 begins the Legalization phase.
+Task 20 begins the Legalization phase by defining the difference between Aurex's internal institutional architecture and the external legal authority required to operate in the real world.
 
-20. Legal & Institutional Readiness - Task 20 - NEXT
-21. Organization Documentation Baseline v1.0 - Task 21 - Planned
+20. [Legal & Institutional Readiness](./LEGAL-AND-INSTITUTIONAL-READINESS.md) - Task 20 - Complete / Draft v1.0
+21. Organization Documentation Baseline v1.0 - Task 21 - NEXT
 
 ## Institutional Boundary
 

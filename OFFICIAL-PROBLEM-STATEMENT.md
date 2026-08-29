@@ -466,6 +466,8 @@ Current build status:
 - Task 17 - Partnership & Stakeholder Framework: Complete/Draft v1.0
 - Task 18 - Research & Innovation Framework: Complete/Draft v1.0
 - Task 19 - Programme Governance Framework: Complete / Draft v1.0
+- Task 20 - Legal & Institutional Readiness: Complete / Draft v1.0
+- Task 21 - Organization Documentation Baseline v1.0: NEXT
 
 Previous: [Founding Thesis](./FOUNDING-THESIS.md)
 

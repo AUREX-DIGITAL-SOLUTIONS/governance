@@ -223,7 +223,7 @@ Aurex = institution + research + open tools + governance + validation + stewards
 
 This document is complete as a Draft v1.0 foundational artifact.
 
-It should be reviewed and refined as later documents define values, conduct, governance, licensing, contribution rules, legal readiness, operating model, programme governance, and validation evidence.
+It should be reviewed and refined as the documentation baseline, legal readiness evidence, operating practice, programme governance, and validation evidence mature.
 
 Current build status:
 
@@ -246,6 +246,8 @@ Current build status:
 - Task 17 - Partnership & Stakeholder Framework: Complete/Draft v1.0
 - Task 18 - Research & Innovation Framework: Complete/Draft v1.0
 - Task 19 - Programme Governance Framework: Complete / Draft v1.0
+- Task 20 - Legal & Institutional Readiness: Complete / Draft v1.0
+- Task 21 - Organization Documentation Baseline v1.0: NEXT
 
 Previous document: [Official Problem Statement](./OFFICIAL-PROBLEM-STATEMENT.md)
 

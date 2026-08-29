@@ -6,7 +6,7 @@
 **Institution:** Aurex Digital Solutions  
 **Phase:** External / Institutional Development  
 **Scope:** Programme initiation, governance, ownership, decision rights, resources, risk, assurance, delivery, transition and closure  
-**Navigation:** [Previous: Research & Innovation Framework](./RESEARCH-AND-INNOVATION-FRAMEWORK.md) | [Home: Documentation Index](./README.md) | Next task: Task 20 - Legal & Institutional Readiness
+**Navigation:** [Previous: Research & Innovation Framework](./RESEARCH-AND-INNOVATION-FRAMEWORK.md) | [Home: Documentation Index](./README.md) | [Next: Legal & Institutional Readiness](./LEGAL-AND-INSTITUTIONAL-READINESS.md)
 
 Task 18 established how Aurex turns uncertainty into evidence and validated technical understanding.
 
@@ -1889,20 +1889,16 @@ Task 19 connects those frameworks to programme governance practice.
 
 ---
 
-## 102. What Task 20 Must Solve
+## 102. Legal and Institutional Readiness Handoff
 
 Task 19 defines how Aurex governs programmes.
 
-Task 20 must define Aurex's legal and institutional readiness.
+Task 20 defines Aurex's legal and institutional readiness in the [Legal & Institutional Readiness](./LEGAL-AND-INSTITUTIONAL-READINESS.md) framework.
 
-Therefore the next artifact is:
+That framework answers:
 
-**Task 20 - Legal & Institutional Readiness**
-
-It should answer:
-
-- what legal form or institutional pathway is appropriate;
-- what registration, governance and compliance steps are required;
+- what legal form or institutional pathway requires assessment;
+- what registration, governance and compliance steps require evidence;
 - how legal authority differs from programme authority;
 - how contracts, MOUs and partnership instruments should be handled;
 - how data, IP, liability, insurance and regulatory obligations should be reviewed;
@@ -1936,8 +1932,8 @@ Task 20 should preserve the rule that programme ambition does not create legal s
 17 Partnership & Stakeholder Framework     COMPLETE / DRAFT v1.0
 18 Research & Innovation Framework         COMPLETE / DRAFT v1.0
 19 Programme Governance Framework          COMPLETE / DRAFT v1.0
-20 Legal & Institutional Readiness         NEXT
-21 Organization Documentation Baseline v1.0 PLANNED
+20 Legal & Institutional Readiness         COMPLETE / DRAFT v1.0
+21 Organization Documentation Baseline v1.0 NEXT
 ```
 
 Task 19 is complete as a Draft v1.0 foundational artifact.
@@ -1946,4 +1942,4 @@ Previous document: [Research & Innovation Framework](./RESEARCH-AND-INNOVATION-F
 
 Home: [Documentation Index](./README.md)
 
-Next task: Task 20 - Legal & Institutional Readiness.
+Next document: [Legal & Institutional Readiness](./LEGAL-AND-INSTITUTIONAL-READINESS.md).

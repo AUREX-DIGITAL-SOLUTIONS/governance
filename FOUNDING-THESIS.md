@@ -308,7 +308,7 @@ The founding thesis is informed by current public energy context, including:
 - EPRA statistics publications tracking Kenya's electricity, petroleum, and renewable-energy subsectors: <https://www.epra.go.ke/index.php/statistics-0>
 - Kenya Energy Transition and Investment Plan materials describing Kenya's long-term energy-transition investment requirements: <https://www.seforall.org/our-work/initiatives-projects/energy-transition-plans/kenya>
 
-These notes are context references, not a substitute for a fully cited problem statement. The next document should turn these into formal evidence-backed claims.
+These notes are context references, not a substitute for a fully cited problem statement or current legal/regulatory verification.
 
 ## 17. Document Status and Navigation
 
@@ -335,6 +335,8 @@ Current build status:
 - Task 17 - Partnership & Stakeholder Framework: Complete/Draft v1.0
 - Task 18 - Research & Innovation Framework: Complete/Draft v1.0
 - Task 19 - Programme Governance Framework: Complete / Draft v1.0
+- Task 20 - Legal & Institutional Readiness: Complete / Draft v1.0
+- Task 21 - Organization Documentation Baseline v1.0: NEXT
 
 Home: [Documentation Index](./README.md)
 

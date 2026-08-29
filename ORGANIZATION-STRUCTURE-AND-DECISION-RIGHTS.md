@@ -1272,10 +1272,10 @@ AUREX DIGITAL SOLUTIONS
 19 Programme Governance Framework          COMPLETE / DRAFT v1.0
         |
         v
-20 Legal & Institutional Readiness         NEXT
+20 Legal & Institutional Readiness         COMPLETE / DRAFT v1.0
         |
         v
-21 Organization Documentation Baseline v1.0 PLANNED
+21 Organization Documentation Baseline v1.0 NEXT
 ```
 
 Task 8 is complete as a Draft v1.0 foundational artifact.
