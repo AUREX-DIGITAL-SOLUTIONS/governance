@@ -6,7 +6,7 @@
 **Institution:** Aurex Digital Solutions  
 **Phase:** Operations  
 **Scope:** Institutional development, capability building, programme progression and evidence-gated growth  
-**Navigation:** [Previous: Operating Model](./OPERATING-MODEL.md) | [Home: Documentation Index](./README.md) | Next task: Task 16 - Funding & Financial Framework
+**Navigation:** [Previous: Operating Model](./OPERATING-MODEL.md) | [Home: Documentation Index](./README.md) | [Next: Funding & Financial Framework](./FUNDING-AND-FINANCIAL-FRAMEWORK.md)
 
 Task 14 established **how Aurex operates**.
 
@@ -1050,7 +1050,7 @@ SCALE
 
 Different capital may suit different stages.
 
-Task 16 will define the financial framework.
+Task 16 defines the financial framework.
 
 ---
 
@@ -1467,7 +1467,7 @@ Aurex should maintain a simple roadmap dashboard:
 | Technology | Facility EMS direction identified | Reproducible research/prototype environment |
 | Programme | No pilot or programme yet claimed | Prototype scope justified by evidence |
 | Partnerships | Learning-stage engagement only | Partnership framework and legitimate stakeholder discovery |
-| Funding | Framework pending | Task 16 funding controls and evidence-linked funding logic |
+| Funding | Framework complete / Draft v1.0 | Apply Task 16 funding controls and evidence-linked funding logic |
 | Legal | Readiness pending | Task 20 legal and institutional readiness analysis |
 | Documentation | Tasks 1-15 complete as Draft v1.0 | Documentation Baseline v1.0 through Task 21 |
 
@@ -1573,28 +1573,28 @@ If any element is missing, the appropriate response is to build it, reduce scope
 
 ---
 
-## 73. What Task 16 Must Solve
+## 73. Relationship to Task 16 and Next Step
 
 Task 15 defines what Aurex should build next and how advancement should be gated.
 
-Task 16 must define how Aurex governs money.
+[Task 16 - Funding & Financial Framework](./FUNDING-AND-FINANCIAL-FRAMEWORK.md) now defines how Aurex governs money, funding, resource stewardship, financial risk and institutional sustainability.
+
+Task 17 must now define how Aurex governs partnerships and stakeholder relationships.
 
 Therefore the next artifact is:
 
-**Task 16 - Funding & Financial Framework**
+**Task 17 - Partnership & Stakeholder Framework**
 
 It should answer:
 
-- what funding Aurex may pursue at different stages;
-- how funding remains tied to evidence and mission;
-- how financial authority is assigned;
-- how budgets, spending and approvals work;
-- how conflicts of interest are managed;
-- how grants, donations, investment, revenue and programme funds are treated;
-- how financial transparency and accountability are maintained;
-- how Aurex avoids funding that distorts institutional truth or public-interest obligations.
+- who Aurex may partner with;
+- how stakeholder relationships are identified and prioritized;
+- how external support remains mission-aligned;
+- how partnership authority, representation and endorsement are controlled;
+- how conflicts, dependencies and sovereignty risks are managed;
+- how partner contributions, including funding and in-kind support, remain accountable.
 
-Task 16 should keep financial ambition proportional to evidence and institutional readiness.
+Task 17 should preserve institutional independence while enabling legitimate collaboration.
 
 ---
 
@@ -1616,8 +1616,8 @@ Task 16 should keep financial ambition proportional to evidence and institutiona
 13 Risk Management Framework               COMPLETE / DRAFT v1.0
 14 Operating Model                         COMPLETE / DRAFT v1.0
 15 Organization Roadmap                    COMPLETE / DRAFT v1.0
-16 Funding & Financial Framework           NEXT
-17 Partnership & Stakeholder Framework     PLANNED
+16 Funding & Financial Framework           COMPLETE / DRAFT v1.0
+17 Partnership & Stakeholder Framework     NEXT
 18 Research & Innovation Framework         PLANNED
 19 Programme Governance Framework          PLANNED
 20 Legal & Institutional Readiness         PLANNED
@@ -1630,4 +1630,4 @@ Previous document: [Operating Model](./OPERATING-MODEL.md)
 
 Home: [Documentation Index](./README.md)
 
-Next task: Task 16 - Funding & Financial Framework.
+Next document: [Funding & Financial Framework](./FUNDING-AND-FINANCIAL-FRAMEWORK.md).

@@ -58,6 +58,9 @@ Operating Model
     |
     v
 Organization Roadmap
+    |
+    v
+Funding & Financial Framework
 ```
 
 ## Institutional Build Sequence
@@ -84,13 +87,13 @@ Task 12 completes the initial Technical Governance phase.
 
 ### Phase 3 - Operations and Institutional Development
 
-Task 13 begins the Operations phase by converting Aurex's accumulated institutional, technical, programme, financial, operational and external exposure into a formal risk-management discipline. Task 15 now defines the evidence-gated path from institutional foundation toward validation, prototype, pilot, programme and scale.
+Task 13 begins the Operations phase by converting Aurex's accumulated institutional, technical, programme, financial, operational and external exposure into a formal risk-management discipline. Task 15 defines the evidence-gated path from institutional foundation toward validation, prototype, pilot, programme and scale. Task 16 begins the External / Institutional Development layer by defining funding strategy, financial governance, resource stewardship and institutional sustainability.
 
 13. [Risk Management Framework](./RISK-MANAGEMENT-FRAMEWORK.md) - Task 13 - Complete / Draft v1.0
 14. [Operating Model](./OPERATING-MODEL.md) - Task 14 - Complete / Draft v1.0
 15. [Organization Roadmap](./ORGANIZATION-ROADMAP.md) - Task 15 - Complete / Draft v1.0
-16. Funding & Financial Framework - Task 16 - NEXT
-17. Partnership & Stakeholder Framework - Task 17 - Planned
+16. [Funding & Financial Framework](./FUNDING-AND-FINANCIAL-FRAMEWORK.md) - Task 16 - Complete / Draft v1.0
+17. Partnership & Stakeholder Framework - Task 17 - NEXT
 18. Research & Innovation Framework - Task 18 - Planned
 
 ### Phase 4 - Programme Governance, Legal Readiness, and Baseline

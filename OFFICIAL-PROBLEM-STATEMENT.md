@@ -462,7 +462,8 @@ Current build status:
 - Task 13 - Risk Management Framework: Complete/Draft v1.0
 - Task 14 - Operating Model: Complete/Draft v1.0
 - Task 15 - Organization Roadmap: Complete/Draft v1.0
-- Task 16 - Funding & Financial Framework: Next
+- Task 16 - Funding & Financial Framework: Complete/Draft v1.0
+- Task 17 - Partnership & Stakeholder Framework: Next
 
 Previous: [Founding Thesis](./FOUNDING-THESIS.md)
 

@@ -743,7 +743,7 @@ EXTRAORDINARY
 
 Do not invent monetary thresholds yet.
 
-Task 16 should define them based on actual finances, legal structure, funding conditions, and internal controls.
+Task 16 defines financial controls based on actual finances, legal structure, funding conditions, and internal controls.
 
 Until then, financial decisions should be documented, proportionate, and tied to legitimate institutional purpose.
 
@@ -1260,10 +1260,10 @@ AUREX DIGITAL SOLUTIONS
 15 Organization Roadmap                    COMPLETE / DRAFT v1.0
         |
         v
-16 Funding & Financial Framework           NEXT
+16 Funding & Financial Framework           COMPLETE / DRAFT v1.0
         |
         v
-17 Partnership & Stakeholder Framework     PLANNED
+17 Partnership & Stakeholder Framework     NEXT
         |
         v
 18 Research & Innovation Framework         PLANNED

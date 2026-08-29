@@ -613,7 +613,7 @@ Future financial governance should establish controls relating to:
 
 The Charter establishes the obligation.
 
-Task 16 will define the detailed framework.
+Task 16 defines the detailed Funding & Financial Framework.
 
 ---
 
@@ -849,7 +849,7 @@ It defines:
 
 [Task 10 - Contributing Framework](./CONTRIBUTING-FRAMEWORK.md), [Task 11 - Security & Responsible Technology Policy](./SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md), and [Task 12 - Ethics, Sovereignty & Public-Interest Framework](./ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md) now complete the initial Technical Governance phase.
 
-Task 13 begins the Operations phase through the Risk Management Framework. Task 14 - Operating Model and Task 15 - Organization Roadmap are now complete, and Task 16 - Funding & Financial Framework is the next step.
+Task 13 begins the Operations phase through the Risk Management Framework. Task 14 - Operating Model, Task 15 - Organization Roadmap, and Task 16 - Funding & Financial Framework are now complete. Task 17 - Partnership & Stakeholder Framework is the next step.
 
 ---
 
@@ -871,8 +871,8 @@ Task 13 begins the Operations phase through the Risk Management Framework. Task 
 13 Risk Management Framework               COMPLETE / DRAFT v1.0
 14 Operating Model                         COMPLETE / DRAFT v1.0
 15 Organization Roadmap                    COMPLETE / DRAFT v1.0
-16 Funding & Financial Framework           NEXT
-17 Partnership & Stakeholder Framework     PLANNED
+16 Funding & Financial Framework           COMPLETE / DRAFT v1.0
+17 Partnership & Stakeholder Framework     NEXT
 18 Research & Innovation Framework         PLANNED
 19 Programme Governance Framework          PLANNED
 20 Legal & Institutional Readiness         PLANNED

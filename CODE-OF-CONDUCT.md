@@ -637,10 +637,10 @@ AUREX DIGITAL SOLUTIONS
 15 Organization Roadmap                    COMPLETE / DRAFT v1.0
         |
         v
-16 Funding & Financial Framework           NEXT
+16 Funding & Financial Framework           COMPLETE / DRAFT v1.0
         |
         v
-17 Partnership & Stakeholder Framework     PLANNED
+17 Partnership & Stakeholder Framework     NEXT
         |
         v
 18 Research & Innovation Framework         PLANNED

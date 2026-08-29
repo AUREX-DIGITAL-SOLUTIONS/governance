@@ -1164,8 +1164,8 @@ Task 10 converts this licensing direction into a practical participation model.
 13 Risk Management Framework               COMPLETE / DRAFT v1.0
 14 Operating Model                         COMPLETE / DRAFT v1.0
 15 Organization Roadmap                    COMPLETE / DRAFT v1.0
-16 Funding & Financial Framework           NEXT
-17 Partnership & Stakeholder Framework     PLANNED
+16 Funding & Financial Framework           COMPLETE / DRAFT v1.0
+17 Partnership & Stakeholder Framework     NEXT
 18 Research & Innovation Framework         PLANNED
 19 Programme Governance Framework          PLANNED
 20 Legal & Institutional Readiness         PLANNED
