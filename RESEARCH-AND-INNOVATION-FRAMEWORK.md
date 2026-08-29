@@ -6,7 +6,7 @@
 **Institution:** Aurex Digital Solutions  
 **Phase:** External / Institutional Development  
 **Scope:** Research governance, evidence generation, experimentation, innovation, technology validation and institutional learning  
-**Navigation:** [Previous: Partnership & Stakeholder Framework](./PARTNERSHIP-AND-STAKEHOLDER-FRAMEWORK.md) | [Home: Documentation Index](./README.md) | Next task: Task 19 - Programme Governance Framework
+**Navigation:** [Previous: Partnership & Stakeholder Framework](./PARTNERSHIP-AND-STAKEHOLDER-FRAMEWORK.md) | [Home: Documentation Index](./README.md) | [Next: Programme Governance Framework](./PROGRAMME-GOVERNANCE-FRAMEWORK.md)
 
 Task 17 established how Aurex learns from and collaborates with its external ecosystem.
 
@@ -1065,7 +1065,7 @@ RISK UNDERSTANDING
 PROGRAMME DECISION
 ```
 
-Task 19 will govern the programme itself.
+Task 19 governs the programme itself.
 
 ---
 
@@ -1934,17 +1934,13 @@ Task 18 connects those frameworks to research and innovation practice.
 
 ---
 
-## 99. What Task 19 Must Solve
+## 99. Programme Governance Handoff
 
 Task 18 defines how Aurex governs research and innovation.
 
-Task 19 must define how Aurex governs programmes.
+Task 19 now defines how Aurex governs programmes through the [Programme Governance Framework](./PROGRAMME-GOVERNANCE-FRAMEWORK.md).
 
-Therefore the next artifact is:
-
-**Task 19 - Programme Governance Framework**
-
-It should answer:
+That framework answers:
 
 - how a research finding becomes a programme concept;
 - how programmes are authorized;
@@ -1955,7 +1951,7 @@ It should answer:
 - how Facility EMS, regional DERMS and national-scale programme ideas progress without collapsing evidence stages;
 - how programmes can stop, pivot or scale based on evidence.
 
-Task 19 should preserve the rule that a programme exists to deliver an authorized institutional objective, not to force a preferred technology into the world.
+Task 19 preserves the rule that a programme exists to deliver an authorized institutional objective, not to force a preferred technology into the world.
 
 ---
 
@@ -1980,8 +1976,8 @@ Task 19 should preserve the rule that a programme exists to deliver an authorize
 16 Funding & Financial Framework           COMPLETE / DRAFT v1.0
 17 Partnership & Stakeholder Framework     COMPLETE / DRAFT v1.0
 18 Research & Innovation Framework         COMPLETE / DRAFT v1.0
-19 Programme Governance Framework          NEXT
-20 Legal & Institutional Readiness         PLANNED
+19 Programme Governance Framework          COMPLETE / DRAFT v1.0
+20 Legal & Institutional Readiness         NEXT
 21 Organization Documentation Baseline v1.0 PLANNED
 ```
 
@@ -1991,5 +1987,5 @@ Previous document: [Partnership & Stakeholder Framework](./PARTNERSHIP-AND-STAKE
 
 Home: [Documentation Index](./README.md)
 
-Next task: Task 19 - Programme Governance Framework.
+Next document: [Programme Governance Framework](./PROGRAMME-GOVERNANCE-FRAMEWORK.md).
 

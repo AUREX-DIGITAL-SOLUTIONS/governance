@@ -334,7 +334,7 @@ Current build status:
 - Task 16 - Funding & Financial Framework: Complete/Draft v1.0
 - Task 17 - Partnership & Stakeholder Framework: Complete/Draft v1.0
 - Task 18 - Research & Innovation Framework: Complete/Draft v1.0
-- Task 19 - Programme Governance Framework: Next
+- Task 19 - Programme Governance Framework: Complete / Draft v1.0
 
 Home: [Documentation Index](./README.md)
 

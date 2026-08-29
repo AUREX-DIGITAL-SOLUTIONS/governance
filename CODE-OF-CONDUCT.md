@@ -646,10 +646,10 @@ AUREX DIGITAL SOLUTIONS
 18 Research & Innovation Framework         COMPLETE / DRAFT v1.0
         |
         v
-19 Programme Governance Framework          NEXT
+19 Programme Governance Framework          COMPLETE / DRAFT v1.0
         |
         v
-20 Legal & Institutional Readiness         PLANNED
+20 Legal & Institutional Readiness         NEXT
         |
         v
 21 Organization Documentation Baseline v1.0 PLANNED

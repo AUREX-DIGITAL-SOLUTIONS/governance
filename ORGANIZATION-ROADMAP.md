@@ -1293,7 +1293,7 @@ PROGRAMME PROPOSAL
 PROGRAMME GOVERNANCE
 ```
 
-Task 19 will define programme governance in detail.
+Task 19 defines programme governance in detail.
 
 ---
 
@@ -1619,8 +1619,8 @@ Task 17 preserves institutional independence while enabling legitimate collabora
 16 Funding & Financial Framework           COMPLETE / DRAFT v1.0
 17 Partnership & Stakeholder Framework     COMPLETE / DRAFT v1.0
 18 Research & Innovation Framework         COMPLETE / DRAFT v1.0
-19 Programme Governance Framework          NEXT
-20 Legal & Institutional Readiness         PLANNED
+19 Programme Governance Framework          COMPLETE / DRAFT v1.0
+20 Legal & Institutional Readiness         NEXT
 21 Organization Documentation Baseline v1.0 PLANNED
 ```
 

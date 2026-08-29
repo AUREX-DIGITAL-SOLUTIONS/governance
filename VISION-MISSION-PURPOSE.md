@@ -162,17 +162,17 @@ Aurex Digital Solutions should remain technology-neutral at the institutional le
 
 The institution should not define itself around a single system category such as DERMS, EMS, AI, blockchain, smart meters, OpenEMS, microgrids, or the National Energy Operating System.
 
-Those may become tools, components, methods, or programmes. They are not the institution itself.
+Those may become tools, components, methods, programme concepts, or authorized programmes if evidence and authority justify that status. They are not the institution itself.
 
 The durable institutional commitment is to open, interoperable, secure, evidence-based digital energy coordination infrastructure.
 
-## 12. Relationship Between Aurex And The National Energy Operating System Programme
+## 12. Relationship Between Aurex And The Energy Operating System Vision
 
-The National Energy Operating System, or NEOS, should be treated as a programme under Aurex Digital Solutions, not as the institution itself.
+The Energy Operating System vision, including any National Energy Operating System or NEOS concept, should be treated as a long-term architectural and institutional direction under Aurex Digital Solutions, not as the institution itself.
 
 Aurex Digital Solutions is the institutional home.
 
-NEOS is a possible long-term programme that may emerge from Aurex's research, validation, governance, and partnership work.
+NEOS is a possible long-term programme concept that may emerge from Aurex's research, validation, governance, and partnership work if evidence, legal readiness, governance, cybersecurity maturity, public-sector engagement, and operational authorization justify that status.
 
 This distinction protects institutional clarity:
 
@@ -183,12 +183,12 @@ Aurex Digital Solutions
         +-- Governance and operating model
         +-- Research and validation agenda
         +-- Open digital energy tools
-        +-- Programme portfolio
+        +-- Programme concepts and future programme portfolio
                 |
-                +-- National Energy Operating System programme
+                +-- National Energy Operating System concept / potential programme
 ```
 
-NEOS should not be presented as an already deployed national platform. It should be framed as a programme concept requiring staged development, evidence, legal readiness, governance, cybersecurity maturity, public-sector engagement, and operational authorization before any national-scale claims are made.
+NEOS should not be presented as an already deployed national platform, authorized programme, regulatory function, utility function, or operating authority. It should be framed as a long-term programme concept requiring staged development, evidence, legal readiness, governance, cybersecurity maturity, public-sector engagement, and operational authorization before any national-scale claims are made.
 
 ## 13. Public-Facing Short Form
 
@@ -245,7 +245,7 @@ Current build status:
 - Task 16 - Funding & Financial Framework: Complete/Draft v1.0
 - Task 17 - Partnership & Stakeholder Framework: Complete/Draft v1.0
 - Task 18 - Research & Innovation Framework: Complete/Draft v1.0
-- Task 19 - Programme Governance Framework: Next
+- Task 19 - Programme Governance Framework: Complete / Draft v1.0
 
 Previous document: [Official Problem Statement](./OFFICIAL-PROBLEM-STATEMENT.md)
 

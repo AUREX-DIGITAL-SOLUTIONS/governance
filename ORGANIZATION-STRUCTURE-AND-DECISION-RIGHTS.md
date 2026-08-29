@@ -959,11 +959,11 @@ Example:
 
 ### Programme
 
-Pursues a defined mission outcome.
+Pursues a defined mission outcome when authorized through governance.
 
 Example:
 
-**National Energy Operating System**
+**Facility EMS validation programme or future National Energy Operating System programme concept**
 
 Therefore:
 
@@ -972,7 +972,7 @@ ENGINEERING
 can serve
       |
       v
-NEOS
+AUTHORIZED PROGRAMME OR PROGRAMME CONCEPT
       +
 Future Programme A
       +
@@ -1269,10 +1269,10 @@ AUREX DIGITAL SOLUTIONS
 18 Research & Innovation Framework         COMPLETE / DRAFT v1.0
         |
         v
-19 Programme Governance Framework          NEXT
+19 Programme Governance Framework          COMPLETE / DRAFT v1.0
         |
         v
-20 Legal & Institutional Readiness         PLANNED
+20 Legal & Institutional Readiness         NEXT
         |
         v
 21 Organization Documentation Baseline v1.0 PLANNED

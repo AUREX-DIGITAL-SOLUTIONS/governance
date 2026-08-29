@@ -1193,8 +1193,8 @@ Task 9, [Open-Source & Licensing Framework](./OPEN-SOURCE-AND-LICENSING-FRAMEWOR
 16 Funding & Financial Framework           COMPLETE / DRAFT v1.0
 17 Partnership & Stakeholder Framework     COMPLETE / DRAFT v1.0
 18 Research & Innovation Framework         COMPLETE / DRAFT v1.0
-19 Programme Governance Framework          NEXT
-20 Legal & Institutional Readiness         PLANNED
+19 Programme Governance Framework          COMPLETE / DRAFT v1.0
+20 Legal & Institutional Readiness         NEXT
 21 Organization Documentation Baseline v1.0 PLANNED
 ```
 
