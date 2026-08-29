@@ -643,10 +643,10 @@ AUREX DIGITAL SOLUTIONS
 17 Partnership & Stakeholder Framework     COMPLETE / DRAFT v1.0
         |
         v
-18 Research & Innovation Framework         NEXT
+18 Research & Innovation Framework         COMPLETE / DRAFT v1.0
         |
         v
-19 Programme Governance Framework          PLANNED
+19 Programme Governance Framework          NEXT
         |
         v
 20 Legal & Institutional Readiness         PLANNED

@@ -1166,8 +1166,8 @@ Task 10 converts this licensing direction into a practical participation model.
 15 Organization Roadmap                    COMPLETE / DRAFT v1.0
 16 Funding & Financial Framework           COMPLETE / DRAFT v1.0
 17 Partnership & Stakeholder Framework     COMPLETE / DRAFT v1.0
-18 Research & Innovation Framework         NEXT
-19 Programme Governance Framework          PLANNED
+18 Research & Innovation Framework         COMPLETE / DRAFT v1.0
+19 Programme Governance Framework          NEXT
 20 Legal & Institutional Readiness         PLANNED
 21 Organization Documentation Baseline v1.0 PLANNED
 ```

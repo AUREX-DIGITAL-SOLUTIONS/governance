@@ -849,7 +849,7 @@ It defines:
 
 [Task 10 - Contributing Framework](./CONTRIBUTING-FRAMEWORK.md), [Task 11 - Security & Responsible Technology Policy](./SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md), and [Task 12 - Ethics, Sovereignty & Public-Interest Framework](./ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md) now complete the initial Technical Governance phase.
 
-Task 13 begins the Operations phase through the Risk Management Framework. Task 14 - Operating Model, Task 15 - Organization Roadmap, and Task 16 - Funding & Financial Framework are now complete. Task 17 - Partnership & Stakeholder Framework is now complete as a Draft v1.0 foundational artifact. Task 18 - Research & Innovation Framework is the next step.
+Task 13 begins the Operations phase through the Risk Management Framework. Task 14 - Operating Model, Task 15 - Organization Roadmap, and Task 16 - Funding & Financial Framework are now complete. Task 17 - Partnership & Stakeholder Framework is now complete as a Draft v1.0 foundational artifact. Task 18 - Research & Innovation Framework is now complete as a Draft v1.0 foundational artifact. Task 19 - Programme Governance Framework is the next step.
 
 ---
 
@@ -873,8 +873,8 @@ Task 13 begins the Operations phase through the Risk Management Framework. Task 
 15 Organization Roadmap                    COMPLETE / DRAFT v1.0
 16 Funding & Financial Framework           COMPLETE / DRAFT v1.0
 17 Partnership & Stakeholder Framework     COMPLETE / DRAFT v1.0
-18 Research & Innovation Framework         NEXT
-19 Programme Governance Framework          PLANNED
+18 Research & Innovation Framework         COMPLETE / DRAFT v1.0
+19 Programme Governance Framework          NEXT
 20 Legal & Institutional Readiness         PLANNED
 21 Organization Documentation Baseline v1.0 PLANNED
 ```

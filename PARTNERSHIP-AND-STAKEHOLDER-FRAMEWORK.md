@@ -6,7 +6,7 @@
 **Institution:** Aurex Digital Solutions  
 **Phase:** External / Institutional Development  
 **Scope:** Stakeholder identification, engagement, collaboration, partnership governance and institutional relationship management  
-**Navigation:** [Previous: Funding & Financial Framework](./FUNDING-AND-FINANCIAL-FRAMEWORK.md) | [Home: Documentation Index](./README.md) | Next task: Task 18 - Research & Innovation Framework
+**Navigation:** [Previous: Funding & Financial Framework](./FUNDING-AND-FINANCIAL-FRAMEWORK.md) | [Home: Documentation Index](./README.md) | [Next: Research & Innovation Framework](./RESEARCH-AND-INNOVATION-FRAMEWORK.md)
 
 Task 16 established how Aurex governs **capital and financial relationships**.
 
@@ -1682,8 +1682,8 @@ Task 18 should preserve the discipline that research exists to discover what is 
 15 Organization Roadmap                    COMPLETE / DRAFT v1.0
 16 Funding & Financial Framework           COMPLETE / DRAFT v1.0
 17 Partnership & Stakeholder Framework     COMPLETE / DRAFT v1.0
-18 Research & Innovation Framework         NEXT
-19 Programme Governance Framework          PLANNED
+18 Research & Innovation Framework         COMPLETE / DRAFT v1.0
+19 Programme Governance Framework          NEXT
 20 Legal & Institutional Readiness         PLANNED
 21 Organization Documentation Baseline v1.0 PLANNED
 ```
@@ -1694,4 +1694,4 @@ Previous document: [Funding & Financial Framework](./FUNDING-AND-FINANCIAL-FRAME
 
 Home: [Documentation Index](./README.md)
 
-Next task: Task 18 - Research & Innovation Framework.
+Next document: [Research & Innovation Framework](./RESEARCH-AND-INNOVATION-FRAMEWORK.md).
