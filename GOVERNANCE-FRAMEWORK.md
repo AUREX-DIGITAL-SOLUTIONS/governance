@@ -1191,8 +1191,8 @@ Task 9, [Open-Source & Licensing Framework](./OPEN-SOURCE-AND-LICENSING-FRAMEWOR
 14 Operating Model                         COMPLETE / DRAFT v1.0
 15 Organization Roadmap                    COMPLETE / DRAFT v1.0
 16 Funding & Financial Framework           COMPLETE / DRAFT v1.0
-17 Partnership & Stakeholder Framework     NEXT
-18 Research & Innovation Framework         PLANNED
+17 Partnership & Stakeholder Framework     COMPLETE / DRAFT v1.0
+18 Research & Innovation Framework         NEXT
 19 Programme Governance Framework          PLANNED
 20 Legal & Institutional Readiness         PLANNED
 21 Organization Documentation Baseline v1.0 PLANNED

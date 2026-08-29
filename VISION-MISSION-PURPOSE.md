@@ -243,7 +243,8 @@ Current build status:
 - Task 14 - Operating Model: Complete/Draft v1.0
 - Task 15 - Organization Roadmap: Complete/Draft v1.0
 - Task 16 - Funding & Financial Framework: Complete/Draft v1.0
-- Task 17 - Partnership & Stakeholder Framework: Next
+- Task 17 - Partnership & Stakeholder Framework: Complete/Draft v1.0
+- Task 18 - Research & Innovation Framework: Next
 
 Previous document: [Official Problem Statement](./OFFICIAL-PROBLEM-STATEMENT.md)
 

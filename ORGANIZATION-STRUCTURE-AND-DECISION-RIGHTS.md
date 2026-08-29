@@ -1263,10 +1263,10 @@ AUREX DIGITAL SOLUTIONS
 16 Funding & Financial Framework           COMPLETE / DRAFT v1.0
         |
         v
-17 Partnership & Stakeholder Framework     NEXT
+17 Partnership & Stakeholder Framework     COMPLETE / DRAFT v1.0
         |
         v
-18 Research & Innovation Framework         PLANNED
+18 Research & Innovation Framework         NEXT
         |
         v
 19 Programme Governance Framework          PLANNED

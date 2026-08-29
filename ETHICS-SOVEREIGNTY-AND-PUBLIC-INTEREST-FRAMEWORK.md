@@ -661,7 +661,7 @@ For material partnerships, Aurex should ask:
 8. Are there conflicts of interest?
 9. Could the partnership compromise institutional independence?
 
-Task 17 will formalize partnership governance.
+Task 17 formalizes partnership governance.
 
 ---
 
@@ -1240,8 +1240,8 @@ Task 13 begins the Operations phase.
 14 Operating Model                         COMPLETE / DRAFT v1.0
 15 Organization Roadmap                    COMPLETE / DRAFT v1.0
 16 Funding & Financial Framework           COMPLETE / DRAFT v1.0
-17 Partnership & Stakeholder Framework     NEXT
-18 Research & Innovation Framework         PLANNED
+17 Partnership & Stakeholder Framework     COMPLETE / DRAFT v1.0
+18 Research & Innovation Framework         NEXT
 19 Programme Governance Framework          PLANNED
 20 Legal & Institutional Readiness         PLANNED
 21 Organization Documentation Baseline v1.0 PLANNED

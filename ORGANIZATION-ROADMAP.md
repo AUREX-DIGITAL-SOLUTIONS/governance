@@ -1087,7 +1087,7 @@ Later partnerships may involve:
 - infrastructure integration;
 - programme delivery.
 
-Task 17 will govern these relationships.
+Task 17 governs these relationships.
 
 ---
 
@@ -1579,11 +1579,11 @@ Task 15 defines what Aurex should build next and how advancement should be gated
 
 [Task 16 - Funding & Financial Framework](./FUNDING-AND-FINANCIAL-FRAMEWORK.md) now defines how Aurex governs money, funding, resource stewardship, financial risk and institutional sustainability.
 
-Task 17 must now define how Aurex governs partnerships and stakeholder relationships.
+Task 17 now defines how Aurex governs partnerships and stakeholder relationships.
 
-Therefore the next artifact is:
+The next completed artifact is:
 
-**Task 17 - Partnership & Stakeholder Framework**
+[Task 17 - Partnership & Stakeholder Framework](./PARTNERSHIP-AND-STAKEHOLDER-FRAMEWORK.md)
 
 It should answer:
 
@@ -1594,7 +1594,7 @@ It should answer:
 - how conflicts, dependencies and sovereignty risks are managed;
 - how partner contributions, including funding and in-kind support, remain accountable.
 
-Task 17 should preserve institutional independence while enabling legitimate collaboration.
+Task 17 preserves institutional independence while enabling legitimate collaboration.
 
 ---
 
@@ -1617,8 +1617,8 @@ Task 17 should preserve institutional independence while enabling legitimate col
 14 Operating Model                         COMPLETE / DRAFT v1.0
 15 Organization Roadmap                    COMPLETE / DRAFT v1.0
 16 Funding & Financial Framework           COMPLETE / DRAFT v1.0
-17 Partnership & Stakeholder Framework     NEXT
-18 Research & Innovation Framework         PLANNED
+17 Partnership & Stakeholder Framework     COMPLETE / DRAFT v1.0
+18 Research & Innovation Framework         NEXT
 19 Programme Governance Framework          PLANNED
 20 Legal & Institutional Readiness         PLANNED
 21 Organization Documentation Baseline v1.0 PLANNED

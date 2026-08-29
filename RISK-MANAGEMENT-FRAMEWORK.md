@@ -466,7 +466,7 @@ Partnerships may introduce:
 - IP disputes;
 - financial obligations.
 
-Task 17 will formalize partnership governance.
+Task 17 formalizes partnership governance.
 
 ---
 
@@ -1491,8 +1491,8 @@ Task 14 remains stage-aware and does not invent a mature operating bureaucracy b
 14 Operating Model                         COMPLETE / DRAFT v1.0
 15 Organization Roadmap                    COMPLETE / DRAFT v1.0
 16 Funding & Financial Framework           COMPLETE / DRAFT v1.0
-17 Partnership & Stakeholder Framework     NEXT
-18 Research & Innovation Framework         PLANNED
+17 Partnership & Stakeholder Framework     COMPLETE / DRAFT v1.0
+18 Research & Innovation Framework         NEXT
 19 Programme Governance Framework          PLANNED
 20 Legal & Institutional Readiness         PLANNED
 21 Organization Documentation Baseline v1.0 PLANNED
@@ -1502,7 +1502,7 @@ Task 13 is complete as a Draft v1.0 foundational artifact.
 
 Task 14 is complete as a Draft v1.0 foundational artifact.
 
-Task 15 - Organization Roadmap and Task 16 - Funding & Financial Framework are complete as Draft v1.0 foundational artifacts. Task 17 - Partnership & Stakeholder Framework is the next External / Institutional Development artifact.
+Task 15 - Organization Roadmap and Task 16 - Funding & Financial Framework are complete as Draft v1.0 foundational artifacts. Task 17 - Partnership & Stakeholder Framework is now complete as a Draft v1.0 foundational artifact. Task 18 - Research & Innovation Framework is the next External / Institutional Development artifact.
 
 Previous document: [Ethics, Sovereignty & Public-Interest Framework](./ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md)
 

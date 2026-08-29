@@ -8,7 +8,7 @@ Its purpose is to advance Africa's transition from fragmented energy infrastruct
 
 Its mission is to research, develop, validate, and steward open, interoperable, secure, intelligence-driven digital energy coordination infrastructure that helps Kenya and other African energy systems become more reliable, resilient, affordable, transparent, flexible, and economically productive.
 
-This documentation set defines the institutional foundation, problem framing, mission architecture, governance path, operating model, programme structure, security posture, and institutional boundaries for Aurex Digital Solutions.
+This documentation set defines the institutional foundation, problem framing, mission architecture, governance path, operating model, programme structure, security posture, external relationship governance, and institutional boundaries for Aurex Digital Solutions.
 
 This README is the authoritative navigation index for the institutional documentation build. It should link only to documents that exist and should not describe planned artifacts as completed.
 
@@ -61,6 +61,9 @@ Organization Roadmap
     |
     v
 Funding & Financial Framework
+    |
+    v
+Partnership & Stakeholder Framework
 ```
 
 ## Institutional Build Sequence
@@ -87,14 +90,14 @@ Task 12 completes the initial Technical Governance phase.
 
 ### Phase 3 - Operations and Institutional Development
 
-Task 13 begins the Operations phase by converting Aurex's accumulated institutional, technical, programme, financial, operational and external exposure into a formal risk-management discipline. Task 15 defines the evidence-gated path from institutional foundation toward validation, prototype, pilot, programme and scale. Task 16 begins the External / Institutional Development layer by defining funding strategy, financial governance, resource stewardship and institutional sustainability.
+Task 13 begins the Operations phase by converting Aurex's accumulated institutional, technical, programme, financial, operational and external exposure into a formal risk-management discipline. Task 15 defines the evidence-gated path from institutional foundation toward validation, prototype, pilot, programme and scale. Task 16 begins the External / Institutional Development layer by defining funding strategy, financial governance, resource stewardship and institutional sustainability. Task 17 defines how Aurex identifies, engages, governs and accurately represents external stakeholder and partnership relationships.
 
 13. [Risk Management Framework](./RISK-MANAGEMENT-FRAMEWORK.md) - Task 13 - Complete / Draft v1.0
 14. [Operating Model](./OPERATING-MODEL.md) - Task 14 - Complete / Draft v1.0
 15. [Organization Roadmap](./ORGANIZATION-ROADMAP.md) - Task 15 - Complete / Draft v1.0
 16. [Funding & Financial Framework](./FUNDING-AND-FINANCIAL-FRAMEWORK.md) - Task 16 - Complete / Draft v1.0
-17. Partnership & Stakeholder Framework - Task 17 - NEXT
-18. Research & Innovation Framework - Task 18 - Planned
+17. [Partnership & Stakeholder Framework](./PARTNERSHIP-AND-STAKEHOLDER-FRAMEWORK.md) - Task 17 - Complete / Draft v1.0
+18. Research & Innovation Framework - Task 18 - NEXT
 
 ### Phase 4 - Programme Governance, Legal Readiness, and Baseline
 

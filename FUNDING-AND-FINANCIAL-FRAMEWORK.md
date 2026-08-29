@@ -6,7 +6,7 @@
 **Institution:** Aurex Digital Solutions  
 **Phase:** External / Institutional Development  
 **Scope:** Funding strategy, financial governance, resource stewardship and institutional sustainability  
-**Navigation:** [Previous: Organization Roadmap](./ORGANIZATION-ROADMAP.md) | [Home: Documentation Index](./README.md) | Next task: Task 17 - Partnership & Stakeholder Framework
+**Navigation:** [Previous: Organization Roadmap](./ORGANIZATION-ROADMAP.md) | [Home: Documentation Index](./README.md) | [Next: Partnership & Stakeholder Framework](./PARTNERSHIP-AND-STAKEHOLDER-FRAMEWORK.md)
 
 Task 15 established **where Aurex intends to go and the evidence gates required to advance**.
 
@@ -1649,17 +1649,17 @@ Funding should support the roadmap, not replace it.
 
 ---
 
-## 80. What Task 17 Must Solve
+## 80. How Task 17 Continues This Framework
 
 Task 16 defines how Aurex governs money.
 
-Task 17 must define how Aurex governs external relationships.
+Task 17 defines how Aurex governs external relationships.
 
-Therefore the next artifact is:
+The next completed artifact is:
 
-**Task 17 - Partnership & Stakeholder Framework**
+[Task 17 - Partnership & Stakeholder Framework](./PARTNERSHIP-AND-STAKEHOLDER-FRAMEWORK.md)
 
-It should answer:
+It answers:
 
 - who Aurex may partner with;
 - how stakeholders are identified and prioritized;
@@ -1670,7 +1670,7 @@ It should answer:
 - how partnership contributions, including funding and in-kind support, remain accountable;
 - how Aurex preserves institutional independence while collaborating.
 
-Task 17 should continue the rule that external support cannot purchase institutional truth, operational authority or technical conclusions.
+Task 17 continues the rule that external support cannot purchase institutional truth, operational authority or technical conclusions.
 
 ---
 
@@ -1693,8 +1693,8 @@ Task 17 should continue the rule that external support cannot purchase instituti
 14 Operating Model                         COMPLETE / DRAFT v1.0
 15 Organization Roadmap                    COMPLETE / DRAFT v1.0
 16 Funding & Financial Framework           COMPLETE / DRAFT v1.0
-17 Partnership & Stakeholder Framework     NEXT
-18 Research & Innovation Framework         PLANNED
+17 Partnership & Stakeholder Framework     COMPLETE / DRAFT v1.0
+18 Research & Innovation Framework         NEXT
 19 Programme Governance Framework          PLANNED
 20 Legal & Institutional Readiness         PLANNED
 21 Organization Documentation Baseline v1.0 PLANNED
@@ -1706,4 +1706,4 @@ Previous document: [Organization Roadmap](./ORGANIZATION-ROADMAP.md)
 
 Home: [Documentation Index](./README.md)
 
-Next task: Task 17 - Partnership & Stakeholder Framework.
+Next document: [Partnership & Stakeholder Framework](./PARTNERSHIP-AND-STAKEHOLDER-FRAMEWORK.md).
