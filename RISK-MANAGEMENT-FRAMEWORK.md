@@ -6,7 +6,7 @@
 **Institution:** Aurex Digital Solutions  
 **Phase:** Operations  
 **Scope:** Institutional, technical, programme, financial, operational and external risk  
-**Navigation:** [Previous: Ethics, Sovereignty & Public-Interest Framework](./ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md) | [Home: Documentation Index](./README.md) | Next task: Task 14 - Operating Model
+**Navigation:** [Previous: Ethics, Sovereignty & Public-Interest Framework](./ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md) | [Home: Documentation Index](./README.md) | [Next: Operating Model](./OPERATING-MODEL.md)
 
 Task 12 completed Aurex's initial **Technical Governance** layer.
 
@@ -1448,15 +1448,15 @@ Task 13 turns those concerns into an operational risk discipline.
 
 ---
 
-## 67. What Task 14 Must Solve
+## 67. How Task 14 Continues This Framework
 
 Task 13 defines how Aurex identifies, owns, evaluates, treats, accepts and escalates risk.
 
-Task 14 must define how Aurex actually operates.
+Task 14 now defines how Aurex actually operates.
 
-Therefore the next artifact is:
+The next completed artifact is:
 
-**Task 14 - Operating Model**
+[Task 14 - Operating Model](./OPERATING-MODEL.md)
 
 It should answer:
 
@@ -1468,7 +1468,7 @@ It should answer:
 - how founder-led operations mature into delegated institutional operations;
 - how tasks, meetings, decisions, reviews and approvals flow through Aurex.
 
-Task 14 should remain stage-aware and should not invent a mature operating bureaucracy before Aurex has the people and legal structure to support it.
+Task 14 remains stage-aware and does not invent a mature operating bureaucracy before Aurex has the people and legal structure to support it.
 
 ---
 
@@ -1488,8 +1488,8 @@ Task 14 should remain stage-aware and should not invent a mature operating burea
 11 Security & Responsible Technology Policy COMPLETE / DRAFT v1.0
 12 Ethics, Sovereignty & Public-Interest Framework COMPLETE / DRAFT v1.0
 13 Risk Management Framework               COMPLETE / DRAFT v1.0
-14 Operating Model                         NEXT
-15 Organization Roadmap                    PLANNED
+14 Operating Model                         COMPLETE / DRAFT v1.0
+15 Organization Roadmap                    NEXT
 16 Funding & Financial Framework           PLANNED
 17 Partnership & Stakeholder Framework     PLANNED
 18 Research & Innovation Framework         PLANNED
@@ -1500,10 +1500,12 @@ Task 14 should remain stage-aware and should not invent a mature operating burea
 
 Task 13 is complete as a Draft v1.0 foundational artifact.
 
-Task 14 is the next Operations artifact.
+Task 14 is complete as a Draft v1.0 foundational artifact.
+
+Task 15 - Organization Roadmap is the next Operations artifact.
 
 Previous document: [Ethics, Sovereignty & Public-Interest Framework](./ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md)
 
 Home: [Documentation Index](./README.md)
 
-Next task: Task 14 - Operating Model.
+Next document: [Operating Model](./OPERATING-MODEL.md)

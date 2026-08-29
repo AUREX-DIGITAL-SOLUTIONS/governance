@@ -84,8 +84,8 @@ Task 12 completes the initial Technical Governance phase.
 Task 13 begins the Operations phase by converting Aurex's accumulated institutional, technical, programme, financial, operational and external exposure into a formal risk-management discipline.
 
 13. [Risk Management Framework](./RISK-MANAGEMENT-FRAMEWORK.md) - Task 13 - Complete / Draft v1.0
-14. Operating Model - Task 14 - NEXT
-15. Organization Roadmap - Task 15 - Planned
+14. [Operating Model](./OPERATING-MODEL.md) - Task 14 - Complete / Draft v1.0
+15. Organization Roadmap - Task 15 - NEXT
 16. Funding & Financial Framework - Task 16 - Planned
 17. Partnership & Stakeholder Framework - Task 17 - Planned
 18. Research & Innovation Framework - Task 18 - Planned

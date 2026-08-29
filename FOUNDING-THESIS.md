@@ -329,7 +329,8 @@ Current build status:
 - Task 11 - Security & Responsible Technology Policy: Complete/Draft v1.0
 - Task 12 - Ethics, Sovereignty & Public-Interest Framework: Complete/Draft v1.0
 - Task 13 - Risk Management Framework: Complete/Draft v1.0
-- Task 14 - Operating Model: Next
+- Task 14 - Operating Model: Complete/Draft v1.0
+- Task 15 - Organization Roadmap: Next
 
 Home: [Documentation Index](./README.md)
 

@@ -870,10 +870,10 @@ AUREX DIGITAL SOLUTIONS
 13 Risk Management Framework               COMPLETE / DRAFT v1.0
         |
         v
-14 Operating Model                         NEXT
+14 Operating Model                         COMPLETE / DRAFT v1.0
         |
         v
-15 Organization Roadmap                    PLANNED
+15 Organization Roadmap                    NEXT
         |
         v
 16 Funding & Financial Framework           PLANNED

@@ -1245,7 +1245,7 @@ The next completed artifact is:
 
 [Task 12 - Ethics, Sovereignty & Public-Interest Framework](./ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md)
 
-Task 13 begins the Operations phase through the Risk Management Framework. Task 14 - Operating Model is the next step.
+Task 13 begins the Operations phase through the Risk Management Framework. Task 14 - Operating Model is now complete, and Task 15 - Organization Roadmap is the next step.
 
 ---
 
@@ -1265,8 +1265,8 @@ Task 13 begins the Operations phase through the Risk Management Framework. Task 
 11 Security & Responsible Technology Policy COMPLETE / DRAFT v1.0
 12 Ethics, Sovereignty & Public-Interest Framework COMPLETE / DRAFT v1.0
 13 Risk Management Framework               COMPLETE / DRAFT v1.0
-14 Operating Model                         NEXT
-15 Organization Roadmap                    PLANNED
+14 Operating Model                         COMPLETE / DRAFT v1.0
+15 Organization Roadmap                    NEXT
 16 Funding & Financial Framework           PLANNED
 17 Partnership & Stakeholder Framework     PLANNED
 18 Research & Innovation Framework         PLANNED
