@@ -6,7 +6,7 @@
 **Institution:** Aurex Digital Solutions
 **Phase:** Technical Governance
 **Orientation:** Kenya-founded, Africa-focused, public-interest digital energy infrastructure
-**Navigation:** [Previous: Security & Responsible Technology Policy](./SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md) | [Home: Documentation Index](./README.md) | Next task: Task 13 - Risk Management Framework
+**Navigation:** [Previous: Security & Responsible Technology Policy](./SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md) | [Home: Documentation Index](./README.md) | [Next: Risk Management Framework](./RISK-MANAGEMENT-FRAMEWORK.md)
 
 Task 11 established:
 
@@ -1193,15 +1193,15 @@ This completes the first twelve foundational artifacts.
 
 ---
 
-## 60. What Task 13 Must Solve
+## 60. How Task 13 Continues This Framework
 
 Task 12 establishes public-interest and sovereignty principles.
 
-Task 13 must convert the institution's accumulated risks into an operational risk-management framework.
+Task 13 now converts the institution's accumulated risks into an operational risk-management framework.
 
-Therefore the next artifact is:
+The next completed artifact is:
 
-**Task 13 - Risk Management Framework**
+[Task 13 - Risk Management Framework](./RISK-MANAGEMENT-FRAMEWORK.md)
 
 It should define:
 
@@ -1236,8 +1236,8 @@ Task 13 begins the Operations phase.
 10 Contributing Framework                  COMPLETE / DRAFT v1.0
 11 Security & Responsible Technology Policy COMPLETE / DRAFT v1.0
 12 Ethics, Sovereignty & Public-Interest Framework COMPLETE / DRAFT v1.0
-13 Risk Management Framework               NEXT
-14 Operating Model                         PLANNED
+13 Risk Management Framework               COMPLETE / DRAFT v1.0
+14 Operating Model                         NEXT
 15 Organization Roadmap                    PLANNED
 16 Funding & Financial Framework           PLANNED
 17 Partnership & Stakeholder Framework     PLANNED
@@ -1253,4 +1253,4 @@ Previous document: [Security & Responsible Technology Policy](./SECURITY-AND-RES
 
 Home: [Documentation Index](./README.md)
 
-Next task: Task 13 - Risk Management Framework.
+Next document: [Risk Management Framework](./RISK-MANAGEMENT-FRAMEWORK.md)

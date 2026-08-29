@@ -52,6 +52,9 @@ Ethics, Sovereignty & Public-Interest Framework
     |
     v
 Risk Management Framework
+    |
+    v
+Operating Model
 ```
 
 ## Institutional Build Sequence
@@ -78,8 +81,10 @@ Task 12 completes the initial Technical Governance phase.
 
 ### Phase 3 - Operations and Institutional Development
 
-13. Risk Management Framework - Task 13 - NEXT
-14. Operating Model - Task 14 - Planned
+Task 13 begins the Operations phase by converting Aurex's accumulated institutional, technical, programme, financial, operational and external exposure into a formal risk-management discipline.
+
+13. [Risk Management Framework](./RISK-MANAGEMENT-FRAMEWORK.md) - Task 13 - Complete / Draft v1.0
+14. Operating Model - Task 14 - NEXT
 15. Organization Roadmap - Task 15 - Planned
 16. Funding & Financial Framework - Task 16 - Planned
 17. Partnership & Stakeholder Framework - Task 17 - Planned

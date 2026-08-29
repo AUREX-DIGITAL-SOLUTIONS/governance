@@ -867,10 +867,10 @@ AUREX DIGITAL SOLUTIONS
 12 Ethics, Sovereignty & Public-Interest Framework COMPLETE / DRAFT v1.0
         |
         v
-13 Risk Management Framework               NEXT
+13 Risk Management Framework               COMPLETE / DRAFT v1.0
         |
         v
-14 Operating Model                         PLANNED
+14 Operating Model                         NEXT
         |
         v
 15 Organization Roadmap                    PLANNED
