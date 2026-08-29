@@ -1238,8 +1238,8 @@ Task 13 begins the Operations phase.
 12 Ethics, Sovereignty & Public-Interest Framework COMPLETE / DRAFT v1.0
 13 Risk Management Framework               COMPLETE / DRAFT v1.0
 14 Operating Model                         COMPLETE / DRAFT v1.0
-15 Organization Roadmap                    NEXT
-16 Funding & Financial Framework           PLANNED
+15 Organization Roadmap                    COMPLETE / DRAFT v1.0
+16 Funding & Financial Framework           NEXT
 17 Partnership & Stakeholder Framework     PLANNED
 18 Research & Innovation Framework         PLANNED
 19 Programme Governance Framework          PLANNED

@@ -873,10 +873,10 @@ AUREX DIGITAL SOLUTIONS
 14 Operating Model                         COMPLETE / DRAFT v1.0
         |
         v
-15 Organization Roadmap                    NEXT
+15 Organization Roadmap                    COMPLETE / DRAFT v1.0
         |
         v
-16 Funding & Financial Framework           PLANNED
+16 Funding & Financial Framework           NEXT
         |
         v
 17 Partnership & Stakeholder Framework     PLANNED

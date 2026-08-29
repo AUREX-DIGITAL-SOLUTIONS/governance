@@ -55,6 +55,9 @@ Risk Management Framework
     |
     v
 Operating Model
+    |
+    v
+Organization Roadmap
 ```
 
 ## Institutional Build Sequence
@@ -81,12 +84,12 @@ Task 12 completes the initial Technical Governance phase.
 
 ### Phase 3 - Operations and Institutional Development
 
-Task 13 begins the Operations phase by converting Aurex's accumulated institutional, technical, programme, financial, operational and external exposure into a formal risk-management discipline.
+Task 13 begins the Operations phase by converting Aurex's accumulated institutional, technical, programme, financial, operational and external exposure into a formal risk-management discipline. Task 15 now defines the evidence-gated path from institutional foundation toward validation, prototype, pilot, programme and scale.
 
 13. [Risk Management Framework](./RISK-MANAGEMENT-FRAMEWORK.md) - Task 13 - Complete / Draft v1.0
 14. [Operating Model](./OPERATING-MODEL.md) - Task 14 - Complete / Draft v1.0
-15. Organization Roadmap - Task 15 - NEXT
-16. Funding & Financial Framework - Task 16 - Planned
+15. [Organization Roadmap](./ORGANIZATION-ROADMAP.md) - Task 15 - Complete / Draft v1.0
+16. Funding & Financial Framework - Task 16 - NEXT
 17. Partnership & Stakeholder Framework - Task 17 - Planned
 18. Research & Innovation Framework - Task 18 - Planned
 

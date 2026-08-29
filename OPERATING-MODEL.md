@@ -6,7 +6,7 @@
 **Institution:** Aurex Digital Solutions  
 **Phase:** Operations  
 **Scope:** How Aurex converts institutional purpose into coordinated day-to-day work  
-**Navigation:** [Previous: Risk Management Framework](./RISK-MANAGEMENT-FRAMEWORK.md) | [Home: Documentation Index](./README.md) | Next task: Task 15 - Organization Roadmap
+**Navigation:** [Previous: Risk Management Framework](./RISK-MANAGEMENT-FRAMEWORK.md) | [Home: Documentation Index](./README.md) | [Next: Organization Roadmap](./ORGANIZATION-ROADMAP.md)
 
 Task 13 established how Aurex identifies and governs **uncertainty and risk**.
 
@@ -1622,7 +1622,7 @@ It should answer:
 - how documentation, governance, operations and programmes mature;
 - what evidence indicates readiness for each next stage.
 
-Task 15 should preserve stage awareness and avoid inventing departments, approvals, pilots, partnerships, government endorsements or operational maturity that Aurex has not yet established.
+Task 15 preserves stage awareness and avoids inventing departments, approvals, pilots, partnerships, government endorsements or operational maturity that Aurex has not yet established.
 
 ---
 
@@ -1643,8 +1643,8 @@ Task 15 should preserve stage awareness and avoid inventing departments, approva
 12 Ethics, Sovereignty & Public-Interest Framework COMPLETE / DRAFT v1.0
 13 Risk Management Framework               COMPLETE / DRAFT v1.0
 14 Operating Model                         COMPLETE / DRAFT v1.0
-15 Organization Roadmap                    NEXT
-16 Funding & Financial Framework           PLANNED
+15 Organization Roadmap                    COMPLETE / DRAFT v1.0
+16 Funding & Financial Framework           NEXT
 17 Partnership & Stakeholder Framework     PLANNED
 18 Research & Innovation Framework         PLANNED
 19 Programme Governance Framework          PLANNED
@@ -1652,10 +1652,10 @@ Task 15 should preserve stage awareness and avoid inventing departments, approva
 21 Organization Documentation Baseline v1.0 PLANNED
 ```
 
-Task 14 is complete as a Draft v1.0 foundational artifact.
+Task 14 is complete as a Draft v1.0 foundational artifact. Task 15 is now complete as a Draft v1.0 foundational artifact.
 
 Previous document: [Risk Management Framework](./RISK-MANAGEMENT-FRAMEWORK.md)
 
 Home: [Documentation Index](./README.md)
 
-Next task: Task 15 - Organization Roadmap.
+Next document: [Organization Roadmap](./ORGANIZATION-ROADMAP.md).
