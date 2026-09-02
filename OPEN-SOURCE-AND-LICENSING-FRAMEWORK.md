@@ -47,6 +47,8 @@ The objective is:
 
 This document guides future decisions. It does not automatically apply a license to this repository or to any existing Aurex codebase.
 
+As of 2026-09-02, this repository's documentation content is licensed under CC BY 4.0 via the root [LICENSE](./LICENSE) file, consistent with the recommendation in Section 11 (Documentation Licensing). No Aurex software license has been adopted; the Apache-2.0 recommendation in Section 7 remains a preferred candidate only, not an adopted license.
+
 ---
 
 ## 2. Why Open Source Matters to Aurex

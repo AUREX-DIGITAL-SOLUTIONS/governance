@@ -12,6 +12,8 @@ This README is the authoritative navigation and status gateway for the instituti
 
 The institution is **Aurex Digital Solutions**. The local folder name may remain `Aurex Digital Solution`, but the institutional name used in the documents is plural.
 
+**License:** This repository's documentation is licensed under [CC BY 4.0](./LICENSE), per [Open-Source & Licensing Framework](./OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md). No software license has been adopted yet.
+
 ---
 
 ## Current Maturity
