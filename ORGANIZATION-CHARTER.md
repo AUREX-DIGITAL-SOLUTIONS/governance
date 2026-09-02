@@ -1,4 +1,5 @@
 # Task 6 - Organization Charter
+
 ## Aurex Digital Solutions
 
 **Version:** 1.0  
@@ -6,885 +7,169 @@
 **Institution:** Aurex Digital Solutions  
 **Jurisdictional origin:** Kenya  
 **Long-term orientation:** Africa  
+**Document type:** Organization Charter
 **Navigation:** [Previous: Code of Conduct](./CODE-OF-CONDUCT.md) | [Home: Documentation Index](./README.md) | [Next: Governance Framework](./GOVERNANCE-FRAMEWORK.md)
 
-The Organization Charter is the constitutional capstone of Tasks 1-5.
-
-It formalizes:
-
-- why Aurex exists;
-- what it is;
-- what it may do;
-- what it may not claim;
-- how authority is derived;
-- what principles govern the institution;
-- how programmes are created;
-- how the Charter may later be amended.
-
----
+> This Charter is Aurex's proposed internal constitutional instrument. It does not itself create legal incorporation, government, regulatory, utility, system-operator, or electricity-control authority.
 
 ## 1. Charter Purpose
 
-This Charter establishes the foundational institutional framework of **Aurex Digital Solutions**.
+This Charter establishes the foundational identity, purpose, mandate, authority boundaries, governance basis, and amendment rules of Aurex Digital Solutions.
 
-It defines the organization's:
+It should be read with the [Vision, Mission & Purpose](./VISION-MISSION-PURPOSE.md), [Values & Institutional Principles](./VALUES-AND-INSTITUTIONAL-PRINCIPLES.md), and [Code of Conduct](./CODE-OF-CONDUCT.md). Those documents define Aurex's direction, decision standards, and behavioral expectations; this Charter defines the institution that holds them together.
 
-- identity;
-- purpose;
-- mission;
-- vision;
-- mandate;
-- institutional scope;
-- authority boundaries;
-- operating principles;
-- programme powers;
-- governance basis;
-- accountability obligations;
-- constitutional amendment framework.
+## 2. Identity and Purpose
 
-This Charter is an internal founding instrument.
+Aurex Digital Solutions is a Kenya-origin institution being developed to advance open digital energy coordination infrastructure for African energy systems.
 
-It does not by itself create:
+> Aurex exists to help energy systems become more reliable, resilient, interoperable, efficient, secure, affordable, transparent, and productive through research, technology, governance, and responsible collaboration.
 
-- government authority;
-- regulatory authority;
-- statutory powers;
-- electricity-system operating authority;
-- legal incorporation;
-- licenses issued by Kenyan authorities;
-- permission to control third-party infrastructure.
+Kenya is the initial institutional and research context. Africa is the long-term orientation. The detailed founding argument and problem definition are maintained in the [Founding Thesis](./FOUNDING-THESIS.md) and [Official Problem Statement](./OFFICIAL-PROBLEM-STATEMENT.md).
 
-Those must arise through applicable law, agreements, licenses, delegation, contracts, or other legitimate authority.
+## 3. Institutional Character
 
----
+Aurex may operate as a research and development institution, open-source technology organization, digital infrastructure developer, systems-integration contributor, standards participant, programme developer, and technical knowledge institution.
 
-## 2. Institutional Identity
+It may later use additional legal or commercial structures where necessary, subject to applicable law, governance, and public-interest requirements.
 
-The institution shall be known as:
+## 4. Mandate
 
-**Aurex Digital Solutions**
+Subject to applicable law and legitimate authority, Aurex may:
 
-Aurex Digital Solutions is conceived as a Kenya-founded digital energy infrastructure institution established to advance the modernization and digital transformation of energy systems.
+- research African energy-system challenges and digital coordination needs;
+- develop and maintain software, data systems, APIs, reference architectures, analytics, and integration tools;
+- support facility-level energy intelligence and research distributed-energy coordination;
+- develop or contribute to open standards, specifications, and interoperability practices;
+- establish laboratories, simulations, tests, demonstrations, pilots, and controlled deployments;
+- create mission-aligned research, technology, education, standards, and ecosystem programmes;
+- collaborate with utilities, regulators, ministries, counties, universities, communities, developers, funders, and other relevant institutions.
 
-Its initial institutional focus is Kenya.
+The [Research & Innovation Framework](./RESEARCH-AND-INNOVATION-FRAMEWORK.md), [Operating Model](./OPERATING-MODEL.md), and [Organization Roadmap](./ORGANIZATION-ROADMAP.md) define how this mandate is developed and executed.
 
-Its long-term orientation is the wider African energy ecosystem.
+## 5. Authority Boundary
 
----
-
-## 3. Founding Context
-
-Aurex is founded on the recognition that Africa's energy transition involves more than increasing generation capacity.
-
-Energy systems are becoming increasingly:
-
-- renewable;
-- distributed;
-- software-dependent;
-- data-intensive;
-- bidirectional;
-- interconnected;
-- automation-enabled.
-
-At the same time, electricity infrastructure frequently contains fragmented technologies, heterogeneous vendor systems, limited operational visibility, legacy interfaces, and insufficient coordination capability.
-
-Aurex exists to investigate and address this digital energy coordination gap.
-
----
-
-## 4. Purpose
-
-> Aurex Digital Solutions exists to advance the digital transformation of Africa's energy infrastructure so that energy systems can become more reliable, resilient, interoperable, efficient, and accessible to the people and institutions that depend on them.
-
-This purpose is intentionally broader than any individual product, technology, or programme.
-
----
-
-## 5. Vision
-
-> An Africa where energy infrastructure operates as an open, intelligent, and coordinated digital ecosystem, enabling reliable, resilient, and affordable energy for people, communities, businesses, and institutions.
-
-The vision describes the future Aurex seeks to help enable.
-
-It does not imply that Aurex alone can create that future.
-
----
-
-## 6. Mission
-
-> To research, develop, integrate, and steward open digital infrastructure, standards, and technologies that enable energy resources, facilities, and institutions across Africa to become more observable, interoperable, intelligent, and coordinatable.
-
-The mission creates five permanent institutional functions:
+Aurex must never infer authority from technical capability.
 
 ```text
-RESEARCH
-   +
-DEVELOP
-   +
-INTEGRATE
-   +
-STANDARDIZE
-   +
-STEWARD
-        |
-        v
-DIGITAL ENERGY INFRASTRUCTURE
+Technical capability
+        !=
+Legal or regulatory authority
+        !=
+Asset ownership
+        !=
+Operational or market authority
 ```
 
----
+Control, dispatch, market participation, access to infrastructure, and use of protected data require appropriate permission, agreements, licences, delegation, or other lawful authority. This Charter does not grant those rights.
 
-## 7. Institutional Character
+Aurex is not a government agency, regulator, licensed utility, national grid operator, system operator, deployed national platform, government-approved programme, or substitute for existing energy institutions.
 
-Aurex shall operate primarily as a:
+Legal and institutional requirements are maintained in [Legal & Institutional Readiness](./LEGAL-AND-INSTITUTIONAL-READINESS.md). Safety, security, ethics, and risk requirements are maintained in the [Security & Responsible Technology Policy](./SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md), [Ethics, Sovereignty & Public-Interest Framework](./ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md), and [Risk Management Framework](./RISK-MANAGEMENT-FRAMEWORK.md).
 
-- research institution;
-- engineering institution;
-- open-source technology organization;
-- digital infrastructure developer;
-- systems-integration institution;
-- standards and interoperability contributor;
-- programme-development organization;
-- technical knowledge institution.
+## 6. Institutional Commitments
 
-Aurex may later operate through additional legal or commercial structures where necessary.
+Aurex shall pursue its mandate in accordance with these commitments:
 
----
+- public value over technical novelty alone;
+- evidence before institutional or technical scale;
+- safety, security, and legitimate authority before optimization;
+- open standards and interoperability where appropriate;
+- responsible modernization of existing infrastructure;
+- purposeful data use and accountable human judgment;
+- transparent representation of maturity, status, evidence, and relationships;
+- African capability, institutional independence, and long-term stewardship.
 
-## 8. Institutional Mandate
+The authoritative interpretation is in [Values & Institutional Principles](./VALUES-AND-INSTITUTIONAL-PRINCIPLES.md). Behavioral application is in the [Code of Conduct](./CODE-OF-CONDUCT.md).
 
-Within applicable law and legitimate authority, Aurex may undertake work in the following areas.
+## 7. Programme Authority
 
-### 8.1 Research
+Aurex may establish a programme only when it:
 
-Aurex may investigate:
-
-- African energy-system challenges;
-- distributed-energy integration;
-- interoperability;
-- energy data;
-- DER coordination;
-- grid flexibility;
-- AI applications;
-- energy markets;
-- cybersecurity;
-- infrastructure resilience.
-
-### 8.2 Software and Digital Infrastructure
-
-Aurex may develop and maintain:
-
-- energy-management software;
-- data systems;
-- integration platforms;
-- APIs;
-- reference implementations;
-- edge systems;
-- digital twins;
-- analytics;
-- coordination platforms.
-
-### 8.3 Interoperability
-
-Aurex may research, develop, adopt, and promote mechanisms enabling heterogeneous systems to exchange useful information and operate together.
-
-### 8.4 Standards and Specifications
-
-Aurex may:
-
-- develop reference architectures;
-- contribute to open standards;
-- publish specifications;
-- define common information models;
-- establish conformance requirements;
-- collaborate with recognized standards communities.
-
-Aurex shall not falsely represent an internal specification as an official national standard unless formally recognized as such.
-
-### 8.5 Demonstration and Validation
-
-Aurex may establish:
-
-- laboratories;
-- simulations;
-- test environments;
-- reference installations;
-- pilots;
-- demonstrations;
-- controlled deployments.
-
-The maturity level of such systems must be represented accurately.
-
-### 8.6 Programme Development
-
-Aurex may establish institutional programmes aligned with its mission.
-
-Programmes may include research, infrastructure, software, standards, deployment, education, or ecosystem initiatives.
-
-### 8.7 Institutional Collaboration
-
-Aurex may collaborate with:
-
-- utilities;
-- regulators;
-- ministries;
-- universities;
-- research institutions;
-- technology companies;
-- communities;
-- development institutions;
-- investors;
-- open-source foundations;
-- infrastructure operators.
-
-Collaboration does not automatically imply endorsement, authorization, or partnership beyond what has been formally agreed.
-
----
-
-## 9. Public-Interest Orientation
-
-Because energy is essential infrastructure, Aurex shall recognize responsibilities extending beyond ordinary software development.
-
-Its work should consider:
-
-- energy reliability;
-- affordability;
-- resilience;
-- public safety;
-- accessibility;
-- cybersecurity;
-- data protection;
-- sustainability;
-- infrastructure continuity;
-- long-term maintainability;
-- institutional accountability.
-
-Commercial objectives must not automatically override these responsibilities.
-
----
-
-## 10. Institutional Values
-
-Aurex adopts the following foundational values:
-
-1. Public Value
-2. Engineering Integrity
-3. Openness
-4. Interoperability
-5. Safety and Resilience
-6. Stewardship
-7. African Capability
-
-The authoritative detailed interpretation remains in the [Values & Institutional Principles](./VALUES-AND-INSTITUTIONAL-PRINCIPLES.md) document.
-
----
-
-## 11. Constitutional Principles
-
-The following principles shall guide institutional decisions.
-
-### 11.1 Open Standards Over Proprietary Dependence
-
-Aurex shall prefer interoperable and open approaches where technically and economically appropriate.
-
-### 11.2 Coordinate Globally, Control Locally
-
-Higher system layers should coordinate while safety-critical execution remains close to physical infrastructure.
-
-### 11.3 Safety Before Optimization
-
-Human safety, equipment protection, and system integrity outrank optimization objectives.
-
-### 11.4 Authority Must Be Explicit
-
-Technical capability does not create permission.
-
-### 11.5 Evidence Before Scale
-
-Institutional and technical scaling must follow demonstrated capability.
-
-### 11.6 Interoperability by Design
-
-Interoperability should be built into architecture, not treated as an afterthought.
-
-### 11.7 Cybersecurity Is Infrastructure
-
-Security shall be designed into systems from their inception.
-
-### 11.8 Documentation Is Infrastructure
-
-Institutional and technical knowledge must progressively become documented, versioned, and transferable.
-
-### 11.9 Decisions Must Be Traceable
-
-Material decisions should be connected to evidence, authority, and rationale.
-
-### 11.10 Institutional Truth Before Narrative
-
-Aurex shall distinguish clearly between what is proposed, tested, deployed, authorized, and proven.
-
----
-
-## 12. Authority Boundary
-
-Aurex shall never assume authority merely because its technology is capable of performing an action.
-
-The Charter recognizes:
-
-```text
-TECHNICAL CAPABILITY
-        !=
-LEGAL AUTHORITY
-        !=
-REGULATORY AUTHORITY
-        !=
-ASSET OWNERSHIP
-        !=
-OPERATIONAL AUTHORITY
-        !=
-MARKET AUTHORITY
-```
-
-Control, dispatch, market participation, or access to infrastructure must depend on appropriate authority.
-
----
-
-## 13. Relationship with Existing Energy Institutions
-
-Aurex is not established to replace legitimate institutions such as:
-
-- regulators;
-- utilities;
-- generators;
-- transmission operators;
-- distribution operators;
-- market operators;
-- ministries;
-- asset owners.
-
-Its role is primarily to develop enabling digital infrastructure and institutional capabilities that may support such actors.
-
----
-
-## 14. Programme Authority
-
-Aurex may create programmes where the proposed programme:
-
-1. aligns with institutional purpose;
+1. aligns with the purpose and mandate;
 2. addresses a documented problem;
 3. has an identifiable public or economic benefit;
-4. falls within Aurex's capabilities or development mandate;
-5. does not exceed available legal or institutional authority;
-6. has defined governance;
-7. has a documented maturity state;
-8. can be evaluated through evidence.
+4. has appropriate capability, authority, governance, and risk controls;
+5. states its maturity and dependencies accurately; and
+6. can be evaluated through evidence.
 
----
+Programmes should generally progress from problem and research through hypothesis, review, experiment, validation, pilot, deployment, operations, and evaluation. Progression is not automatic; the evidence threshold should match the programme's risk and scale.
 
-## 15. Programme Lifecycle
+The [Programme Governance Framework](./PROGRAMME-GOVERNANCE-FRAMEWORK.md) defines programme approval and lifecycle controls.
 
-Aurex programmes should generally follow:
+## 8. Energy Operating System Relationship
 
-```text
-PROBLEM
-   |
-   v
-RESEARCH
-   |
-   v
-HYPOTHESIS
-   |
-   v
-PROGRAMME PROPOSAL
-   |
-   v
-REVIEW
-   |
-   v
-EXPERIMENT
-   |
-   v
-VALIDATION
-   |
-   v
-PILOT
-   |
-   v
-DEPLOYMENT
-   |
-   v
-OPERATIONS
-   |
-   v
-EVALUATION
-```
+Aurex is the institutional home. An Energy Operating System, including any National Energy Operating System or NEOS concept, is a possible long-term programme direction, not the institution itself.
 
-Progression is not automatic.
+Any national-scale concept requires evidence, legal readiness, governance, cybersecurity maturity, public-sector engagement, and operational authorization. It must not be represented as an existing platform, authorized programme, regulatory function, utility function, or operating authority before those conditions exist.
 
-Each major stage should require evidence appropriate to its risk.
+## 9. Open Source and Intellectual Assets
 
----
+Aurex may create and steward software, documentation, specifications, research, datasets, designs, architectures, trademarks, and other intellectual assets.
 
-## 16. Energy Operating System Vision Relationship
+Aurex supports open-source development, interoperability, transparency, research, collaboration, and local capability. Openness does not require disclosure of personal, confidential, security-sensitive, contractual, or legitimately commercial information. Ownership, licensing, contributor rights, and repository governance are defined in the [Open-Source & Licensing Framework](./OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md) and [Contributing Framework](./CONTRIBUTING-FRAMEWORK.md).
 
-The Energy Operating System vision, including any National Energy Operating System or NEOS concept, may eventually become a flagship programme only if evidence, authority and institutional legitimacy justify that status.
+## 10. Participation and Governance
 
-The institutional relationship is:
+Founders, employees, contributors, researchers, advisors, contractors, partners, and institutional members may participate in Aurex. Participation does not itself create decision authority; authority must arise through defined roles, delegation, agreements, or governance processes.
+
+Aurex should mature from founder-led formation toward documented, delegated, and accountable governance:
 
 ```text
-AUREX DIGITAL SOLUTIONS
-        |
-        | researches / develops / may govern when authorized
-        v
-ENERGY OPERATING SYSTEM VISION
-        |
-        +-- Facility EMS validation
-        +-- Regional DERMS programme concept
-        +-- National DERMS programme concept
-        +-- related infrastructure concepts
+Founding authority -> Defined governance -> Delegated responsibility -> Institutional accountability
 ```
 
-The Energy Operating System vision does not define the entire identity of Aurex.
+The founder may provide initial strategic direction, technical leadership, representation, and stewardship. Founder status does not remove accountability or permanently replace institutional process.
 
-Aurex may create additional programmes in the future.
+Detailed bodies, roles, reserved decisions, delegation, escalation, and decision rights are defined in the [Governance Framework](./GOVERNANCE-FRAMEWORK.md) and [Organization Structure & Decision Rights](./ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md).
 
-NEOS, National DERMS, and related national-scale concepts should not be represented as already deployed national platforms, authorized system-operator functions, regulatory functions, asset-owner functions, or government-approved programmes unless and until that status exists through legitimate authority.
+## 11. Resources and Partnerships
 
----
+Aurex resources must be applied to lawful institutional purposes and governed with appropriate budgeting, authorization, procurement, expenditure, audit, grant, donation, investment, revenue, and conflict controls.
 
-## 17. Open-Source Commitment
+Aurex may enter partnerships that advance its mission, but no relationship should knowingly compromise safety, security, technical integrity, legal compliance, evidence, public interest, or institutional independence. External relationships must be described accurately.
 
-Aurex recognizes open-source development as a strategic mechanism for:
+Detailed controls are maintained in the [Funding & Financial Framework](./FUNDING-AND-FINANCIAL-FRAMEWORK.md) and [Partnership & Stakeholder Framework](./PARTNERSHIP-AND-STAKEHOLDER-FRAMEWORK.md).
 
-- interoperability;
-- transparency;
-- collaboration;
-- research;
-- local capacity development;
-- vendor diversity;
-- innovation.
+## 12. Records and Transparency
 
-However, the Charter does not require all institutional information or every technical component to be publicly disclosed.
+Aurex should maintain authoritative, versioned records for material decisions, risks, programmes, policies, partnerships, research, architecture, evidence, and amendments.
 
-Security, privacy, contractual obligations, and legitimate commercial interests may justify controlled access.
+It should disclose mission, governance, programme status, public research, open-source work, and relevant decisions where appropriate, while protecting privacy, security, legal restrictions, contractual confidentiality, and sensitive infrastructure information.
 
-Specific licensing shall be defined separately.
+## 13. Charter Amendment and Adoption
 
----
+The Charter may be amended through:
 
-## 18. Intellectual Property
+1. a documented proposal and rationale;
+2. impact and dependency review;
+3. review by the appropriate governing authority;
+4. formal approval and versioning; and
+5. communication and preservation of material changes.
 
-Aurex may create and steward:
+During the founding period, the founder may approve amendments until a formal governing authority is constituted. This transitional authority should later be replaced or constrained through the [Governance Framework](./GOVERNANCE-FRAMEWORK.md).
 
-- software;
-- documentation;
-- specifications;
-- research;
-- datasets;
-- trademarks;
-- designs;
-- technical architectures;
-- other intellectual assets.
+Once formally adopted, the Charter should guide Aurex's governance, programmes, and operations until amended or superseded through an authorized process. Applicable law always prevails over internal documents.
 
-Ownership, licensing, and contributor rights shall be governed through applicable agreements and the [Open-Source & Licensing Framework](./OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md).
+## 14. Document Hierarchy
 
----
-
-## 19. Participation
-
-Aurex may support participation by:
-
-- employees;
-- founders;
-- contributors;
-- researchers;
-- advisors;
-- contractors;
-- partners;
-- institutional members;
-- open-source communities.
-
-Participation does not automatically create organizational authority.
-
-Authority shall arise through clearly defined roles and delegation.
-
----
-
-## 20. Code of Conduct
-
-All participants operating within Aurex-controlled environments shall be expected to follow the institutional [Code of Conduct](./CODE-OF-CONDUCT.md).
-
-The Code establishes behavioral standards relating to:
-
-- respect;
-- integrity;
-- safety;
-- evidence;
-- authority;
-- cybersecurity;
-- data;
-- intellectual property;
-- conflicts of interest;
-- public representation.
-
----
-
-## 21. Governance Basis
-
-Aurex shall progressively transition from founder-led formation toward institutional governance.
-
-The evolution should follow:
+Aurex's internal hierarchy should generally be:
 
 ```text
-FOUNDING AUTHORITY
-       |
-       v
-DOCUMENTED AUTHORITY
-       |
-       v
-DEFINED GOVERNANCE
-       |
-       v
-DELEGATED RESPONSIBILITY
-       |
-       v
-INSTITUTIONAL ACCOUNTABILITY
+Applicable law
+    -> Legal and constitutional instruments
+    -> Organization Charter
+    -> Governance framework
+    -> Policies and standards
+    -> Procedures
+    -> Programme documentation
 ```
 
-Detailed governance bodies and decision rights are developed through [Task 7 - Governance Framework](./GOVERNANCE-FRAMEWORK.md) and [Task 8 - Organization Structure & Decision Rights](./ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md).
+Where documents conflict, the conflict should be escalated and reconciled. The Charter should not override applicable law, licences, contracts, or legitimate external authority.
 
----
+## Document Status
 
-## 22. Founder Role
+This Charter is a Draft v1.0 and has not yet been formally adopted. Repository-wide status is maintained in the [README](./README.md) and [Organization Documentation Baseline v1.0](./ORGANIZATION-DOCUMENTATION-BASELINE-V1.0.md).
 
-Aurex Digital Solutions is founded by **Ayiemba Rodgers**.
-
-During the founding stage, the founder may provide:
-
-- strategic direction;
-- institutional design;
-- programme initiation;
-- technical leadership;
-- representation;
-- stewardship of founding principles.
-
-However:
-
-> The institution should progressively become governed through roles, policies, and documented authority rather than permanent dependence on individual knowledge or discretion.
-
-Founder status should not eliminate accountability.
-
----
-
-## 23. Decision Authority
-
-Material institutional decisions should eventually be assigned to clearly defined authorities.
-
-These may include future bodies such as:
-
-- founder/executive leadership;
-- future governing body;
-- technical steering body;
-- programme leadership;
-- security authority;
-- ethics/public-interest review;
-- finance authority;
-- risk authority.
-
-Their precise composition should be defined through the [Governance Framework](./GOVERNANCE-FRAMEWORK.md), [Task 8 decision-rights work](./ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md), and later formal governance processes rather than invented in the Charter.
-
----
-
-## 24. Financial Principle
-
-Institutional resources shall be applied toward Aurex's lawful purposes and programmes.
-
-Future financial governance should establish controls relating to:
-
-- budgeting;
-- authorization;
-- procurement;
-- expenditure;
-- audit;
-- grants;
-- donations;
-- investments;
-- commercial revenue;
-- conflicts of interest.
-
-The Charter establishes the obligation.
-
-Task 16 defines the detailed Funding & Financial Framework.
-
----
-
-## 25. Partnership Principle
-
-Aurex may enter relationships that advance its mission.
-
-No partnership should require Aurex to knowingly compromise:
-
-- technical integrity;
-- public-interest obligations;
-- safety;
-- cybersecurity;
-- legal compliance;
-- institutional independence of evidence.
-
-Aurex must accurately describe the status of external relationships.
-
----
-
-## 26. Research Independence
-
-Aurex should protect the ability of researchers and engineers to reach conclusions based on evidence.
-
-Funding, partnerships, or programme expectations should not dictate predetermined technical conclusions.
-
-This principle is particularly important where results affect public infrastructure.
-
----
-
-## 27. Transparency
-
-Aurex should publicly disclose institutional information where appropriate, including progressively:
-
-- mission;
-- governance;
-- programme status;
-- open-source work;
-- public research;
-- relevant decisions;
-- contribution processes.
-
-Transparency must be balanced against:
-
-- security;
-- privacy;
-- legal restrictions;
-- contractual confidentiality;
-- sensitive infrastructure information.
-
----
-
-## 28. Institutional Records
-
-Aurex should maintain authoritative records for material matters including:
-
-```text
-DECISIONS
-RISKS
-PROGRAMMES
-POLICIES
-PARTNERSHIPS
-RESEARCH
-ARCHITECTURE
-EVIDENCE
-CHANGES
-```
-
-This supports institutional continuity.
-
----
-
-## 29. Amendment of the Charter
-
-The Charter must be capable of evolving.
-
-Amendments should require:
-
-1. a documented proposal;
-2. rationale for the change;
-3. impact analysis;
-4. review by the appropriate governing authority;
-5. formal approval;
-6. versioning;
-7. preservation of previous versions;
-8. communication of material changes.
-
-During the founding period, the founder may approve Charter amendments until a formal governing authority is constituted.
-
-This transitional power should later be replaced or constrained by the Governance Framework.
-
----
-
-## 30. Charter Versioning
-
-The Charter should use semantic institutional versioning.
-
-Example:
-
-```text
-v1.0
-Initial constitutional baseline
-
-v1.1
-Minor clarification
-
-v1.2
-Additional institutional provision
-
-v2.0
-Material constitutional change
-```
-
-Changes should be recorded in institutional history.
-
----
-
-## 31. Supremacy Within Aurex Documentation
-
-Once formally adopted, the Charter should become one of Aurex's highest-level internal documents.
-
-The hierarchy should eventually resemble:
-
-```text
-APPLICABLE LAW
-      |
-      v
-LEGAL CONSTITUTIONAL DOCUMENTS
-      |
-      v
-AUREX ORGANIZATION CHARTER
-      |
-      v
-GOVERNANCE FRAMEWORK
-      |
-      v
-POLICIES
-      |
-      v
-STANDARDS
-      |
-      v
-PROCEDURES
-      |
-      v
-PROGRAMME DOCUMENTATION
-```
-
-If a lower-level Aurex document conflicts with the adopted Charter, the conflict should be escalated and reconciled.
-
-Applicable law always outranks internal documents.
-
----
-
-## 32. Adoption Statement
-
-The eventual adopted version may contain:
-
-> This Charter is adopted as the foundational institutional instrument of Aurex Digital Solutions and shall guide the development, governance, programmes, and operations of the institution until superseded or amended through an authorized institutional process.
-
-For now, because the institution is still being designed:
-
-**Status: Draft v1.0 / not yet formally adopted.**
-
-That distinction should remain visible.
-
----
-
-## 33. Constitutional Dependency
-
-Tasks 1-6 now form a coherent constitutional stack:
-
-```text
-FOUNDING THESIS
-Why should Aurex exist?
-        |
-        v
-PROBLEM STATEMENT
-What problem justifies the institution?
-        |
-        v
-VISION / MISSION / PURPOSE
-What future and mandate do we pursue?
-        |
-        v
-VALUES & PRINCIPLES
-What rules guide us?
-        |
-        v
-CODE OF CONDUCT
-How must participants behave?
-        |
-        v
-ORGANIZATION CHARTER
-What institution do these create?
-```
-
-This is the first point where Aurex can say it has a coherent draft constitutional foundation.
-
-This does not mean Aurex is legally incorporated, government-authorized, regulator-approved, licensed, or deployed as an energy-system operator.
-
----
-
-## 34. Relationship to the Governance Framework
-
-The Charter deliberately says that Aurex must have governance without prematurely inventing the governance model.
-
-[Task 7 - Governance Framework](./GOVERNANCE-FRAMEWORK.md) now answers:
-
-> Who actually makes decisions inside Aurex?
-
-It defines:
-
-- governing bodies;
-- founder authority;
-- executive authority;
-- future governing authority;
-- technical authority;
-- programme authority;
-- reserved decisions;
-- delegation;
-- escalation;
-- voting/consensus rules;
-- conflicts of interest;
-- accountability;
-- appeals;
-- emergency authority;
-- governance evolution.
-
-[Task 8 - Organization Structure & Decision Rights](./ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md) now translates the governance architecture into roles, reporting relationships, authority boundaries, and decision-rights matrices.
-
-[Task 9 - Open-Source & Licensing Framework](./OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md) now defines Aurex's draft open-source, licensing, dependency, contributor-IP, and repository-governance direction.
-
-[Task 10 - Contributing Framework](./CONTRIBUTING-FRAMEWORK.md), [Task 11 - Security & Responsible Technology Policy](./SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md), and [Task 12 - Ethics, Sovereignty & Public-Interest Framework](./ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md) now complete the initial Technical Governance phase.
-
-Task 13 begins the Operations phase through the Risk Management Framework. Task 14 - Operating Model, Task 15 - Organization Roadmap, and Task 16 - Funding & Financial Framework are now complete. Task 17 - Partnership & Stakeholder Framework is now complete as a Draft v1.0 foundational artifact. Task 18 - Research & Innovation Framework is now complete as a Draft v1.0 foundational artifact. Task 19 - Programme Governance Framework is now complete as a Draft v1.0 foundational artifact. Task 20 - Legal & Institutional Readiness is now complete as a Draft v1.0 foundational artifact. Task 21 - Organization Documentation Baseline v1.0 is complete as the Baseline Draft v1.0 consolidation artifact.
-
----
-
-## 35. Institutional Build Status
-
-```text
-01 Founding Thesis                         COMPLETE / DRAFT v1.0
-02 Official Problem Statement              COMPLETE / DRAFT v1.0
-03 Vision, Mission & Purpose               COMPLETE / DRAFT v1.0
-04 Values & Institutional Principles       COMPLETE / DRAFT v1.0
-05 Code of Conduct                         COMPLETE / DRAFT v1.0
-06 Organization Charter                    COMPLETE / DRAFT v1.0
-07 Governance Framework                    COMPLETE / DRAFT v1.0
-08 Organization Structure & Decision Rights COMPLETE / DRAFT v1.0
-09 Open-Source & Licensing Framework       COMPLETE / DRAFT v1.0
-10 Contributing Framework                  COMPLETE / DRAFT v1.0
-11 Security & Responsible Technology Policy COMPLETE / DRAFT v1.0
-12 Ethics, Sovereignty & Public-Interest Framework COMPLETE / DRAFT v1.0
-13 Risk Management Framework               COMPLETE / DRAFT v1.0
-14 Operating Model                         COMPLETE / DRAFT v1.0
-15 Organization Roadmap                    COMPLETE / DRAFT v1.0
-16 Funding & Financial Framework           COMPLETE / DRAFT v1.0
-17 Partnership & Stakeholder Framework     COMPLETE / DRAFT v1.0
-18 Research & Innovation Framework         COMPLETE / DRAFT v1.0
-19 Programme Governance Framework          COMPLETE / DRAFT v1.0
-20 Legal & Institutional Readiness         COMPLETE / DRAFT v1.0
-21 Organization Documentation Baseline v1.0 COMPLETE / BASELINE DRAFT v1.0
-```
-
-The constitutional phase is complete in draft form.
-
-Task 13 begins the Operations phase with risk management.
-
-Previous document: [Code of Conduct](./CODE-OF-CONDUCT.md)
-
-Home: [Documentation Index](./README.md)
-
-Next document: [Governance Framework](./GOVERNANCE-FRAMEWORK.md)
+**Previous:** [Code of Conduct](./CODE-OF-CONDUCT.md)
+**Home:** [Documentation Index](./README.md)
+**Next:** [Governance Framework](./GOVERNANCE-FRAMEWORK.md)
