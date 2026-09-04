@@ -119,24 +119,20 @@ The distinction matters because documentation can create discipline, but it cann
 
 ---
 
-## 5. Six-Layer Institutional Documentation Architecture
+## 5. Four-Group Institutional Documentation Architecture
 
-Aurex's baseline consists of six major layers:
+Aurex's baseline consists of four documentation groups:
 
 ```text
 AUREX DIGITAL SOLUTIONS
         |
-        +-- IDENTITY / CONSTITUTION
-        |
-        +-- GOVERNANCE
+        +-- INSTITUTIONAL FOUNDATION
         |
         +-- TECHNICAL GOVERNANCE
         |
-        +-- OPERATIONS
+        +-- OPERATIONS AND DEVELOPMENT
         |
-        +-- INSTITUTIONAL DEVELOPMENT
-        |
-        +-- LEGAL / INSTITUTIONAL READINESS
+        +-- READINESS AND BASELINE
 ```
 
 Together they describe the institution rather than any single product.
@@ -145,7 +141,7 @@ Together they describe the institution rather than any single product.
 
 ## 6. Baseline Document Inventory - Tasks 1-21
 
-### Layer I - Identity / Constitution
+### Institutional Foundation
 
 1. [Founding Thesis](../01-institutional-foundation/FOUNDING-THESIS.md) - Complete / Draft v1.0
    Defines the institutional thesis behind Aurex. Core question: **Why should Aurex exist?**
@@ -165,27 +161,13 @@ Together they describe the institution rather than any single product.
 6. [Organization Charter](../01-institutional-foundation/ORGANIZATION-CHARTER.md) - Complete / Draft v1.0, not yet formally adopted
    Defines Aurex's constitutional institutional identity and authority boundaries.
 
-### Layer II - Governance
-
 7. [Governance Framework](../01-institutional-foundation/GOVERNANCE-FRAMEWORK.md) - Complete / Draft v1.0
    Defines how legitimate institutional authority should work.
 
 8. [Organization Structure & Decision Rights](../01-institutional-foundation/ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md) - Complete / Draft v1.0
    Defines roles, accountability and decision rights.
 
-```text
-GOVERNANCE FRAMEWORK
-        |
-        v
-WHO MAY EXERCISE AUTHORITY?
-
-STRUCTURE & DECISION RIGHTS
-        |
-        v
-HOW IS THAT AUTHORITY DISTRIBUTED?
-```
-
-### Layer III - Technical Governance
+### Technical Governance
 
 9. [Open-Source & Licensing Framework](../02-technical-governance/OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md) - Complete / Draft v1.0
    Defines software rights, licensing, reuse and open-source stewardship.
@@ -215,7 +197,7 @@ SHOULD WE BUILD / DEPLOY IT?
 WHO BENEFITS AND WHO CONTROLS IT?
 ```
 
-### Layer IV - Operations
+### Operations and Development
 
 13. [Risk Management Framework](../03-operations-and-development/RISK-MANAGEMENT-FRAMEWORK.md) - Complete / Draft v1.0
     Defines how uncertainty and threats to objectives are governed.
@@ -235,8 +217,6 @@ HOW DO WE WORK?
         v
 IN WHAT ORDER SHOULD WE ADVANCE?
 ```
-
-### Layer V - Institutional Development
 
 16. [Funding & Financial Framework](../03-operations-and-development/FUNDING-AND-FINANCIAL-FRAMEWORK.md) - Complete / Draft v1.0
     Defines how Aurex should obtain and govern financial resources.
@@ -263,7 +243,7 @@ PROGRAMME GOVERNANCE
 INSTITUTIONAL EXECUTION
 ```
 
-### Layer VI - Legal / Institutional Readiness and Baseline
+### Readiness and Baseline
 
 20. [Legal & Institutional Readiness](LEGAL-AND-INSTITUTIONAL-READINESS.md) - Complete / Draft v1.0
     Defines the boundary between internal institutional governance and external legal authority.
