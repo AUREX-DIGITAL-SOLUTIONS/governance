@@ -6,7 +6,7 @@
 **Institution:** Aurex Digital Solutions  
 **Starting jurisdiction:** Kenya
 **Document type:** Foundational thesis
-**Navigation:** [Home: Documentation Index](./README.md) | [Next: Official Problem Statement](./OFFICIAL-PROBLEM-STATEMENT.md)
+**Navigation:** [Home: Documentation Index](../../README.md) | [Next: Official Problem Statement](OFFICIAL-PROBLEM-STATEMENT.md)
 
 > This thesis describes Aurex's founding argument. It does not claim that Aurex currently operates a national energy system, has government approval, or has deployed a national energy platform.
 
@@ -20,13 +20,13 @@ Africa has substantial renewable-energy potential and growing deployment of sola
 
 Its founding proposition is that open, interoperable, intelligence-driven digital infrastructure can help coordinate energy assets from facilities to regions and, over time, national systems.
 
-The detailed problem context and supporting evidence belong in the [Official Problem Statement](./OFFICIAL-PROBLEM-STATEMENT.md).
+The detailed problem context and supporting evidence belong in the [Official Problem Statement](OFFICIAL-PROBLEM-STATEMENT.md).
 
 ## 2. Mission
 
 Aurex will research, develop, validate, and steward digital energy infrastructure that helps African energy systems become more reliable, resilient, affordable, transparent, flexible, and productive.
 
-The institution will combine energy-systems research, open-source software, digital infrastructure design, applied artificial intelligence, policy analysis, and practical pilots. Its institutional identity and principles are defined in the [Vision, Mission & Purpose](./VISION-MISSION-PURPOSE.md), [Values & Institutional Principles](./VALUES-AND-INSTITUTIONAL-PRINCIPLES.md), and [Organization Charter](./ORGANIZATION-CHARTER.md).
+The institution will combine energy-systems research, open-source software, digital infrastructure design, applied artificial intelligence, policy analysis, and practical pilots. Its institutional identity and principles are defined in the [Vision, Mission & Purpose](VISION-MISSION-PURPOSE.md), [Values & Institutional Principles](VALUES-AND-INSTITUTIONAL-PRINCIPLES.md), and [Organization Charter](ORGANIZATION-CHARTER.md).
 
 ## 3. Digital Infrastructure Thesis
 
@@ -42,13 +42,13 @@ New generation capacity is necessary but insufficient. Energy systems also need 
 
 This layer should make physical infrastructure more observable, controllable, interoperable, and economically useful. It should complement, not replace, existing utilities, regulators, system operators, asset owners, and community energy institutions.
 
-Aurex's open-source approach is governed by the [Open-Source & Licensing Framework](./OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md), [Contributing Framework](./CONTRIBUTING-FRAMEWORK.md), and [Security & Responsible Technology Policy](./SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md).
+Aurex's open-source approach is governed by the [Open-Source & Licensing Framework](../02-technical-governance/OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md), [Contributing Framework](../02-technical-governance/CONTRIBUTING-FRAMEWORK.md), and [Security & Responsible Technology Policy](../02-technical-governance/SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md).
 
 ## 4. Starting Case: Kenya
 
 Kenya is Aurex's starting case because it combines strong renewable-energy resources and deployment, a growing digital economy, expanding distributed and commercial energy demand, and continuing challenges in affordability, reliability, coordination, investment, and system efficiency.
 
-Kenya will provide the initial research base, case-study context, pilot environment, and policy-learning setting. Kenya-specific claims and evidence should be maintained in the [Official Problem Statement](./OFFICIAL-PROBLEM-STATEMENT.md) and the [Research & Innovation Framework](./RESEARCH-AND-INNOVATION-FRAMEWORK.md).
+Kenya will provide the initial research base, case-study context, pilot environment, and policy-learning setting. Kenya-specific claims and evidence should be maintained in the [Official Problem Statement](OFFICIAL-PROBLEM-STATEMENT.md) and the [Research & Innovation Framework](../03-operations-and-development/RESEARCH-AND-INNOVATION-FRAMEWORK.md).
 
 ## 5. Staged Technology Direction
 
@@ -74,13 +74,13 @@ Potential capabilities include energy monitoring, demand profiling, solar and ba
 
 Regional DERMS and National DERMS are proposed future coordination layers, subject to evidence, regulation, utility participation, cybersecurity, and public-interest governance. The Energy Operating System is a long-term architectural and institutional vision, not a current product claim.
 
-The research and validation pathway is defined further in the [Research & Innovation Framework](./RESEARCH-AND-INNOVATION-FRAMEWORK.md), [Operating Model](./OPERATING-MODEL.md), and [Organization Roadmap](./ORGANIZATION-ROADMAP.md).
+The research and validation pathway is defined further in the [Research & Innovation Framework](../03-operations-and-development/RESEARCH-AND-INNOVATION-FRAMEWORK.md), [Operating Model](../03-operations-and-development/OPERATING-MODEL.md), and [Organization Roadmap](../03-operations-and-development/ORGANIZATION-ROADMAP.md).
 
 ## 6. Founding Hypothesis
 
 > If African energy systems are equipped with open, interoperable, intelligence-driven digital infrastructure, then renewable resources, distributed assets, facilities, utilities, and consumers can be coordinated more effectively, improving reliability, resilience, affordability, transparency, and economic productivity.
 
-This hypothesis must be tested through research, prototypes, pilots, partnerships, measured outcomes, and policy engagement. Its risks, assumptions, and safeguards are addressed in the [Risk Management Framework](./RISK-MANAGEMENT-FRAMEWORK.md), [Ethics, Sovereignty & Public-Interest Framework](./ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md), and [Programme Governance Framework](./PROGRAMME-GOVERNANCE-FRAMEWORK.md).
+This hypothesis must be tested through research, prototypes, pilots, partnerships, measured outcomes, and policy engagement. Its risks, assumptions, and safeguards are addressed in the [Risk Management Framework](../03-operations-and-development/RISK-MANAGEMENT-FRAMEWORK.md), [Ethics, Sovereignty & Public-Interest Framework](../02-technical-governance/ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md), and [Programme Governance Framework](../03-operations-and-development/PROGRAMME-GOVERNANCE-FRAMEWORK.md).
 
 ## 7. Institutional Boundaries
 
@@ -88,7 +88,7 @@ Aurex is a proposed, mission-driven research and development institution. It is 
 
 Aurex may credibly operate as an open-source research initiative, digital energy infrastructure builder, platform-development effort, and future partner to utilities, regulators, counties, facilities, researchers, developers, and communities.
 
-Legal, governance, partnership, funding, and readiness requirements are maintained in the [Governance Framework](./GOVERNANCE-FRAMEWORK.md), [Partnership & Stakeholder Framework](./PARTNERSHIP-AND-STAKEHOLDER-FRAMEWORK.md), [Funding & Financial Framework](./FUNDING-AND-FINANCIAL-FRAMEWORK.md), and [Legal & Institutional Readiness](./LEGAL-AND-INSTITUTIONAL-READINESS.md).
+Legal, governance, partnership, funding, and readiness requirements are maintained in the [Governance Framework](GOVERNANCE-FRAMEWORK.md), [Partnership & Stakeholder Framework](../03-operations-and-development/PARTNERSHIP-AND-STAKEHOLDER-FRAMEWORK.md), [Funding & Financial Framework](../03-operations-and-development/FUNDING-AND-FINANCIAL-FRAMEWORK.md), and [Legal & Institutional Readiness](../04-readiness-and-baseline/LEGAL-AND-INSTITUTIONAL-READINESS.md).
 
 ## 8. Short-Form Thesis
 
@@ -100,7 +100,7 @@ Legal, governance, partnership, funding, and readiness requirements are maintain
 
 ## Document Status
 
-This document is complete as a Draft v1.0 foundational artifact. Repository-wide documentation status is maintained in the [README](./README.md) and [Organization Documentation Baseline v1.0](./ORGANIZATION-DOCUMENTATION-BASELINE-V1.0.md).
+This document is complete as a Draft v1.0 foundational artifact. Repository-wide documentation status is maintained in the [README](../../README.md) and [Organization Documentation Baseline v1.0](../04-readiness-and-baseline/ORGANIZATION-DOCUMENTATION-BASELINE-V1.0.md).
 
-**Previous:** [Documentation Index](./README.md)
-**Next:** [Official Problem Statement](./OFFICIAL-PROBLEM-STATEMENT.md)
+**Previous:** [Documentation Index](../../README.md)
+**Next:** [Official Problem Statement](OFFICIAL-PROBLEM-STATEMENT.md)

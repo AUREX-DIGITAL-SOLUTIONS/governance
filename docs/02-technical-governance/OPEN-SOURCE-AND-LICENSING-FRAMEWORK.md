@@ -8,7 +8,7 @@
 **Phase:** Technical Governance  
 **Purpose:** Define Aurex Digital Solutions' draft institutional policy direction for open-source software, licensing, contributor intellectual property, third-party dependencies, documentation, data, trademarks, security-sensitive materials, and open technical collaboration.
 
-**Navigation:** [Previous: Organization Structure & Decision Rights](./ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md) | [Home: Documentation Index](./README.md) | [Next: Contributing Framework](./CONTRIBUTING-FRAMEWORK.md)
+**Navigation:** [Previous: Organization Structure & Decision Rights](../01-institutional-foundation/ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md) | [Home: Documentation Index](../../README.md) | [Next: Contributing Framework](CONTRIBUTING-FRAMEWORK.md)
 
 Task 8 established who holds responsibility and decision authority.
 
@@ -1176,8 +1176,8 @@ Task 10 converts this licensing direction into a practical participation model.
 
 Task 9 is complete as a Draft v1.0 foundational artifact.
 
-Previous document: [Organization Structure & Decision Rights](./ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md)
+Previous document: [Organization Structure & Decision Rights](../01-institutional-foundation/ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md)
 
-Home: [Documentation Index](./README.md)
+Home: [Documentation Index](../../README.md)
 
-Next document: [Contributing Framework](./CONTRIBUTING-FRAMEWORK.md)
+Next document: [Contributing Framework](CONTRIBUTING-FRAMEWORK.md)

@@ -8,7 +8,7 @@
 **Institution:** Aurex Digital Solutions  
 **Starting jurisdiction:** Kenya
 **Document type:** Values and institutional principles
-**Navigation:** [Previous: Vision, Mission & Purpose](./VISION-MISSION-PURPOSE.md) | [Home: Documentation Index](./README.md) | [Next: Code of Conduct](./CODE-OF-CONDUCT.md)
+**Navigation:** [Previous: Vision, Mission & Purpose](VISION-MISSION-PURPOSE.md) | [Home: Documentation Index](../../README.md) | [Next: Code of Conduct](../../CODE-OF-CONDUCT.md)
 
 > This document defines how Aurex should behave while pursuing its mission. It does not grant operational, regulatory, utility, or system-operator authority.
 
@@ -16,7 +16,7 @@
 
 Values describe the qualities Aurex seeks to embody. Principles are decision rules that should remain valid when commercial pressure, technical convenience, politics, funding, growth, or ambition pull in another direction.
 
-The [Vision, Mission & Purpose](./VISION-MISSION-PURPOSE.md) document defines why Aurex exists and what it seeks to do. This document defines the standards that should guide how it does that work.
+The [Vision, Mission & Purpose](VISION-MISSION-PURPOSE.md) document defines why Aurex exists and what it seeks to do. This document defines the standards that should guide how it does that work.
 
 ## 2. Core Values
 
@@ -94,7 +94,7 @@ Aurex should strengthen existing infrastructure where safe and economically just
 
 Important decisions should record the question, evidence, options, decision, authority, rationale, and result. Aurex must be willing to report when a solution does not work, economics are unfavorable, regulation is missing, or scaling is premature.
 
-The practical application of these principles is developed in the [Code of Conduct](./CODE-OF-CONDUCT.md), [Governance Framework](./GOVERNANCE-FRAMEWORK.md), [Organization Structure & Decision Rights](./ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md), and [Risk Management Framework](./RISK-MANAGEMENT-FRAMEWORK.md).
+The practical application of these principles is developed in the [Code of Conduct](../../CODE-OF-CONDUCT.md), [Governance Framework](GOVERNANCE-FRAMEWORK.md), [Organization Structure & Decision Rights](ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md), and [Risk Management Framework](../03-operations-and-development/RISK-MANAGEMENT-FRAMEWORK.md).
 
 ## 4. Institutional Commitments
 
@@ -109,7 +109,7 @@ Aurex will:
 - Scale only when evidence supports scaling.
 - Remain transparent about what has and has not been proven.
 
-These commitments are implemented through the [Open-Source & Licensing Framework](./OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md), [Security & Responsible Technology Policy](./SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md), [Ethics, Sovereignty & Public-Interest Framework](./ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md), and [Contributing Framework](./CONTRIBUTING-FRAMEWORK.md).
+These commitments are implemented through the [Open-Source & Licensing Framework](../02-technical-governance/OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md), [Security & Responsible Technology Policy](../02-technical-governance/SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md), [Ethics, Sovereignty & Public-Interest Framework](../02-technical-governance/ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md), and [Contributing Framework](../02-technical-governance/CONTRIBUTING-FRAMEWORK.md).
 
 ## 5. Founder-to-Institution Principle
 
@@ -144,8 +144,8 @@ These short values are an external summary, not a replacement for the institutio
 
 ## Document Status
 
-This document is complete as a Draft v1.0 foundational artifact. Its principles are implemented and further specified through the [Code of Conduct](./CODE-OF-CONDUCT.md), [Governance Framework](./GOVERNANCE-FRAMEWORK.md), [Open-Source & Licensing Framework](./OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md), [Security & Responsible Technology Policy](./SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md), and [Ethics, Sovereignty & Public-Interest Framework](./ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md).
+This document is complete as a Draft v1.0 foundational artifact. Its principles are implemented and further specified through the [Code of Conduct](../../CODE-OF-CONDUCT.md), [Governance Framework](GOVERNANCE-FRAMEWORK.md), [Open-Source & Licensing Framework](../02-technical-governance/OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md), [Security & Responsible Technology Policy](../02-technical-governance/SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md), and [Ethics, Sovereignty & Public-Interest Framework](../02-technical-governance/ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md).
 
-**Previous:** [Vision, Mission & Purpose](./VISION-MISSION-PURPOSE.md)
-**Home:** [Documentation Index](./README.md)
-**Next:** [Code of Conduct](./CODE-OF-CONDUCT.md)
+**Previous:** [Vision, Mission & Purpose](VISION-MISSION-PURPOSE.md)
+**Home:** [Documentation Index](../../README.md)
+**Next:** [Code of Conduct](../../CODE-OF-CONDUCT.md)

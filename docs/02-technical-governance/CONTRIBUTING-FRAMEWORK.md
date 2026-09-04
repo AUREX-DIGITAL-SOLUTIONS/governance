@@ -8,7 +8,7 @@
 **Phase:** Technical Governance
 **Purpose:** Define Aurex Digital Solutions' institution-wide framework for responsible participation, contribution review, contributor progression, maintainer authority, and contribution governance across Aurex-controlled projects.
 
-**Navigation:** [Previous: Open-Source & Licensing Framework](./OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md) | [Home: Documentation Index](./README.md) | [Next: Security & Responsible Technology Policy](./SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md)
+**Navigation:** [Previous: Open-Source & Licensing Framework](OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md) | [Home: Documentation Index](../../README.md) | [Next: Security & Responsible Technology Policy](SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md)
 
 Task 9 established how Aurex technology can be legally shared, reused, modified, distributed, and governed through open-source and licensing rules.
 
@@ -230,7 +230,7 @@ Requirements should be proportional to contribution risk.
 
 ## 8. Code of Conduct
 
-Participation in Aurex-controlled projects is subject to the institutional [Code of Conduct](./CODE-OF-CONDUCT.md).
+Participation in Aurex-controlled projects is subject to the institutional [Code of Conduct](../../CODE-OF-CONDUCT.md).
 
 This applies to:
 
@@ -251,7 +251,7 @@ Personal hostility is not.
 
 ## 9. Contribution Licensing
 
-Contributions must comply with the applicable project license and the [Open-Source & Licensing Framework](./OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md).
+Contributions must comply with the applicable project license and the [Open-Source & Licensing Framework](OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md).
 
 A contributor must have the right to submit the work.
 
@@ -582,7 +582,7 @@ MERGE AUTHORITY
 DEPLOYMENT AUTHORITY
 ```
 
-This aligns directly with the [Organization Structure & Decision Rights](./ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md).
+This aligns directly with the [Organization Structure & Decision Rights](../01-institutional-foundation/ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md).
 
 ---
 
@@ -1243,7 +1243,7 @@ Task 12 now defines the wider ethical, sovereignty, and public-interest framewor
 
 The next completed artifact is:
 
-[Task 12 - Ethics, Sovereignty & Public-Interest Framework](./ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md)
+[Task 12 - Ethics, Sovereignty & Public-Interest Framework](ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md)
 
 Task 13 begins the Operations phase through the Risk Management Framework. Task 14 - Operating Model, Task 15 - Organization Roadmap, and Task 16 - Funding & Financial Framework are now complete. Task 17 - Partnership & Stakeholder Framework is now complete as a Draft v1.0 foundational artifact. Task 18 - Research & Innovation Framework is now complete as a Draft v1.0 foundational artifact. Task 19 - Programme Governance Framework is now complete as a Draft v1.0 foundational artifact. Task 20 - Legal & Institutional Readiness is now complete as a Draft v1.0 foundational artifact. Task 21 - Organization Documentation Baseline v1.0 is complete as the Baseline Draft v1.0 consolidation artifact.
 
@@ -1277,8 +1277,8 @@ Task 13 begins the Operations phase through the Risk Management Framework. Task 
 
 Task 10 is complete as a Draft v1.0 foundational artifact.
 
-Previous document: [Open-Source & Licensing Framework](./OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md)
+Previous document: [Open-Source & Licensing Framework](OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md)
 
-Home: [Documentation Index](./README.md)
+Home: [Documentation Index](../../README.md)
 
-Next document: [Security & Responsible Technology Policy](./SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md)
+Next document: [Security & Responsible Technology Policy](SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md)

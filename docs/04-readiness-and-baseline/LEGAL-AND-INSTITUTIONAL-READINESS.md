@@ -7,7 +7,7 @@
 **Phase:** Legalization
 **Jurisdictional starting point:** Kenya
 **Scope:** Legal formation, corporate governance, regulatory boundaries, contracts, IP, data, cybersecurity, energy-sector authorization, employment, safety, procurement and institutional compliance
-**Navigation:** [Previous: Programme Governance Framework](./PROGRAMME-GOVERNANCE-FRAMEWORK.md) | [Home: Documentation Index](./README.md) | [Next: Organization Documentation Baseline v1.0](./ORGANIZATION-DOCUMENTATION-BASELINE-V1.0.md)
+**Navigation:** [Previous: Programme Governance Framework](../03-operations-and-development/PROGRAMME-GOVERNANCE-FRAMEWORK.md) | [Home: Documentation Index](../../README.md) | [Next: Organization Documentation Baseline v1.0](ORGANIZATION-DOCUMENTATION-BASELINE-V1.0.md)
 
 Task 19 established how Aurex governs programmes.
 
@@ -1567,25 +1567,25 @@ Institutional truth is more valuable than inflated maturity.
 
 This framework connects to the rest of Aurex's institutional architecture:
 
-- [Founding Thesis](./FOUNDING-THESIS.md) establishes the starting institutional hypothesis.
-- [Official Problem Statement](./OFFICIAL-PROBLEM-STATEMENT.md) defines the problem discipline legalization must preserve.
-- [Vision, Mission & Purpose](./VISION-MISSION-PURPOSE.md) defines why legalization matters.
-- [Values & Institutional Principles](./VALUES-AND-INSTITUTIONAL-PRINCIPLES.md) defines the values legalization must protect.
-- [Code of Conduct](./CODE-OF-CONDUCT.md) governs conduct during legal and external activity.
-- [Organization Charter](./ORGANIZATION-CHARTER.md) defines institutional purpose and internal authority.
-- [Governance Framework](./GOVERNANCE-FRAMEWORK.md) governs legal decisions and escalation.
-- [Organization Structure & Decision Rights](./ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md) governs role and authority boundaries.
-- [Open-Source & Licensing Framework](./OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md) governs open-source and licensing philosophy.
-- [Contributing Framework](./CONTRIBUTING-FRAMEWORK.md) governs contributor participation.
-- [Security & Responsible Technology Policy](./SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md) governs security and authorized technology use.
-- [Ethics, Sovereignty & Public-Interest Framework](./ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md) governs public-interest boundaries.
-- [Risk Management Framework](./RISK-MANAGEMENT-FRAMEWORK.md) governs legal and institutional risk.
-- [Operating Model](./OPERATING-MODEL.md) governs how legal readiness becomes operational practice.
-- [Organization Roadmap](./ORGANIZATION-ROADMAP.md) governs maturity gates.
-- [Funding & Financial Framework](./FUNDING-AND-FINANCIAL-FRAMEWORK.md) governs financial readiness and separation.
-- [Partnership & Stakeholder Framework](./PARTNERSHIP-AND-STAKEHOLDER-FRAMEWORK.md) governs external relationships and representation.
-- [Research & Innovation Framework](./RESEARCH-AND-INNOVATION-FRAMEWORK.md) governs research evidence and innovation discipline.
-- [Programme Governance Framework](./PROGRAMME-GOVERNANCE-FRAMEWORK.md) governs programme authority and delivery gates.
+- [Founding Thesis](../01-institutional-foundation/FOUNDING-THESIS.md) establishes the starting institutional hypothesis.
+- [Official Problem Statement](../01-institutional-foundation/OFFICIAL-PROBLEM-STATEMENT.md) defines the problem discipline legalization must preserve.
+- [Vision, Mission & Purpose](../01-institutional-foundation/VISION-MISSION-PURPOSE.md) defines why legalization matters.
+- [Values & Institutional Principles](../01-institutional-foundation/VALUES-AND-INSTITUTIONAL-PRINCIPLES.md) defines the values legalization must protect.
+- [Code of Conduct](../../CODE-OF-CONDUCT.md) governs conduct during legal and external activity.
+- [Organization Charter](../01-institutional-foundation/ORGANIZATION-CHARTER.md) defines institutional purpose and internal authority.
+- [Governance Framework](../01-institutional-foundation/GOVERNANCE-FRAMEWORK.md) governs legal decisions and escalation.
+- [Organization Structure & Decision Rights](../01-institutional-foundation/ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md) governs role and authority boundaries.
+- [Open-Source & Licensing Framework](../02-technical-governance/OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md) governs open-source and licensing philosophy.
+- [Contributing Framework](../02-technical-governance/CONTRIBUTING-FRAMEWORK.md) governs contributor participation.
+- [Security & Responsible Technology Policy](../02-technical-governance/SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md) governs security and authorized technology use.
+- [Ethics, Sovereignty & Public-Interest Framework](../02-technical-governance/ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md) governs public-interest boundaries.
+- [Risk Management Framework](../03-operations-and-development/RISK-MANAGEMENT-FRAMEWORK.md) governs legal and institutional risk.
+- [Operating Model](../03-operations-and-development/OPERATING-MODEL.md) governs how legal readiness becomes operational practice.
+- [Organization Roadmap](../03-operations-and-development/ORGANIZATION-ROADMAP.md) governs maturity gates.
+- [Funding & Financial Framework](../03-operations-and-development/FUNDING-AND-FINANCIAL-FRAMEWORK.md) governs financial readiness and separation.
+- [Partnership & Stakeholder Framework](../03-operations-and-development/PARTNERSHIP-AND-STAKEHOLDER-FRAMEWORK.md) governs external relationships and representation.
+- [Research & Innovation Framework](../03-operations-and-development/RESEARCH-AND-INNOVATION-FRAMEWORK.md) governs research evidence and innovation discipline.
+- [Programme Governance Framework](../03-operations-and-development/PROGRAMME-GOVERNANCE-FRAMEWORK.md) governs programme authority and delivery gates.
 
 Task 20 connects those frameworks to lawful institutional operation.
 
@@ -1662,8 +1662,8 @@ Task 21 preserves the rule that a documentation baseline records the state of th
 
 Task 20 is complete as a Draft v1.0 foundational artifact.
 
-Previous document: [Programme Governance Framework](./PROGRAMME-GOVERNANCE-FRAMEWORK.md)
+Previous document: [Programme Governance Framework](../03-operations-and-development/PROGRAMME-GOVERNANCE-FRAMEWORK.md)
 
-Home: [Documentation Index](./README.md)
+Home: [Documentation Index](../../README.md)
 
-Next document: [Organization Documentation Baseline v1.0](./ORGANIZATION-DOCUMENTATION-BASELINE-V1.0.md).
+Next document: [Organization Documentation Baseline v1.0](ORGANIZATION-DOCUMENTATION-BASELINE-V1.0.md).

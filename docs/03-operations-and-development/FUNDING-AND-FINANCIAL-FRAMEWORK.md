@@ -6,7 +6,7 @@
 **Institution:** Aurex Digital Solutions  
 **Phase:** External / Institutional Development  
 **Scope:** Funding strategy, financial governance, resource stewardship and institutional sustainability  
-**Navigation:** [Previous: Organization Roadmap](./ORGANIZATION-ROADMAP.md) | [Home: Documentation Index](./README.md) | [Next: Partnership & Stakeholder Framework](./PARTNERSHIP-AND-STAKEHOLDER-FRAMEWORK.md)
+**Navigation:** [Previous: Organization Roadmap](ORGANIZATION-ROADMAP.md) | [Home: Documentation Index](../../README.md) | [Next: Partnership & Stakeholder Framework](PARTNERSHIP-AND-STAKEHOLDER-FRAMEWORK.md)
 
 Task 15 established **where Aurex intends to go and the evidence gates required to advance**.
 
@@ -1076,7 +1076,7 @@ Commitments should be accepted only by people with authority to bind the institu
 
 ## 50. Financial Risk
 
-Financial risks should integrate with [Task 13 - Risk Management Framework](./RISK-MANAGEMENT-FRAMEWORK.md).
+Financial risks should integrate with [Task 13 - Risk Management Framework](RISK-MANAGEMENT-FRAMEWORK.md).
 
 Examples:
 
@@ -1143,7 +1143,7 @@ This applies particularly to:
 - funding;
 - contracting.
 
-The [Code of Conduct](./CODE-OF-CONDUCT.md) remains applicable.
+The [Code of Conduct](../../CODE-OF-CONDUCT.md) remains applicable.
 
 Aurex should not treat bribery or improper inducement as a cost of doing business.
 
@@ -1264,7 +1264,7 @@ Aurex should review material funding for sovereignty and dependency implications
 - exclusive partnerships;
 - conditions that weaken public-interest obligations.
 
-This connects directly to [Task 12 - Ethics, Sovereignty & Public-Interest Framework](./ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md).
+This connects directly to [Task 12 - Ethics, Sovereignty & Public-Interest Framework](../02-technical-governance/ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md).
 
 ---
 
@@ -1282,7 +1282,7 @@ Funding for open-source work may support:
 - interoperability work;
 - responsible release processes.
 
-Financial sustainability should reinforce the open-source strategy defined in [Task 9 - Open-Source & Licensing Framework](./OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md).
+Financial sustainability should reinforce the open-source strategy defined in [Task 9 - Open-Source & Licensing Framework](../02-technical-governance/OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md).
 
 Aurex should avoid funding arrangements that require abandoning open-source commitments without explicit institutional review.
 
@@ -1505,7 +1505,7 @@ Controls should include, proportionate to maturity:
 - protection of credentials;
 - careful handling of payment information.
 
-Financial data security connects to [Task 11 - Security & Responsible Technology Policy](./SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md).
+Financial data security connects to [Task 11 - Security & Responsible Technology Policy](../02-technical-governance/SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md).
 
 ---
 
@@ -1657,7 +1657,7 @@ Task 17 defines how Aurex governs external relationships.
 
 The next completed artifact is:
 
-[Task 17 - Partnership & Stakeholder Framework](./PARTNERSHIP-AND-STAKEHOLDER-FRAMEWORK.md)
+[Task 17 - Partnership & Stakeholder Framework](PARTNERSHIP-AND-STAKEHOLDER-FRAMEWORK.md)
 
 It answers:
 
@@ -1702,8 +1702,8 @@ Task 17 continues the rule that external support cannot purchase institutional t
 
 Task 16 is complete as a Draft v1.0 foundational artifact.
 
-Previous document: [Organization Roadmap](./ORGANIZATION-ROADMAP.md)
+Previous document: [Organization Roadmap](ORGANIZATION-ROADMAP.md)
 
-Home: [Documentation Index](./README.md)
+Home: [Documentation Index](../../README.md)
 
-Next document: [Partnership & Stakeholder Framework](./PARTNERSHIP-AND-STAKEHOLDER-FRAMEWORK.md).
+Next document: [Partnership & Stakeholder Framework](PARTNERSHIP-AND-STAKEHOLDER-FRAMEWORK.md).

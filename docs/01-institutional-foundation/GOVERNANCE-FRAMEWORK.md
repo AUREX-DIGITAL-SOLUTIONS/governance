@@ -8,7 +8,7 @@
 **Phase:** Founding / pre-formalization
 **Purpose:** Define how authority, accountability, decisions, oversight, and escalation operate inside Aurex
 
-**Navigation:** [Previous: Organization Charter](./ORGANIZATION-CHARTER.md) | [Home: Documentation Index](./README.md) | [Next: Organization Structure & Decision Rights](./ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md)
+**Navigation:** [Previous: Organization Charter](ORGANIZATION-CHARTER.md) | [Home: Documentation Index](../../README.md) | [Next: Organization Structure & Decision Rights](ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md)
 
 > Governance must be clear enough to create accountability and light enough to support real work. This framework defines Aurex's internal governance; it does not create authority over external institutions or infrastructure.
 
@@ -20,7 +20,7 @@ The governing rule is:
 
 > Authority must be explicit, limited to a defined scope, and matched with accountability.
 
-Technical capability does not create legal, regulatory, ownership, operational, or market authority. The [Organization Charter](./ORGANIZATION-CHARTER.md) establishes the constitutional boundary; this framework defines how Aurex makes and reviews decisions within it.
+Technical capability does not create legal, regulatory, ownership, operational, or market authority. The [Organization Charter](ORGANIZATION-CHARTER.md) establishes the constitutional boundary; this framework defines how Aurex makes and reviews decisions within it.
 
 ## 2. Governance Architecture
 
@@ -51,11 +51,11 @@ Executive leadership translates approved direction into strategy execution, peop
 
 ### Technical governance
 
-Technical governance protects architecture, engineering quality, interoperability, cybersecurity, data, safety, technical claims, and deployment readiness. The detailed controls are in the [Security & Responsible Technology Policy](./SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md) and [Open-Source & Licensing Framework](./OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md).
+Technical governance protects architecture, engineering quality, interoperability, cybersecurity, data, safety, technical claims, and deployment readiness. The detailed controls are in the [Security & Responsible Technology Policy](../02-technical-governance/SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md) and [Open-Source & Licensing Framework](../02-technical-governance/OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md).
 
 ### Programme governance
 
-Programme governance ensures that significant programmes have an owner, purpose, scope, resources, milestones, risks, evidence requirements, decision gates, reporting, and closure criteria. The [Programme Governance Framework](./PROGRAMME-GOVERNANCE-FRAMEWORK.md) defines the lifecycle in detail.
+Programme governance ensures that significant programmes have an owner, purpose, scope, resources, milestones, risks, evidence requirements, decision gates, reporting, and closure criteria. The [Programme Governance Framework](../03-operations-and-development/PROGRAMME-GOVERNANCE-FRAMEWORK.md) defines the lifecycle in detail.
 
 ### Assurance
 
@@ -97,7 +97,7 @@ Who executes?
 Who must be informed?
 ```
 
-[Organization Structure & Decision Rights](./ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md) converts this model into roles, reporting lines, and decision matrices. RACI may clarify workflow, but it does not create legal or institutional authority.
+[Organization Structure & Decision Rights](ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md) converts this model into roles, reporting lines, and decision matrices. RACI may clarify workflow, but it does not create legal or institutional authority.
 
 ## 5. Decision Standard
 
@@ -132,7 +132,7 @@ A significant programme or technical initiative should pass through proportionat
 Problem -> Research -> Proposal -> Review -> Experiment -> Validation -> Pilot -> Deployment -> Evaluation
 ```
 
-Progression is not automatic. Each stage should state its maturity, evidence, risks, dependencies, authority, and conditions. The [Research & Innovation Framework](./RESEARCH-AND-INNOVATION-FRAMEWORK.md), [Operating Model](./OPERATING-MODEL.md), and [Programme Governance Framework](./PROGRAMME-GOVERNANCE-FRAMEWORK.md) provide supporting requirements.
+Progression is not automatic. Each stage should state its maturity, evidence, risks, dependencies, authority, and conditions. The [Research & Innovation Framework](../03-operations-and-development/RESEARCH-AND-INNOVATION-FRAMEWORK.md), [Operating Model](../03-operations-and-development/OPERATING-MODEL.md), and [Programme Governance Framework](../03-operations-and-development/PROGRAMME-GOVERNANCE-FRAMEWORK.md) provide supporting requirements.
 
 ## 8. Escalation, Stop-Work, and Emergencies
 
@@ -152,7 +152,7 @@ Anyone involved in technical, field, security, data, or infrastructure-related w
 
 Designated roles may take immediate protective action during an emergency to protect people, equipment, data, systems, or essential operations. Emergency action must be documented and reviewed afterward; it is not a permanent bypass of governance and does not authorize unlawful external control.
 
-Detailed behavioral and non-retaliation requirements are in the [Code of Conduct](./CODE-OF-CONDUCT.md).
+Detailed behavioral and non-retaliation requirements are in the [Code of Conduct](../../CODE-OF-CONDUCT.md).
 
 ## 9. Conflicts, Partnerships, and Funding
 
@@ -162,7 +162,7 @@ Major partnerships should record purpose, scope, owner, legal basis, financial a
 
 Funding may support research and execution but must not predetermine technical conclusions. Material restrictions, influence, and public-interest risks should be recorded.
 
-Detailed requirements are maintained in the [Partnership & Stakeholder Framework](./PARTNERSHIP-AND-STAKEHOLDER-FRAMEWORK.md), [Funding & Financial Framework](./FUNDING-AND-FINANCIAL-FRAMEWORK.md), and [Research & Innovation Framework](./RESEARCH-AND-INNOVATION-FRAMEWORK.md).
+Detailed requirements are maintained in the [Partnership & Stakeholder Framework](../03-operations-and-development/PARTNERSHIP-AND-STAKEHOLDER-FRAMEWORK.md), [Funding & Financial Framework](../03-operations-and-development/FUNDING-AND-FINANCIAL-FRAMEWORK.md), and [Research & Innovation Framework](../03-operations-and-development/RESEARCH-AND-INNOVATION-FRAMEWORK.md).
 
 ## 10. Transparency and Records
 
@@ -186,16 +186,16 @@ Governance performance should be reviewed by asking whether authority is clear, 
 
 ## 12. Relationship to Other Documents
 
-This framework implements the [Organization Charter](./ORGANIZATION-CHARTER.md) and is operationalized by [Organization Structure & Decision Rights](./ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md).
+This framework implements the [Organization Charter](ORGANIZATION-CHARTER.md) and is operationalized by [Organization Structure & Decision Rights](ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md).
 
-It works with the [Values & Institutional Principles](./VALUES-AND-INSTITUTIONAL-PRINCIPLES.md), [Code of Conduct](./CODE-OF-CONDUCT.md), [Security & Responsible Technology Policy](./SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md), [Risk Management Framework](./RISK-MANAGEMENT-FRAMEWORK.md), [Legal & Institutional Readiness](./LEGAL-AND-INSTITUTIONAL-READINESS.md), and [Programme Governance Framework](./PROGRAMME-GOVERNANCE-FRAMEWORK.md).
+It works with the [Values & Institutional Principles](VALUES-AND-INSTITUTIONAL-PRINCIPLES.md), [Code of Conduct](../../CODE-OF-CONDUCT.md), [Security & Responsible Technology Policy](../02-technical-governance/SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md), [Risk Management Framework](../03-operations-and-development/RISK-MANAGEMENT-FRAMEWORK.md), [Legal & Institutional Readiness](../04-readiness-and-baseline/LEGAL-AND-INSTITUTIONAL-READINESS.md), and [Programme Governance Framework](../03-operations-and-development/PROGRAMME-GOVERNANCE-FRAMEWORK.md).
 
 Applicable law, licences, contracts, and legitimate external authority always prevail over internal Aurex documentation.
 
 ## Document Status
 
-This document is a Draft v1.0 governance framework for the founding and pre-formalization stage. Repository-wide status is maintained in the [README](./README.md) and [Organization Documentation Baseline v1.0](./ORGANIZATION-DOCUMENTATION-BASELINE-V1.0.md).
+This document is a Draft v1.0 governance framework for the founding and pre-formalization stage. Repository-wide status is maintained in the [README](../../README.md) and [Organization Documentation Baseline v1.0](../04-readiness-and-baseline/ORGANIZATION-DOCUMENTATION-BASELINE-V1.0.md).
 
-**Previous:** [Organization Charter](./ORGANIZATION-CHARTER.md)
-**Home:** [Documentation Index](./README.md)
-**Next:** [Organization Structure & Decision Rights](./ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md)
+**Previous:** [Organization Charter](ORGANIZATION-CHARTER.md)
+**Home:** [Documentation Index](../../README.md)
+**Next:** [Organization Structure & Decision Rights](ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md)

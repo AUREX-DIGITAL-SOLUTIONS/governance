@@ -6,7 +6,7 @@
 **Institution:** Aurex Digital Solutions  
 **Phase:** Operations  
 **Scope:** How Aurex converts institutional purpose into coordinated day-to-day work  
-**Navigation:** [Previous: Risk Management Framework](./RISK-MANAGEMENT-FRAMEWORK.md) | [Home: Documentation Index](./README.md) | [Next: Organization Roadmap](./ORGANIZATION-ROADMAP.md)
+**Navigation:** [Previous: Risk Management Framework](RISK-MANAGEMENT-FRAMEWORK.md) | [Home: Documentation Index](../../README.md) | [Next: Organization Roadmap](ORGANIZATION-ROADMAP.md)
 
 Task 13 established how Aurex identifies and governs **uncertainty and risk**.
 
@@ -1584,19 +1584,19 @@ If any component is missing, progress may become unclear, unauthorized, risky or
 
 This Operating Model connects the existing institutional documentation stack:
 
-- [Founding Thesis](./FOUNDING-THESIS.md) defines the institutional hypothesis the operating model must serve.
-- [Official Problem Statement](./OFFICIAL-PROBLEM-STATEMENT.md) defines the problem boundary that work should address.
-- [Vision, Mission & Purpose](./VISION-MISSION-PURPOSE.md) defines the objectives that priorities should trace to.
-- [Values & Institutional Principles](./VALUES-AND-INSTITUTIONAL-PRINCIPLES.md) defines the principles that operating decisions must respect.
-- [Code of Conduct](./CODE-OF-CONDUCT.md) defines expected conduct when people contribute or disagree.
-- [Organization Charter](./ORGANIZATION-CHARTER.md) defines institutional identity and boundaries.
-- [Governance Framework](./GOVERNANCE-FRAMEWORK.md) defines authority, accountability and escalation.
-- [Organization Structure & Decision Rights](./ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md) defines functional roles and decision rights.
-- [Open-Source & Licensing Framework](./OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md) defines open-source and licensing controls.
-- [Contributing Framework](./CONTRIBUTING-FRAMEWORK.md) defines how external and internal contributors participate.
-- [Security & Responsible Technology Policy](./SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md) defines secure and responsible technical boundaries.
-- [Ethics, Sovereignty & Public-Interest Framework](./ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md) defines public-interest, sovereignty and ethical boundaries.
-- [Risk Management Framework](./RISK-MANAGEMENT-FRAMEWORK.md) defines risk identification, treatment, ownership and escalation.
+- [Founding Thesis](../01-institutional-foundation/FOUNDING-THESIS.md) defines the institutional hypothesis the operating model must serve.
+- [Official Problem Statement](../01-institutional-foundation/OFFICIAL-PROBLEM-STATEMENT.md) defines the problem boundary that work should address.
+- [Vision, Mission & Purpose](../01-institutional-foundation/VISION-MISSION-PURPOSE.md) defines the objectives that priorities should trace to.
+- [Values & Institutional Principles](../01-institutional-foundation/VALUES-AND-INSTITUTIONAL-PRINCIPLES.md) defines the principles that operating decisions must respect.
+- [Code of Conduct](../../CODE-OF-CONDUCT.md) defines expected conduct when people contribute or disagree.
+- [Organization Charter](../01-institutional-foundation/ORGANIZATION-CHARTER.md) defines institutional identity and boundaries.
+- [Governance Framework](../01-institutional-foundation/GOVERNANCE-FRAMEWORK.md) defines authority, accountability and escalation.
+- [Organization Structure & Decision Rights](../01-institutional-foundation/ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md) defines functional roles and decision rights.
+- [Open-Source & Licensing Framework](../02-technical-governance/OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md) defines open-source and licensing controls.
+- [Contributing Framework](../02-technical-governance/CONTRIBUTING-FRAMEWORK.md) defines how external and internal contributors participate.
+- [Security & Responsible Technology Policy](../02-technical-governance/SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md) defines secure and responsible technical boundaries.
+- [Ethics, Sovereignty & Public-Interest Framework](../02-technical-governance/ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md) defines public-interest, sovereignty and ethical boundaries.
+- [Risk Management Framework](RISK-MANAGEMENT-FRAMEWORK.md) defines risk identification, treatment, ownership and escalation.
 
 Task 14 turns these frameworks into a practical operating discipline.
 
@@ -1654,8 +1654,8 @@ Task 15 preserves stage awareness and avoids inventing departments, approvals, p
 
 Task 14 is complete as a Draft v1.0 foundational artifact. Task 15 is now complete as a Draft v1.0 foundational artifact.
 
-Previous document: [Risk Management Framework](./RISK-MANAGEMENT-FRAMEWORK.md)
+Previous document: [Risk Management Framework](RISK-MANAGEMENT-FRAMEWORK.md)
 
-Home: [Documentation Index](./README.md)
+Home: [Documentation Index](../../README.md)
 
-Next document: [Organization Roadmap](./ORGANIZATION-ROADMAP.md).
+Next document: [Organization Roadmap](ORGANIZATION-ROADMAP.md).

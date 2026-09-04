@@ -8,13 +8,13 @@
 **Current maturity:** Founder-led / pre-formalization  
 **Purpose:** Define institutional functions, role accountabilities, decision ownership, delegation, and authority boundaries
 
-**Navigation:** [Previous: Governance Framework](./GOVERNANCE-FRAMEWORK.md) | [Home: Documentation Index](./README.md) | [Next: Open-Source & Licensing Framework](./OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md)
+**Navigation:** [Previous: Governance Framework](GOVERNANCE-FRAMEWORK.md) | [Home: Documentation Index](../../README.md) | [Next: Open-Source & Licensing Framework](../02-technical-governance/OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md)
 
 > This document describes roles and decision rights. It does not create employees, committees, legal powers, or authority to control third-party infrastructure.
 
 ## 1. Role of This Document
 
-The [Governance Framework](./GOVERNANCE-FRAMEWORK.md) defines how Aurex governs. This document makes that model operational by defining:
+The [Governance Framework](GOVERNANCE-FRAMEWORK.md) defines how Aurex governs. This document makes that model operational by defining:
 
 - institutional functions and current staffing;
 - role purpose and accountability;
@@ -97,7 +97,7 @@ Owns documented relationships with utilities, governments, universities, communi
 
 Security, risk, legal, ethics, research integrity, safety, and financial control functions provide proportionate review and challenge. Delivery teams should not always be the sole authority determining whether work is safe, compliant, or ready.
 
-Detailed function requirements are linked through the [Operating Model](./OPERATING-MODEL.md), [Security & Responsible Technology Policy](./SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md), [Risk Management Framework](./RISK-MANAGEMENT-FRAMEWORK.md), [Legal & Institutional Readiness](./LEGAL-AND-INSTITUTIONAL-READINESS.md), and [Ethics, Sovereignty & Public-Interest Framework](./ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md).
+Detailed function requirements are linked through the [Operating Model](../03-operations-and-development/OPERATING-MODEL.md), [Security & Responsible Technology Policy](../02-technical-governance/SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md), [Risk Management Framework](../03-operations-and-development/RISK-MANAGEMENT-FRAMEWORK.md), [Legal & Institutional Readiness](../04-readiness-and-baseline/LEGAL-AND-INSTITUTIONAL-READINESS.md), and [Ethics, Sovereignty & Public-Interest Framework](../02-technical-governance/ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md).
 
 ## 5. Decision-Rights Model
 
@@ -165,7 +165,7 @@ Access should follow role and minimum required capability:
 Role -> Required capability -> Minimum access -> Audit and review
 ```
 
-Repository roles such as contributor, maintainer, technical lead, repository administrator, and organization administrator should remain distinct and use least privilege. Technical, security, data, licensing, and release requirements are defined in the [Open-Source & Licensing Framework](./OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md), [Contributing Framework](./CONTRIBUTING-FRAMEWORK.md), and [Security & Responsible Technology Policy](./SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md).
+Repository roles such as contributor, maintainer, technical lead, repository administrator, and organization administrator should remain distinct and use least privilege. Technical, security, data, licensing, and release requirements are defined in the [Open-Source & Licensing Framework](../02-technical-governance/OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md), [Contributing Framework](../02-technical-governance/CONTRIBUTING-FRAMEWORK.md), and [Security & Responsible Technology Policy](../02-technical-governance/SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md).
 
 ## 10. Escalation and Stop-Work
 
@@ -173,7 +173,7 @@ A role holder must escalate when a decision exceeds delegated authority or invol
 
 Anyone may raise a good-faith stop-work concern for credible safety or security risk. It must receive prompt review without retaliation. Emergency protective action may be taken by designated roles, documented afterward, and reviewed; emergency action is not a permanent governance bypass.
 
-The [Code of Conduct](./CODE-OF-CONDUCT.md) and [Governance Framework](./GOVERNANCE-FRAMEWORK.md) define the related conduct and escalation standards.
+The [Code of Conduct](../../CODE-OF-CONDUCT.md) and [Governance Framework](GOVERNANCE-FRAMEWORK.md) define the related conduct and escalation standards.
 
 ## 11. Structural Principles
 
@@ -194,12 +194,12 @@ Founder-led
     -> Institutional governance
 ```
 
-Aurex should be able to operate when a key person is unavailable by maintaining records, backups, controlled credentials, and handover procedures. The [Organization Roadmap](./ORGANIZATION-ROADMAP.md) and [Governance Framework](./GOVERNANCE-FRAMEWORK.md) provide the broader maturity context.
+Aurex should be able to operate when a key person is unavailable by maintaining records, backups, controlled credentials, and handover procedures. The [Organization Roadmap](../03-operations-and-development/ORGANIZATION-ROADMAP.md) and [Governance Framework](GOVERNANCE-FRAMEWORK.md) provide the broader maturity context.
 
 ## Document Status
 
-This document is a Foundational Draft v1.0 for Aurex's founder-led, pre-formalization stage. Repository-wide status is maintained in the [README](./README.md) and [Organization Documentation Baseline v1.0](./ORGANIZATION-DOCUMENTATION-BASELINE-V1.0.md).
+This document is a Foundational Draft v1.0 for Aurex's founder-led, pre-formalization stage. Repository-wide status is maintained in the [README](../../README.md) and [Organization Documentation Baseline v1.0](../04-readiness-and-baseline/ORGANIZATION-DOCUMENTATION-BASELINE-V1.0.md).
 
-**Previous:** [Governance Framework](./GOVERNANCE-FRAMEWORK.md)
-**Home:** [Documentation Index](./README.md)
-**Next:** [Open-Source & Licensing Framework](./OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md)
+**Previous:** [Governance Framework](GOVERNANCE-FRAMEWORK.md)
+**Home:** [Documentation Index](../../README.md)
+**Next:** [Open-Source & Licensing Framework](../02-technical-governance/OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md)

@@ -6,7 +6,7 @@
 **Institution:** Aurex Digital Solutions  
 **Phase:** External / Institutional Development  
 **Scope:** Research governance, evidence generation, experimentation, innovation, technology validation and institutional learning  
-**Navigation:** [Previous: Partnership & Stakeholder Framework](./PARTNERSHIP-AND-STAKEHOLDER-FRAMEWORK.md) | [Home: Documentation Index](./README.md) | [Next: Programme Governance Framework](./PROGRAMME-GOVERNANCE-FRAMEWORK.md)
+**Navigation:** [Previous: Partnership & Stakeholder Framework](PARTNERSHIP-AND-STAKEHOLDER-FRAMEWORK.md) | [Home: Documentation Index](../../README.md) | [Next: Programme Governance Framework](PROGRAMME-GOVERNANCE-FRAMEWORK.md)
 
 Task 17 established how Aurex learns from and collaborates with its external ecosystem.
 
@@ -1912,23 +1912,23 @@ Without a validated problem and evidence of improvement, technology remains acti
 
 This framework connects to the rest of Aurex's institutional architecture:
 
-- [Founding Thesis](./FOUNDING-THESIS.md) establishes the starting institutional hypothesis.
-- [Official Problem Statement](./OFFICIAL-PROBLEM-STATEMENT.md) defines the problem discipline research must strengthen.
-- [Vision, Mission & Purpose](./VISION-MISSION-PURPOSE.md) defines why research matters.
-- [Values & Institutional Principles](./VALUES-AND-INSTITUTIONAL-PRINCIPLES.md) defines the values research must preserve.
-- [Code of Conduct](./CODE-OF-CONDUCT.md) governs research conduct and collaboration behavior.
-- [Organization Charter](./ORGANIZATION-CHARTER.md) defines institutional authority and boundaries.
-- [Governance Framework](./GOVERNANCE-FRAMEWORK.md) governs decisions informed by research.
-- [Organization Structure & Decision Rights](./ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md) governs role and authority boundaries.
-- [Open-Source & Licensing Framework](./OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md) governs open research, software and licensing choices.
-- [Contributing Framework](./CONTRIBUTING-FRAMEWORK.md) governs contributor participation in research-related work.
-- [Security & Responsible Technology Policy](./SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md) governs research safety, security and responsible experimentation.
-- [Ethics, Sovereignty & Public-Interest Framework](./ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md) governs ethics, sovereignty and public-interest boundaries.
-- [Risk Management Framework](./RISK-MANAGEMENT-FRAMEWORK.md) governs research risk and assumption risk.
-- [Operating Model](./OPERATING-MODEL.md) governs how research becomes work.
-- [Organization Roadmap](./ORGANIZATION-ROADMAP.md) governs evidence-gated progression.
-- [Funding & Financial Framework](./FUNDING-AND-FINANCIAL-FRAMEWORK.md) governs financial independence and research funding boundaries.
-- [Partnership & Stakeholder Framework](./PARTNERSHIP-AND-STAKEHOLDER-FRAMEWORK.md) governs research partnerships and stakeholder evidence.
+- [Founding Thesis](../01-institutional-foundation/FOUNDING-THESIS.md) establishes the starting institutional hypothesis.
+- [Official Problem Statement](../01-institutional-foundation/OFFICIAL-PROBLEM-STATEMENT.md) defines the problem discipline research must strengthen.
+- [Vision, Mission & Purpose](../01-institutional-foundation/VISION-MISSION-PURPOSE.md) defines why research matters.
+- [Values & Institutional Principles](../01-institutional-foundation/VALUES-AND-INSTITUTIONAL-PRINCIPLES.md) defines the values research must preserve.
+- [Code of Conduct](../../CODE-OF-CONDUCT.md) governs research conduct and collaboration behavior.
+- [Organization Charter](../01-institutional-foundation/ORGANIZATION-CHARTER.md) defines institutional authority and boundaries.
+- [Governance Framework](../01-institutional-foundation/GOVERNANCE-FRAMEWORK.md) governs decisions informed by research.
+- [Organization Structure & Decision Rights](../01-institutional-foundation/ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md) governs role and authority boundaries.
+- [Open-Source & Licensing Framework](../02-technical-governance/OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md) governs open research, software and licensing choices.
+- [Contributing Framework](../02-technical-governance/CONTRIBUTING-FRAMEWORK.md) governs contributor participation in research-related work.
+- [Security & Responsible Technology Policy](../02-technical-governance/SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md) governs research safety, security and responsible experimentation.
+- [Ethics, Sovereignty & Public-Interest Framework](../02-technical-governance/ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md) governs ethics, sovereignty and public-interest boundaries.
+- [Risk Management Framework](RISK-MANAGEMENT-FRAMEWORK.md) governs research risk and assumption risk.
+- [Operating Model](OPERATING-MODEL.md) governs how research becomes work.
+- [Organization Roadmap](ORGANIZATION-ROADMAP.md) governs evidence-gated progression.
+- [Funding & Financial Framework](FUNDING-AND-FINANCIAL-FRAMEWORK.md) governs financial independence and research funding boundaries.
+- [Partnership & Stakeholder Framework](PARTNERSHIP-AND-STAKEHOLDER-FRAMEWORK.md) governs research partnerships and stakeholder evidence.
 
 Task 18 connects those frameworks to research and innovation practice.
 
@@ -1938,7 +1938,7 @@ Task 18 connects those frameworks to research and innovation practice.
 
 Task 18 defines how Aurex governs research and innovation.
 
-Task 19 now defines how Aurex governs programmes through the [Programme Governance Framework](./PROGRAMME-GOVERNANCE-FRAMEWORK.md).
+Task 19 now defines how Aurex governs programmes through the [Programme Governance Framework](PROGRAMME-GOVERNANCE-FRAMEWORK.md).
 
 That framework answers:
 
@@ -1983,9 +1983,9 @@ Task 19 preserves the rule that a programme exists to deliver an authorized inst
 
 Task 18 is complete as a Draft v1.0 foundational artifact.
 
-Previous document: [Partnership & Stakeholder Framework](./PARTNERSHIP-AND-STAKEHOLDER-FRAMEWORK.md)
+Previous document: [Partnership & Stakeholder Framework](PARTNERSHIP-AND-STAKEHOLDER-FRAMEWORK.md)
 
-Home: [Documentation Index](./README.md)
+Home: [Documentation Index](../../README.md)
 
-Next document: [Programme Governance Framework](./PROGRAMME-GOVERNANCE-FRAMEWORK.md).
+Next document: [Programme Governance Framework](PROGRAMME-GOVERNANCE-FRAMEWORK.md).
 

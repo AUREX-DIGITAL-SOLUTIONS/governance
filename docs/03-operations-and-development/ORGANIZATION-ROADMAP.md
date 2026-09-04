@@ -6,7 +6,7 @@
 **Institution:** Aurex Digital Solutions  
 **Phase:** Operations  
 **Scope:** Institutional development, capability building, programme progression and evidence-gated growth  
-**Navigation:** [Previous: Operating Model](./OPERATING-MODEL.md) | [Home: Documentation Index](./README.md) | [Next: Funding & Financial Framework](./FUNDING-AND-FINANCIAL-FRAMEWORK.md)
+**Navigation:** [Previous: Operating Model](OPERATING-MODEL.md) | [Home: Documentation Index](../../README.md) | [Next: Funding & Financial Framework](FUNDING-AND-FINANCIAL-FRAMEWORK.md)
 
 Task 14 established **how Aurex operates**.
 
@@ -1577,13 +1577,13 @@ If any element is missing, the appropriate response is to build it, reduce scope
 
 Task 15 defines what Aurex should build next and how advancement should be gated.
 
-[Task 16 - Funding & Financial Framework](./FUNDING-AND-FINANCIAL-FRAMEWORK.md) now defines how Aurex governs money, funding, resource stewardship, financial risk and institutional sustainability.
+[Task 16 - Funding & Financial Framework](FUNDING-AND-FINANCIAL-FRAMEWORK.md) now defines how Aurex governs money, funding, resource stewardship, financial risk and institutional sustainability.
 
 Task 17 now defines how Aurex governs partnerships and stakeholder relationships.
 
 The next completed artifact is:
 
-[Task 17 - Partnership & Stakeholder Framework](./PARTNERSHIP-AND-STAKEHOLDER-FRAMEWORK.md)
+[Task 17 - Partnership & Stakeholder Framework](PARTNERSHIP-AND-STAKEHOLDER-FRAMEWORK.md)
 
 It should answer:
 
@@ -1626,8 +1626,8 @@ Task 17 preserves institutional independence while enabling legitimate collabora
 
 Task 15 is complete as a Draft v1.0 foundational artifact.
 
-Previous document: [Operating Model](./OPERATING-MODEL.md)
+Previous document: [Operating Model](OPERATING-MODEL.md)
 
-Home: [Documentation Index](./README.md)
+Home: [Documentation Index](../../README.md)
 
-Next document: [Funding & Financial Framework](./FUNDING-AND-FINANCIAL-FRAMEWORK.md).
+Next document: [Funding & Financial Framework](FUNDING-AND-FINANCIAL-FRAMEWORK.md).

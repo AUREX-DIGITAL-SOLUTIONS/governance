@@ -6,7 +6,7 @@
 **Institution:** Aurex Digital Solutions
 **Phase:** Technical Governance
 **Orientation:** Kenya-founded, Africa-focused, public-interest digital energy infrastructure
-**Navigation:** [Previous: Security & Responsible Technology Policy](./SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md) | [Home: Documentation Index](./README.md) | [Next: Risk Management Framework](./RISK-MANAGEMENT-FRAMEWORK.md)
+**Navigation:** [Previous: Security & Responsible Technology Policy](SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md) | [Home: Documentation Index](../../README.md) | [Next: Risk Management Framework](../03-operations-and-development/RISK-MANAGEMENT-FRAMEWORK.md)
 
 Task 11 established:
 
@@ -1201,7 +1201,7 @@ Task 13 now converts the institution's accumulated risks into an operational ris
 
 The next completed artifact is:
 
-[Task 13 - Risk Management Framework](./RISK-MANAGEMENT-FRAMEWORK.md)
+[Task 13 - Risk Management Framework](../03-operations-and-development/RISK-MANAGEMENT-FRAMEWORK.md)
 
 It should define:
 
@@ -1249,8 +1249,8 @@ Task 13 begins the Operations phase.
 
 Task 12 is complete as a Draft v1.0 foundational artifact.
 
-Previous document: [Security & Responsible Technology Policy](./SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md)
+Previous document: [Security & Responsible Technology Policy](SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md)
 
-Home: [Documentation Index](./README.md)
+Home: [Documentation Index](../../README.md)
 
-Next document: [Risk Management Framework](./RISK-MANAGEMENT-FRAMEWORK.md)
+Next document: [Risk Management Framework](../03-operations-and-development/RISK-MANAGEMENT-FRAMEWORK.md)

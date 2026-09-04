@@ -6,7 +6,7 @@
 **Institution:** Aurex Digital Solutions  
 **Phase:** External / Institutional Development  
 **Scope:** Programme initiation, governance, ownership, decision rights, resources, risk, assurance, delivery, transition and closure  
-**Navigation:** [Previous: Research & Innovation Framework](./RESEARCH-AND-INNOVATION-FRAMEWORK.md) | [Home: Documentation Index](./README.md) | [Next: Legal & Institutional Readiness](./LEGAL-AND-INSTITUTIONAL-READINESS.md)
+**Navigation:** [Previous: Research & Innovation Framework](RESEARCH-AND-INNOVATION-FRAMEWORK.md) | [Home: Documentation Index](../../README.md) | [Next: Legal & Institutional Readiness](../04-readiness-and-baseline/LEGAL-AND-INSTITUTIONAL-READINESS.md)
 
 Task 18 established how Aurex turns uncertainty into evidence and validated technical understanding.
 
@@ -1866,24 +1866,24 @@ Weakness in one part should trigger review rather than concealment.
 
 This framework connects to the rest of Aurex's institutional architecture:
 
-- [Founding Thesis](./FOUNDING-THESIS.md) establishes the starting institutional hypothesis.
-- [Official Problem Statement](./OFFICIAL-PROBLEM-STATEMENT.md) defines the problem discipline programmes must preserve.
-- [Vision, Mission & Purpose](./VISION-MISSION-PURPOSE.md) defines why programmes matter.
-- [Values & Institutional Principles](./VALUES-AND-INSTITUTIONAL-PRINCIPLES.md) defines the values programmes must protect.
-- [Code of Conduct](./CODE-OF-CONDUCT.md) governs programme conduct and collaboration behavior.
-- [Organization Charter](./ORGANIZATION-CHARTER.md) defines institutional authority and boundaries.
-- [Governance Framework](./GOVERNANCE-FRAMEWORK.md) governs programme decisions and escalation.
-- [Organization Structure & Decision Rights](./ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md) governs PRAEI decision rights and role boundaries.
-- [Open-Source & Licensing Framework](./OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md) governs open-source and licensing choices inside programmes.
-- [Contributing Framework](./CONTRIBUTING-FRAMEWORK.md) governs contributor participation in programme work.
-- [Security & Responsible Technology Policy](./SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md) governs programme security, safety and responsible technology.
-- [Ethics, Sovereignty & Public-Interest Framework](./ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md) governs ethics, sovereignty and public-interest boundaries.
-- [Risk Management Framework](./RISK-MANAGEMENT-FRAMEWORK.md) governs programme risk, assumptions and dependencies.
-- [Operating Model](./OPERATING-MODEL.md) governs how programme work becomes coordinated activity.
-- [Organization Roadmap](./ORGANIZATION-ROADMAP.md) governs evidence-gated progression.
-- [Funding & Financial Framework](./FUNDING-AND-FINANCIAL-FRAMEWORK.md) governs programme funding, budgets and resource stewardship.
-- [Partnership & Stakeholder Framework](./PARTNERSHIP-AND-STAKEHOLDER-FRAMEWORK.md) governs programme relationships and authority boundaries.
-- [Research & Innovation Framework](./RESEARCH-AND-INNOVATION-FRAMEWORK.md) governs research evidence, experimentation and technology validation.
+- [Founding Thesis](../01-institutional-foundation/FOUNDING-THESIS.md) establishes the starting institutional hypothesis.
+- [Official Problem Statement](../01-institutional-foundation/OFFICIAL-PROBLEM-STATEMENT.md) defines the problem discipline programmes must preserve.
+- [Vision, Mission & Purpose](../01-institutional-foundation/VISION-MISSION-PURPOSE.md) defines why programmes matter.
+- [Values & Institutional Principles](../01-institutional-foundation/VALUES-AND-INSTITUTIONAL-PRINCIPLES.md) defines the values programmes must protect.
+- [Code of Conduct](../../CODE-OF-CONDUCT.md) governs programme conduct and collaboration behavior.
+- [Organization Charter](../01-institutional-foundation/ORGANIZATION-CHARTER.md) defines institutional authority and boundaries.
+- [Governance Framework](../01-institutional-foundation/GOVERNANCE-FRAMEWORK.md) governs programme decisions and escalation.
+- [Organization Structure & Decision Rights](../01-institutional-foundation/ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md) governs PRAEI decision rights and role boundaries.
+- [Open-Source & Licensing Framework](../02-technical-governance/OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md) governs open-source and licensing choices inside programmes.
+- [Contributing Framework](../02-technical-governance/CONTRIBUTING-FRAMEWORK.md) governs contributor participation in programme work.
+- [Security & Responsible Technology Policy](../02-technical-governance/SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md) governs programme security, safety and responsible technology.
+- [Ethics, Sovereignty & Public-Interest Framework](../02-technical-governance/ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md) governs ethics, sovereignty and public-interest boundaries.
+- [Risk Management Framework](RISK-MANAGEMENT-FRAMEWORK.md) governs programme risk, assumptions and dependencies.
+- [Operating Model](OPERATING-MODEL.md) governs how programme work becomes coordinated activity.
+- [Organization Roadmap](ORGANIZATION-ROADMAP.md) governs evidence-gated progression.
+- [Funding & Financial Framework](FUNDING-AND-FINANCIAL-FRAMEWORK.md) governs programme funding, budgets and resource stewardship.
+- [Partnership & Stakeholder Framework](PARTNERSHIP-AND-STAKEHOLDER-FRAMEWORK.md) governs programme relationships and authority boundaries.
+- [Research & Innovation Framework](RESEARCH-AND-INNOVATION-FRAMEWORK.md) governs research evidence, experimentation and technology validation.
 
 Task 19 connects those frameworks to programme governance practice.
 
@@ -1893,7 +1893,7 @@ Task 19 connects those frameworks to programme governance practice.
 
 Task 19 defines how Aurex governs programmes.
 
-Task 20 defines Aurex's legal and institutional readiness in the [Legal & Institutional Readiness](./LEGAL-AND-INSTITUTIONAL-READINESS.md) framework.
+Task 20 defines Aurex's legal and institutional readiness in the [Legal & Institutional Readiness](../04-readiness-and-baseline/LEGAL-AND-INSTITUTIONAL-READINESS.md) framework.
 
 That framework answers:
 
@@ -1938,8 +1938,8 @@ Task 20 should preserve the rule that programme ambition does not create legal s
 
 Task 19 is complete as a Draft v1.0 foundational artifact.
 
-Previous document: [Research & Innovation Framework](./RESEARCH-AND-INNOVATION-FRAMEWORK.md)
+Previous document: [Research & Innovation Framework](RESEARCH-AND-INNOVATION-FRAMEWORK.md)
 
-Home: [Documentation Index](./README.md)
+Home: [Documentation Index](../../README.md)
 
-Next document: [Legal & Institutional Readiness](./LEGAL-AND-INSTITUTIONAL-READINESS.md).
+Next document: [Legal & Institutional Readiness](../04-readiness-and-baseline/LEGAL-AND-INSTITUTIONAL-READINESS.md).

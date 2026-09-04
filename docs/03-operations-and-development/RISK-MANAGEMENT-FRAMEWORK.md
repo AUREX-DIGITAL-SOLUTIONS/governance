@@ -6,7 +6,7 @@
 **Institution:** Aurex Digital Solutions  
 **Phase:** Operations  
 **Scope:** Institutional, technical, programme, financial, operational and external risk  
-**Navigation:** [Previous: Ethics, Sovereignty & Public-Interest Framework](./ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md) | [Home: Documentation Index](./README.md) | [Next: Operating Model](./OPERATING-MODEL.md)
+**Navigation:** [Previous: Ethics, Sovereignty & Public-Interest Framework](../02-technical-governance/ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md) | [Home: Documentation Index](../../README.md) | [Next: Operating Model](OPERATING-MODEL.md)
 
 Task 12 completed Aurex's initial **Technical Governance** layer.
 
@@ -1431,18 +1431,18 @@ This is a founding-stage baseline, not a mature enterprise risk office.
 
 This framework connects the existing institutional documentation stack:
 
-- [Founding Thesis](./FOUNDING-THESIS.md) defines the founding hypothesis that creates strategic and assumption risk.
-- [Official Problem Statement](./OFFICIAL-PROBLEM-STATEMENT.md) defines the problem boundary and evidence needs.
-- [Vision, Mission & Purpose](./VISION-MISSION-PURPOSE.md) defines the objectives that risks threaten.
-- [Values & Institutional Principles](./VALUES-AND-INSTITUTIONAL-PRINCIPLES.md) defines the values risk decisions must respect.
-- [Code of Conduct](./CODE-OF-CONDUCT.md) supports risk culture and good-faith escalation.
-- [Organization Charter](./ORGANIZATION-CHARTER.md) defines institutional boundaries and legitimacy.
-- [Governance Framework](./GOVERNANCE-FRAMEWORK.md) defines authority, escalation and accountability.
-- [Organization Structure & Decision Rights](./ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md) defines role-based authority boundaries.
-- [Open-Source & Licensing Framework](./OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md) defines licensing and dependency risk controls.
-- [Contributing Framework](./CONTRIBUTING-FRAMEWORK.md) defines contributor and maintainer participation risks.
-- [Security & Responsible Technology Policy](./SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md) defines cybersecurity, safety and responsible-technology controls.
-- [Ethics, Sovereignty & Public-Interest Framework](./ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md) defines public-interest, sovereignty and dependency tests.
+- [Founding Thesis](../01-institutional-foundation/FOUNDING-THESIS.md) defines the founding hypothesis that creates strategic and assumption risk.
+- [Official Problem Statement](../01-institutional-foundation/OFFICIAL-PROBLEM-STATEMENT.md) defines the problem boundary and evidence needs.
+- [Vision, Mission & Purpose](../01-institutional-foundation/VISION-MISSION-PURPOSE.md) defines the objectives that risks threaten.
+- [Values & Institutional Principles](../01-institutional-foundation/VALUES-AND-INSTITUTIONAL-PRINCIPLES.md) defines the values risk decisions must respect.
+- [Code of Conduct](../../CODE-OF-CONDUCT.md) supports risk culture and good-faith escalation.
+- [Organization Charter](../01-institutional-foundation/ORGANIZATION-CHARTER.md) defines institutional boundaries and legitimacy.
+- [Governance Framework](../01-institutional-foundation/GOVERNANCE-FRAMEWORK.md) defines authority, escalation and accountability.
+- [Organization Structure & Decision Rights](../01-institutional-foundation/ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md) defines role-based authority boundaries.
+- [Open-Source & Licensing Framework](../02-technical-governance/OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md) defines licensing and dependency risk controls.
+- [Contributing Framework](../02-technical-governance/CONTRIBUTING-FRAMEWORK.md) defines contributor and maintainer participation risks.
+- [Security & Responsible Technology Policy](../02-technical-governance/SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md) defines cybersecurity, safety and responsible-technology controls.
+- [Ethics, Sovereignty & Public-Interest Framework](../02-technical-governance/ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md) defines public-interest, sovereignty and dependency tests.
 
 Task 13 turns those concerns into an operational risk discipline.
 
@@ -1456,7 +1456,7 @@ Task 14 now defines how Aurex actually operates.
 
 The next completed artifact is:
 
-[Task 14 - Operating Model](./OPERATING-MODEL.md)
+[Task 14 - Operating Model](OPERATING-MODEL.md)
 
 It should answer:
 
@@ -1504,8 +1504,8 @@ Task 14 is complete as a Draft v1.0 foundational artifact.
 
 Task 15 - Organization Roadmap and Task 16 - Funding & Financial Framework are complete as Draft v1.0 foundational artifacts. Task 17 - Partnership & Stakeholder Framework is now complete as a Draft v1.0 foundational artifact. Task 18 - Research & Innovation Framework is now complete as a Draft v1.0 foundational artifact. Task 19 - Programme Governance Framework is now complete as a Draft v1.0 foundational artifact. Task 20 - Legal & Institutional Readiness is now complete as a Draft v1.0 foundational artifact. Task 21 - Organization Documentation Baseline v1.0 is complete as the Baseline Draft v1.0 consolidation artifact.
 
-Previous document: [Ethics, Sovereignty & Public-Interest Framework](./ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md)
+Previous document: [Ethics, Sovereignty & Public-Interest Framework](../02-technical-governance/ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md)
 
-Home: [Documentation Index](./README.md)
+Home: [Documentation Index](../../README.md)
 
-Next document: [Operating Model](./OPERATING-MODEL.md)
+Next document: [Operating Model](OPERATING-MODEL.md)

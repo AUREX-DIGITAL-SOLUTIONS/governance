@@ -1,13 +1,13 @@
 # Task 21 - Organization Documentation Baseline v1.0
 ## Aurex Digital Solutions
 
-**Version:** 1.0  
-**Status:** Baseline Draft / Foundational Baseline Draft  
-**Institution:** Aurex Digital Solutions  
-**Phase:** Baseline  
-**Scope:** Institutional documentation consolidation, consistency, hierarchy, status, ownership, versioning, navigation, adoption, maintenance and baseline release  
-**Release date:** 2026-08-29  
-**Navigation:** [Previous: Legal & Institutional Readiness](./LEGAL-AND-INSTITUTIONAL-READINESS.md) | [Home: Documentation Index](./README.md)
+**Version:** 1.0
+**Status:** Baseline Draft / Foundational Baseline Draft
+**Institution:** Aurex Digital Solutions
+**Phase:** Baseline
+**Scope:** Institutional documentation consolidation, consistency, hierarchy, status, ownership, versioning, navigation, adoption, maintenance and baseline release
+**Release date:** 2026-08-29
+**Navigation:** [Previous: Legal & Institutional Readiness](LEGAL-AND-INSTITUTIONAL-READINESS.md) | [Home: Documentation Index](../../README.md)
 
 Tasks 1-20 established Aurex's founding institutional architecture.
 
@@ -147,30 +147,30 @@ Together they describe the institution rather than any single product.
 
 ### Layer I - Identity / Constitution
 
-1. [Founding Thesis](./FOUNDING-THESIS.md) - Complete / Draft v1.0  
+1. [Founding Thesis](../01-institutional-foundation/FOUNDING-THESIS.md) - Complete / Draft v1.0
    Defines the institutional thesis behind Aurex. Core question: **Why should Aurex exist?**
 
-2. [Official Problem Statement](./OFFICIAL-PROBLEM-STATEMENT.md) - Complete / Draft v1.0  
+2. [Official Problem Statement](../01-institutional-foundation/OFFICIAL-PROBLEM-STATEMENT.md) - Complete / Draft v1.0
    Defines the problem Aurex believes is important enough to investigate and address. Core question: **What problem are we trying to understand and solve?**
 
-3. [Vision, Mission & Purpose](./VISION-MISSION-PURPOSE.md) - Complete / Draft v1.0  
+3. [Vision, Mission & Purpose](../01-institutional-foundation/VISION-MISSION-PURPOSE.md) - Complete / Draft v1.0
    Defines Aurex's intended future, institutional mission and reason for existence.
 
-4. [Values & Institutional Principles](./VALUES-AND-INSTITUTIONAL-PRINCIPLES.md) - Complete / Draft v1.0  
+4. [Values & Institutional Principles](../01-institutional-foundation/VALUES-AND-INSTITUTIONAL-PRINCIPLES.md) - Complete / Draft v1.0
    Defines institutional beliefs and decision principles.
 
-5. [Code of Conduct](./CODE-OF-CONDUCT.md) - Complete / Draft v1.0  
+5. [Code of Conduct](../../CODE-OF-CONDUCT.md) - Complete / Draft v1.0
    Defines expected behavior.
 
-6. [Organization Charter](./ORGANIZATION-CHARTER.md) - Complete / Draft v1.0, not yet formally adopted  
+6. [Organization Charter](../01-institutional-foundation/ORGANIZATION-CHARTER.md) - Complete / Draft v1.0, not yet formally adopted
    Defines Aurex's constitutional institutional identity and authority boundaries.
 
 ### Layer II - Governance
 
-7. [Governance Framework](./GOVERNANCE-FRAMEWORK.md) - Complete / Draft v1.0  
+7. [Governance Framework](../01-institutional-foundation/GOVERNANCE-FRAMEWORK.md) - Complete / Draft v1.0
    Defines how legitimate institutional authority should work.
 
-8. [Organization Structure & Decision Rights](./ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md) - Complete / Draft v1.0  
+8. [Organization Structure & Decision Rights](../01-institutional-foundation/ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md) - Complete / Draft v1.0
    Defines roles, accountability and decision rights.
 
 ```text
@@ -187,16 +187,16 @@ HOW IS THAT AUTHORITY DISTRIBUTED?
 
 ### Layer III - Technical Governance
 
-9. [Open-Source & Licensing Framework](./OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md) - Complete / Draft v1.0  
+9. [Open-Source & Licensing Framework](../02-technical-governance/OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md) - Complete / Draft v1.0
    Defines software rights, licensing, reuse and open-source stewardship.
 
-10. [Contributing Framework](./CONTRIBUTING-FRAMEWORK.md) - Complete / Draft v1.0  
+10. [Contributing Framework](../02-technical-governance/CONTRIBUTING-FRAMEWORK.md) - Complete / Draft v1.0
     Defines how external and internal participants contribute responsibly.
 
-11. [Security & Responsible Technology Policy](./SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md) - Complete / Draft v1.0  
+11. [Security & Responsible Technology Policy](../02-technical-governance/SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md) - Complete / Draft v1.0
     Defines security, safety and responsible technology requirements.
 
-12. [Ethics, Sovereignty & Public-Interest Framework](./ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md) - Complete / Draft v1.0  
+12. [Ethics, Sovereignty & Public-Interest Framework](../02-technical-governance/ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md) - Complete / Draft v1.0
     Defines how Aurex evaluates technology beyond technical capability.
 
 ```text
@@ -217,13 +217,13 @@ WHO BENEFITS AND WHO CONTROLS IT?
 
 ### Layer IV - Operations
 
-13. [Risk Management Framework](./RISK-MANAGEMENT-FRAMEWORK.md) - Complete / Draft v1.0  
+13. [Risk Management Framework](../03-operations-and-development/RISK-MANAGEMENT-FRAMEWORK.md) - Complete / Draft v1.0
     Defines how uncertainty and threats to objectives are governed.
 
-14. [Operating Model](./OPERATING-MODEL.md) - Complete / Draft v1.0  
+14. [Operating Model](../03-operations-and-development/OPERATING-MODEL.md) - Complete / Draft v1.0
     Defines how Aurex turns institutional intent into work.
 
-15. [Organization Roadmap](./ORGANIZATION-ROADMAP.md) - Complete / Draft v1.0  
+15. [Organization Roadmap](../03-operations-and-development/ORGANIZATION-ROADMAP.md) - Complete / Draft v1.0
     Defines the evidence-based progression from institution formation toward increasingly consequential programmes.
 
 ```text
@@ -238,16 +238,16 @@ IN WHAT ORDER SHOULD WE ADVANCE?
 
 ### Layer V - Institutional Development
 
-16. [Funding & Financial Framework](./FUNDING-AND-FINANCIAL-FRAMEWORK.md) - Complete / Draft v1.0  
+16. [Funding & Financial Framework](../03-operations-and-development/FUNDING-AND-FINANCIAL-FRAMEWORK.md) - Complete / Draft v1.0
     Defines how Aurex should obtain and govern financial resources.
 
-17. [Partnership & Stakeholder Framework](./PARTNERSHIP-AND-STAKEHOLDER-FRAMEWORK.md) - Complete / Draft v1.0  
+17. [Partnership & Stakeholder Framework](../03-operations-and-development/PARTNERSHIP-AND-STAKEHOLDER-FRAMEWORK.md) - Complete / Draft v1.0
     Defines how Aurex interacts with external actors.
 
-18. [Research & Innovation Framework](./RESEARCH-AND-INNOVATION-FRAMEWORK.md) - Complete / Draft v1.0  
+18. [Research & Innovation Framework](../03-operations-and-development/RESEARCH-AND-INNOVATION-FRAMEWORK.md) - Complete / Draft v1.0
     Defines how Aurex produces trustworthy knowledge and validates hypotheses.
 
-19. [Programme Governance Framework](./PROGRAMME-GOVERNANCE-FRAMEWORK.md) - Complete / Draft v1.0  
+19. [Programme Governance Framework](../03-operations-and-development/PROGRAMME-GOVERNANCE-FRAMEWORK.md) - Complete / Draft v1.0
     Defines how validated problems become governed execution.
 
 ```text
@@ -265,10 +265,10 @@ INSTITUTIONAL EXECUTION
 
 ### Layer VI - Legal / Institutional Readiness and Baseline
 
-20. [Legal & Institutional Readiness](./LEGAL-AND-INSTITUTIONAL-READINESS.md) - Complete / Draft v1.0  
+20. [Legal & Institutional Readiness](LEGAL-AND-INSTITUTIONAL-READINESS.md) - Complete / Draft v1.0
     Defines the boundary between internal institutional governance and external legal authority.
 
-21. [Organization Documentation Baseline v1.0](./ORGANIZATION-DOCUMENTATION-BASELINE-V1.0.md) - Complete / Baseline Draft v1.0  
+21. [Organization Documentation Baseline v1.0](ORGANIZATION-DOCUMENTATION-BASELINE-V1.0.md) - Complete / Baseline Draft v1.0
     Governs the entire documentation system and asks: **Do all of these documents describe the same institution?**
 
 ---
@@ -949,13 +949,13 @@ Do not rewrite every document merely for style. Resolve contradictions that affe
 
 ## 40. Source of Truth
 
-For navigation and status, [README.md](./README.md) is the authoritative gateway.
+For navigation and status, [README.md](../../README.md) is the authoritative gateway.
 
-For legal readiness, [Legal & Institutional Readiness](./LEGAL-AND-INSTITUTIONAL-READINESS.md) is the authoritative framework.
+For legal readiness, [Legal & Institutional Readiness](LEGAL-AND-INSTITUTIONAL-READINESS.md) is the authoritative framework.
 
-For research evidence categories, [Research & Innovation Framework](./RESEARCH-AND-INNOVATION-FRAMEWORK.md) is the authoritative framework.
+For research evidence categories, [Research & Innovation Framework](../03-operations-and-development/RESEARCH-AND-INNOVATION-FRAMEWORK.md) is the authoritative framework.
 
-For programme maturity, [Programme Governance Framework](./PROGRAMME-GOVERNANCE-FRAMEWORK.md) and [Organization Roadmap](./ORGANIZATION-ROADMAP.md) are authoritative.
+For programme maturity, [Programme Governance Framework](../03-operations-and-development/PROGRAMME-GOVERNANCE-FRAMEWORK.md) and [Organization Roadmap](../03-operations-and-development/ORGANIZATION-ROADMAP.md) are authoritative.
 
 Task 21 governs how the documents remain one coherent baseline.
 
@@ -1342,6 +1342,6 @@ Foundational Sequence Complete.
 
 Next Phase: Execution.
 
-Previous document: [Legal & Institutional Readiness](./LEGAL-AND-INSTITUTIONAL-READINESS.md)
+Previous document: [Legal & Institutional Readiness](LEGAL-AND-INSTITUTIONAL-READINESS.md)
 
-Home: [Documentation Index](./README.md)
+Home: [Documentation Index](../../README.md)

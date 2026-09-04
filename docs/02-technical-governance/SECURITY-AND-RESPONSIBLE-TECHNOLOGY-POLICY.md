@@ -6,7 +6,7 @@
 **Institution:** Aurex Digital Solutions  
 **Phase:** Technical Governance  
 **Applicability:** Aurex software, research, infrastructure, programmes, repositories, contributors, data systems, AI systems, edge devices, and energy-control technologies  
-**Navigation:** [Previous: Contributing Framework](./CONTRIBUTING-FRAMEWORK.md) | [Home: Documentation Index](./README.md) | [Next: Ethics, Sovereignty & Public-Interest Framework](./ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md)
+**Navigation:** [Previous: Contributing Framework](CONTRIBUTING-FRAMEWORK.md) | [Home: Documentation Index](../../README.md) | [Next: Ethics, Sovereignty & Public-Interest Framework](ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md)
 
 Task 10 established how people participate in building Aurex.
 
@@ -1513,16 +1513,16 @@ This baseline is intentionally practical. It is the floor, not the final destina
 
 This policy extends the previous institutional documents:
 
-1. [Founding Thesis](./FOUNDING-THESIS.md) - establishes why Aurex exists.
-2. [Official Problem Statement](./OFFICIAL-PROBLEM-STATEMENT.md) - defines the infrastructure problem.
-3. [Vision, Mission & Purpose](./VISION-MISSION-PURPOSE.md) - defines the institutional direction.
-4. [Values & Institutional Principles](./VALUES-AND-INSTITUTIONAL-PRINCIPLES.md) - establishes the values security must protect.
-5. [Code of Conduct](./CODE-OF-CONDUCT.md) - defines responsible participation norms.
-6. [Organization Charter](./ORGANIZATION-CHARTER.md) - establishes institutional authority boundaries.
-7. [Governance Framework](./GOVERNANCE-FRAMEWORK.md) - defines how authority and oversight mature.
-8. [Organization Structure & Decision Rights](./ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md) - defines who may hold decision authority.
-9. [Open-Source & Licensing Framework](./OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md) - defines responsible sharing, licensing, SBOM direction, and public/private boundaries.
-10. [Contributing Framework](./CONTRIBUTING-FRAMEWORK.md) - defines how people contribute responsibly.
+1. [Founding Thesis](../01-institutional-foundation/FOUNDING-THESIS.md) - establishes why Aurex exists.
+2. [Official Problem Statement](../01-institutional-foundation/OFFICIAL-PROBLEM-STATEMENT.md) - defines the infrastructure problem.
+3. [Vision, Mission & Purpose](../01-institutional-foundation/VISION-MISSION-PURPOSE.md) - defines the institutional direction.
+4. [Values & Institutional Principles](../01-institutional-foundation/VALUES-AND-INSTITUTIONAL-PRINCIPLES.md) - establishes the values security must protect.
+5. [Code of Conduct](../../CODE-OF-CONDUCT.md) - defines responsible participation norms.
+6. [Organization Charter](../01-institutional-foundation/ORGANIZATION-CHARTER.md) - establishes institutional authority boundaries.
+7. [Governance Framework](../01-institutional-foundation/GOVERNANCE-FRAMEWORK.md) - defines how authority and oversight mature.
+8. [Organization Structure & Decision Rights](../01-institutional-foundation/ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md) - defines who may hold decision authority.
+9. [Open-Source & Licensing Framework](OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md) - defines responsible sharing, licensing, SBOM direction, and public/private boundaries.
+10. [Contributing Framework](CONTRIBUTING-FRAMEWORK.md) - defines how people contribute responsibly.
 
 Task 11 adds the security and responsible-technology boundary those contributions must respect.
 
@@ -1568,7 +1568,7 @@ Task 12 now answers a wider institutional question:
 
 The next completed artifact is:
 
-[Task 12 - Ethics, Sovereignty & Public-Interest Framework](./ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md)
+[Task 12 - Ethics, Sovereignty & Public-Interest Framework](ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md)
 
 It addresses:
 
@@ -1615,8 +1615,8 @@ It addresses:
 
 Task 11 is complete as a Draft v1.0 foundational artifact.
 
-Previous document: [Contributing Framework](./CONTRIBUTING-FRAMEWORK.md)
+Previous document: [Contributing Framework](CONTRIBUTING-FRAMEWORK.md)
 
-Home: [Documentation Index](./README.md)
+Home: [Documentation Index](../../README.md)
 
-Next document: [Ethics, Sovereignty & Public-Interest Framework](./ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md)
+Next document: [Ethics, Sovereignty & Public-Interest Framework](ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md)

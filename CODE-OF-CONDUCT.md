@@ -7,7 +7,7 @@
 **Institution:** Aurex Digital Solutions  
 **Scope:** Everyone participating in or representing Aurex
 **Document type:** Code of conduct
-**Navigation:** [Previous: Values & Institutional Principles](./VALUES-AND-INSTITUTIONAL-PRINCIPLES.md) | [Home: Documentation Index](./README.md) | [Next: Organization Charter](./ORGANIZATION-CHARTER.md)
+**Navigation:** [Previous: Values & Institutional Principles](docs/01-institutional-foundation/VALUES-AND-INSTITUTIONAL-PRINCIPLES.md) | [Home: Documentation Index](README.md) | [Next: Organization Charter](docs/01-institutional-foundation/ORGANIZATION-CHARTER.md)
 
 > This Code defines expected behavior. It does not grant operational, regulatory, utility, or system-operator authority.
 
@@ -19,7 +19,7 @@ This Code applies to founders, leaders, staff, contractors, researchers, contrib
 
 Leadership and seniority do not create an exemption.
 
-The behavioral standard follows the [Values & Institutional Principles](./VALUES-AND-INSTITUTIONAL-PRINCIPLES.md). Specialized requirements are defined in the [Contributing Framework](./CONTRIBUTING-FRAMEWORK.md), [Security & Responsible Technology Policy](./SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md), and [Ethics, Sovereignty & Public-Interest Framework](./ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md).
+The behavioral standard follows the [Values & Institutional Principles](docs/01-institutional-foundation/VALUES-AND-INSTITUTIONAL-PRINCIPLES.md). Specialized requirements are defined in the [Contributing Framework](docs/02-technical-governance/CONTRIBUTING-FRAMEWORK.md), [Security & Responsible Technology Policy](docs/02-technical-governance/SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md), and [Ethics, Sovereignty & Public-Interest Framework](docs/02-technical-governance/ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md).
 
 ## 2. Core Standard
 
@@ -62,7 +62,7 @@ Participants must not:
 - make commitments on behalf of Aurex without appropriate authority;
 - present Aurex as a government agency, licensed utility, regulator, grid operator, deployed national platform, or government-approved programme unless that status is legally true.
 
-Important technical and institutional claims should be documented, reviewable, and corrected when errors are found. The [Research & Innovation Framework](./RESEARCH-AND-INNOVATION-FRAMEWORK.md) and [Governance Framework](./GOVERNANCE-FRAMEWORK.md) define supporting evidence and decision practices.
+Important technical and institutional claims should be documented, reviewable, and corrected when errors are found. The [Research & Innovation Framework](docs/03-operations-and-development/RESEARCH-AND-INNOVATION-FRAMEWORK.md) and [Governance Framework](docs/01-institutional-foundation/GOVERNANCE-FRAMEWORK.md) define supporting evidence and decision practices.
 
 ## 5. Safety, Permission, and Security
 
@@ -78,7 +78,7 @@ Participants must:
 - never scan, probe, test, or access external systems without documented permission;
 - avoid publishing sensitive security, operational, personal, or partner information without authorization.
 
-The [Security & Responsible Technology Policy](./SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md), [Risk Management Framework](./RISK-MANAGEMENT-FRAMEWORK.md), and [Legal & Institutional Readiness](./LEGAL-AND-INSTITUTIONAL-READINESS.md) provide the detailed controls.
+The [Security & Responsible Technology Policy](docs/02-technical-governance/SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md), [Risk Management Framework](docs/03-operations-and-development/RISK-MANAGEMENT-FRAMEWORK.md), and [Legal & Institutional Readiness](docs/04-readiness-and-baseline/LEGAL-AND-INSTITUTIONAL-READINESS.md) provide the detailed controls.
 
 ## 6. Data, Privacy, and AI
 
@@ -86,13 +86,13 @@ Participants must collect and use data only for defined, authorized purposes. Th
 
 AI-assisted work must be reviewed by a responsible person. Participants must verify factual, technical, legal, financial, and safety-relevant outputs; avoid entering restricted information into unapproved tools; distinguish generated analysis from measured evidence; and keep accountable human judgment in safety-relevant or institutionally binding decisions.
 
-Detailed data, privacy, and responsible-AI requirements belong in the [Security & Responsible Technology Policy](./SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md) and [Ethics, Sovereignty & Public-Interest Framework](./ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md).
+Detailed data, privacy, and responsible-AI requirements belong in the [Security & Responsible Technology Policy](docs/02-technical-governance/SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md) and [Ethics, Sovereignty & Public-Interest Framework](docs/02-technical-governance/ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md).
 
 ## 7. Open-Source and Research Conduct
 
 Open-source and research participation must be respectful, maintainable, secure, properly attributed, and consistent with applicable licenses and permissions. Contributors must submit work they have the right to submit, document assumptions and limitations, report vulnerabilities responsibly, and avoid presenting early findings as general proof.
 
-The [Open-Source & Licensing Framework](./OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md), [Contributing Framework](./CONTRIBUTING-FRAMEWORK.md), and [Research & Innovation Framework](./RESEARCH-AND-INNOVATION-FRAMEWORK.md) define the relevant contribution, licensing, publication, and research practices.
+The [Open-Source & Licensing Framework](docs/02-technical-governance/OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md), [Contributing Framework](docs/02-technical-governance/CONTRIBUTING-FRAMEWORK.md), and [Research & Innovation Framework](docs/03-operations-and-development/RESEARCH-AND-INNOVATION-FRAMEWORK.md) define the relevant contribution, licensing, publication, and research practices.
 
 ## 8. Conflicts and Improper Influence
 
@@ -106,7 +106,7 @@ Participants must honor agreements, permissions, confidentiality, operating proc
 
 Engagement with governments, regulators, utilities, counties, universities, communities, funders, and development institutions must be lawful, transparent, and accurate. Aurex must not borrow public authority through language, branding, or implied endorsement.
 
-Partnership and public-interest expectations are developed in the [Partnership & Stakeholder Framework](./PARTNERSHIP-AND-STAKEHOLDER-FRAMEWORK.md), [Ethics, Sovereignty & Public-Interest Framework](./ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md), and [Funding & Financial Framework](./FUNDING-AND-FINANCIAL-FRAMEWORK.md).
+Partnership and public-interest expectations are developed in the [Partnership & Stakeholder Framework](docs/03-operations-and-development/PARTNERSHIP-AND-STAKEHOLDER-FRAMEWORK.md), [Ethics, Sovereignty & Public-Interest Framework](docs/02-technical-governance/ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md), and [Funding & Financial Framework](docs/03-operations-and-development/FUNDING-AND-FINANCIAL-FRAMEWORK.md).
 
 ## 10. Reporting and Non-Retaliation
 
@@ -148,8 +148,8 @@ Build open digital energy infrastructure responsibly.
 
 ## Document Status
 
-This document is complete as a Draft v1.0 foundational artifact. Its expectations are implemented and further specified through the [Values & Institutional Principles](./VALUES-AND-INSTITUTIONAL-PRINCIPLES.md), [Governance Framework](./GOVERNANCE-FRAMEWORK.md), [Security & Responsible Technology Policy](./SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md), [Open-Source & Licensing Framework](./OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md), and [Ethics, Sovereignty & Public-Interest Framework](./ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md).
+This document is complete as a Draft v1.0 foundational artifact. Its expectations are implemented and further specified through the [Values & Institutional Principles](docs/01-institutional-foundation/VALUES-AND-INSTITUTIONAL-PRINCIPLES.md), [Governance Framework](docs/01-institutional-foundation/GOVERNANCE-FRAMEWORK.md), [Security & Responsible Technology Policy](docs/02-technical-governance/SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md), [Open-Source & Licensing Framework](docs/02-technical-governance/OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md), and [Ethics, Sovereignty & Public-Interest Framework](docs/02-technical-governance/ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md).
 
-**Previous:** [Values & Institutional Principles](./VALUES-AND-INSTITUTIONAL-PRINCIPLES.md)
-**Home:** [Documentation Index](./README.md)
-**Next:** [Organization Charter](./ORGANIZATION-CHARTER.md)
+**Previous:** [Values & Institutional Principles](docs/01-institutional-foundation/VALUES-AND-INSTITUTIONAL-PRINCIPLES.md)
+**Home:** [Documentation Index](README.md)
+**Next:** [Organization Charter](docs/01-institutional-foundation/ORGANIZATION-CHARTER.md)

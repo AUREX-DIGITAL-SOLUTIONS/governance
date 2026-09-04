@@ -6,7 +6,7 @@
 **Institution:** Aurex Digital Solutions  
 **Phase:** External / Institutional Development  
 **Scope:** Stakeholder identification, engagement, collaboration, partnership governance and institutional relationship management  
-**Navigation:** [Previous: Funding & Financial Framework](./FUNDING-AND-FINANCIAL-FRAMEWORK.md) | [Home: Documentation Index](./README.md) | [Next: Research & Innovation Framework](./RESEARCH-AND-INNOVATION-FRAMEWORK.md)
+**Navigation:** [Previous: Funding & Financial Framework](FUNDING-AND-FINANCIAL-FRAMEWORK.md) | [Home: Documentation Index](../../README.md) | [Next: Research & Innovation Framework](RESEARCH-AND-INNOVATION-FRAMEWORK.md)
 
 Task 16 established how Aurex governs **capital and financial relationships**.
 
@@ -1615,22 +1615,22 @@ The goal is to understand the energy-system problem, build credible capability, 
 
 This framework depends on and extends the previous institutional documents:
 
-- [Founding Thesis](./FOUNDING-THESIS.md) defines the institution's starting hypothesis.
-- [Official Problem Statement](./OFFICIAL-PROBLEM-STATEMENT.md) keeps the institution problem-led.
-- [Vision, Mission & Purpose](./VISION-MISSION-PURPOSE.md) defines the mission relationships must serve.
-- [Values & Institutional Principles](./VALUES-AND-INSTITUTIONAL-PRINCIPLES.md) defines the values partnerships must respect.
-- [Code of Conduct](./CODE-OF-CONDUCT.md) governs conduct across contributors, partners and representatives.
-- [Organization Charter](./ORGANIZATION-CHARTER.md) defines institutional boundaries and authority.
-- [Governance Framework](./GOVERNANCE-FRAMEWORK.md) defines decision authority and escalation.
-- [Organization Structure & Decision Rights](./ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md) defines role-based decision boundaries.
-- [Open-Source & Licensing Framework](./OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md) governs open-source participation and licensing.
-- [Contributing Framework](./CONTRIBUTING-FRAMEWORK.md) governs contributor participation.
-- [Security & Responsible Technology Policy](./SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md) governs access, safety, security and responsible technology.
-- [Ethics, Sovereignty & Public-Interest Framework](./ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md) governs sovereignty, public interest and dependency.
-- [Risk Management Framework](./RISK-MANAGEMENT-FRAMEWORK.md) governs partnership and dependency risk.
-- [Operating Model](./OPERATING-MODEL.md) governs how work and relationships become coordinated activity.
-- [Organization Roadmap](./ORGANIZATION-ROADMAP.md) governs evidence-gated progression.
-- [Funding & Financial Framework](./FUNDING-AND-FINANCIAL-FRAMEWORK.md) governs capital, funders and financial integrity.
+- [Founding Thesis](../01-institutional-foundation/FOUNDING-THESIS.md) defines the institution's starting hypothesis.
+- [Official Problem Statement](../01-institutional-foundation/OFFICIAL-PROBLEM-STATEMENT.md) keeps the institution problem-led.
+- [Vision, Mission & Purpose](../01-institutional-foundation/VISION-MISSION-PURPOSE.md) defines the mission relationships must serve.
+- [Values & Institutional Principles](../01-institutional-foundation/VALUES-AND-INSTITUTIONAL-PRINCIPLES.md) defines the values partnerships must respect.
+- [Code of Conduct](../../CODE-OF-CONDUCT.md) governs conduct across contributors, partners and representatives.
+- [Organization Charter](../01-institutional-foundation/ORGANIZATION-CHARTER.md) defines institutional boundaries and authority.
+- [Governance Framework](../01-institutional-foundation/GOVERNANCE-FRAMEWORK.md) defines decision authority and escalation.
+- [Organization Structure & Decision Rights](../01-institutional-foundation/ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md) defines role-based decision boundaries.
+- [Open-Source & Licensing Framework](../02-technical-governance/OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md) governs open-source participation and licensing.
+- [Contributing Framework](../02-technical-governance/CONTRIBUTING-FRAMEWORK.md) governs contributor participation.
+- [Security & Responsible Technology Policy](../02-technical-governance/SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md) governs access, safety, security and responsible technology.
+- [Ethics, Sovereignty & Public-Interest Framework](../02-technical-governance/ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md) governs sovereignty, public interest and dependency.
+- [Risk Management Framework](RISK-MANAGEMENT-FRAMEWORK.md) governs partnership and dependency risk.
+- [Operating Model](OPERATING-MODEL.md) governs how work and relationships become coordinated activity.
+- [Organization Roadmap](ORGANIZATION-ROADMAP.md) governs evidence-gated progression.
+- [Funding & Financial Framework](FUNDING-AND-FINANCIAL-FRAMEWORK.md) governs capital, funders and financial integrity.
 
 Task 17 connects those frameworks to external relationship practice.
 
@@ -1690,8 +1690,8 @@ Task 18 should preserve the discipline that research exists to discover what is 
 
 Task 17 is complete as a Draft v1.0 foundational artifact.
 
-Previous document: [Funding & Financial Framework](./FUNDING-AND-FINANCIAL-FRAMEWORK.md)
+Previous document: [Funding & Financial Framework](FUNDING-AND-FINANCIAL-FRAMEWORK.md)
 
-Home: [Documentation Index](./README.md)
+Home: [Documentation Index](../../README.md)
 
-Next document: [Research & Innovation Framework](./RESEARCH-AND-INNOVATION-FRAMEWORK.md).
+Next document: [Research & Innovation Framework](RESEARCH-AND-INNOVATION-FRAMEWORK.md).
