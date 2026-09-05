@@ -1,15 +1,14 @@
-# Task 5 - Code of Conduct
+# Code of Conduct
 
 ## Aurex Digital Solutions
 
 **Version:** 1.0  
-**Status:** Complete / Draft v1.0  
+**Status:** Draft v1.0
 **Institution:** Aurex Digital Solutions  
+**Document type:** Code of Conduct
 **Scope:** Everyone participating in or representing Aurex
-**Document type:** Code of conduct
-**Navigation:** [Previous: Values & Institutional Principles](docs/01-institutional-foundation/VALUES-AND-INSTITUTIONAL-PRINCIPLES.md) | [Home: Documentation Index](README.md) | [Next: Organization Charter](docs/01-institutional-foundation/ORGANIZATION-CHARTER.md)
 
-> This Code defines expected behavior. It does not grant operational, regulatory, utility, or system-operator authority.
+> This Code sets expected conduct for participation in Aurex; it does not assign institutional decision rights.
 
 ## 1. Purpose and Applicability
 

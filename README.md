@@ -2,11 +2,7 @@
 
 ## About
 
-Aurex Digital Solutions is a founder-led institution being developed to research, develop, validate, and steward open digital energy coordination infrastructure for African energy systems, beginning in Kenya.
-
-Its near-term focus is facility-level energy management research and prototyping. Its long-term vision is more reliable, resilient, affordable, transparent, flexible, and interoperable digital energy systems across Africa.
-
-This README is the navigation and status gateway for Aurex's institutional documentation. It links only to documents that currently exist.
+Aurex Digital Solutions is a founder-led institution being developed to research, validate, and steward open digital energy coordination infrastructure for African energy systems, beginning with facility-level energy management research and prototyping in Kenya.
 
 > **Current status:** Aurex is under institutional development. The documentation baseline does not imply incorporation, formal adoption, licensing, regulatory approval, deployment, or operational authority.
 
@@ -65,17 +61,3 @@ Research
 ```
 
 Regional DERMS and National DERMS are proposed coordination layers, not deployed infrastructure. The Energy Operating System is a long-term architectural and institutional vision.
-
-## Current Baseline
-
-Tasks 1-21 form the **Aurex Institutional Documentation Baseline v1.0** as of 2026-08-29. The foundational documentation sequence is complete; there is no Task 22.
-
-## Next Phase
-
-Execution continues through three tracks:
-
-- **Institution:** Legal and formalization actions as required
-- **Research:** Validated facility-level problem research
-- **Engineering:** Facility EMS research and prototype environment
-
-Immediate research should establish where facility-level visibility, interoperability, and coordination gaps exist, what current systems already address, and what evidence justifies a Facility EMS capability.

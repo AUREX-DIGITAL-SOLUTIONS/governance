@@ -1,14 +1,14 @@
-# Task 6 - Organization Charter
+# Organization Charter
 
 ## Aurex Digital Solutions
 
 **Version:** 1.0  
-**Status:** Draft v1.0 / not yet formally adopted  
+**Status:** Draft v1.0
 **Institution:** Aurex Digital Solutions  
-**Jurisdictional origin:** Kenya  
-**Long-term orientation:** Africa  
 **Document type:** Organization Charter
-**Navigation:** [Previous: Code of Conduct](../../CODE-OF-CONDUCT.md) | [Home: Documentation Index](../../README.md) | [Next: Governance Framework](GOVERNANCE-FRAMEWORK.md)
+**Adoption status:** Not yet formally adopted
+**Jurisdictional origin:** Kenya
+**Long-term orientation:** Africa
 
 > This Charter is Aurex's proposed internal constitutional instrument. It does not itself create legal incorporation, government, regulatory, utility, system-operator, or electricity-control authority.
 

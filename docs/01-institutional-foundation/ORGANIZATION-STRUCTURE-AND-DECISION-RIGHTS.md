@@ -1,16 +1,15 @@
-# Task 8 - Organization Structure & Decision Rights
+# Organization Structure & Decision Rights
 
 ## Aurex Digital Solutions
 
 **Version:** 1.0  
-**Status:** Foundational Draft / Draft v1.0  
+**Status:** Draft v1.0
 **Institution:** Aurex Digital Solutions  
-**Current maturity:** Founder-led / pre-formalization  
+**Document type:** Organization Structure & Decision Rights
 **Purpose:** Define institutional functions, role accountabilities, decision ownership, delegation, and authority boundaries
+**Current maturity:** Founder-led / pre-formalization
 
-**Navigation:** [Previous: Governance Framework](GOVERNANCE-FRAMEWORK.md) | [Home: Documentation Index](../../README.md) | [Next: Open-Source & Licensing Framework](../02-technical-governance/OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md)
-
-> This document describes roles and decision rights. It does not create employees, committees, legal powers, or authority to control third-party infrastructure.
+> This document defines internal roles and decision rights; it does not create employment, legal powers, or authority over third-party infrastructure.
 
 ## 1. Role of This Document
 
@@ -45,7 +44,7 @@ Current holder:
 | Technical, research, programme, operations, finance, partnerships, and assurance functions | Founder-led or external support as needed | Not separately staffed |
 | Governing body | TBD | Not constituted |
 
-This is a truthful minimum structure, not a claim of a larger organization.
+This reflects Aurex's current documented structure.
 
 ## 3. Target Functional Model
 
@@ -151,7 +150,7 @@ Until formal governance exists, these decisions remain founder-reserved unless l
 
 ## 8. Delegation and Appointment
 
-A delegation must identify the delegator, recipient, scope, decision and financial limits, duration, reporting requirements, conditions, and revocation mechanism. Delegated authority cannot exceed the authority of the delegating person or body.
+Delegation requirements are defined in the [Governance Framework](GOVERNANCE-FRAMEWORK.md). This document applies them through role appointments and institutional records.
 
 A role appointment should record the role, holder, effective date, authority source, accountability, reporting relationship, term where relevant, and approval source. Unfilled roles should remain marked `TBD`; fictional staffing weakens institutional accuracy.
 
@@ -169,11 +168,11 @@ Repository roles such as contributor, maintainer, technical lead, repository adm
 
 ## 10. Escalation and Stop-Work
 
-A role holder must escalate when a decision exceeds delegated authority or involves safety, cybersecurity, data, legal or regulatory uncertainty, material budget deviation, conflict of interest, significant failure, unauthorized control, or likely harm to people, communities, partners, systems, or public trust.
+The [Governance Framework](GOVERNANCE-FRAMEWORK.md) defines the escalation and stop-work standard. Role holders must apply that standard whenever a decision exceeds their delegated authority.
 
 Anyone may raise a good-faith stop-work concern for credible safety or security risk. It must receive prompt review without retaliation. Emergency protective action may be taken by designated roles, documented afterward, and reviewed; emergency action is not a permanent governance bypass.
 
-The [Code of Conduct](../../CODE-OF-CONDUCT.md) and [Governance Framework](GOVERNANCE-FRAMEWORK.md) define the related conduct and escalation standards.
+The [Code of Conduct](../../CODE-OF-CONDUCT.md) defines related non-retaliation requirements.
 
 ## 11. Structural Principles
 
@@ -188,13 +187,13 @@ The [Code of Conduct](../../CODE-OF-CONDUCT.md) and [Governance Framework](GOVER
 
 ```text
 Founder-led
-    -> Defined functions
+  -> Documented
     -> Delegated roles
     -> Independent assurance
     -> Institutional governance
 ```
 
-Aurex should be able to operate when a key person is unavailable by maintaining records, backups, controlled credentials, and handover procedures. The [Organization Roadmap](../03-operations-and-development/ORGANIZATION-ROADMAP.md) and [Governance Framework](GOVERNANCE-FRAMEWORK.md) provide the broader maturity context.
+Aurex should be able to operate when a key person is unavailable by maintaining records, backups, controlled credentials, and handover procedures. The [Organization Roadmap](../03-operations-and-development/ORGANIZATION-ROADMAP.md) provides the broader maturity context.
 
 ## Document Status
 

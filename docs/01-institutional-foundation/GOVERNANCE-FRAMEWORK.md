@@ -1,16 +1,15 @@
-# Task 7 - Governance Framework
+# Governance Framework
 
 ## Aurex Digital Solutions
 
 **Version:** 1.0  
 **Status:** Draft v1.0  
 **Institution:** Aurex Digital Solutions  
-**Phase:** Founding / pre-formalization
+**Document type:** Governance Framework
 **Purpose:** Define how authority, accountability, decisions, oversight, and escalation operate inside Aurex
+**Phase:** Founding / pre-formalization
 
-**Navigation:** [Previous: Organization Charter](ORGANIZATION-CHARTER.md) | [Home: Documentation Index](../../README.md) | [Next: Organization Structure & Decision Rights](ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md)
-
-> Governance must be clear enough to create accountability and light enough to support real work. This framework defines Aurex's internal governance; it does not create authority over external institutions or infrastructure.
+> This framework governs internal authority and accountability; it does not create authority over external institutions or infrastructure.
 
 ## 1. Governance Objective
 
@@ -124,6 +123,8 @@ Authority may be delegated only when the delegation records:
 
 Delegated authority cannot exceed the authority of the delegating person or body. Decision rights should attach to roles, not personalities, wherever possible.
 
+[Organization Structure & Decision Rights](ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md) defines how delegation is recorded and applied to roles.
+
 ## 7. Programme and Technical Gates
 
 A significant programme or technical initiative should pass through proportionate gates:
@@ -154,6 +155,8 @@ Designated roles may take immediate protective action during an emergency to pro
 
 Detailed behavioral and non-retaliation requirements are in the [Code of Conduct](../../CODE-OF-CONDUCT.md).
 
+[Organization Structure & Decision Rights](ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md) applies these standards to role-based decisions.
+
 ## 9. Conflicts, Partnerships, and Funding
 
 People involved in decisions must disclose actual, potential, or perceived conflicts. Aurex may require recusal, access limits, independent review, or disclosure.
@@ -177,10 +180,10 @@ Transparency must describe what exists without implying formal maturity, authori
 Aurex should mature through these stages:
 
 ```text
-Informal -> Documented -> Delegated -> Assured -> Institutional
+Founder-led -> Documented -> Delegated roles -> Independent assurance -> Institutional governance
 ```
 
-The present model is founder-led and moving from informal toward documented governance. Progress should be based on real participation, resources, risk, and workload rather than organizational appearance.
+The present model is founder-led and moving toward documented governance. Progress should be based on real participation, resources, risk, and workload rather than organizational appearance.
 
 Governance performance should be reviewed by asking whether authority is clear, decisions are timely and traceable, risks are escalated, programmes are accountable, and the founder is no longer an unnecessary bottleneck.
 

@@ -1,16 +1,15 @@
-# Task 4 - Values & Institutional Principles
+# Values & Institutional Principles
 
 ## Aurex Digital Solutions
 
 **Version:** 1.0  
-**Status:** Complete / Draft v1.0  
-**Scope:** Institutional behavior, technology development, research, partnerships, and governance
 **Institution:** Aurex Digital Solutions  
+**Status:** Draft v1.0
+**Document type:** Values & Institutional Principles
+**Scope:** Institutional behavior, technology development, research, partnerships, and governance
 **Starting jurisdiction:** Kenya
-**Document type:** Values and institutional principles
-**Navigation:** [Previous: Vision, Mission & Purpose](VISION-MISSION-PURPOSE.md) | [Home: Documentation Index](../../README.md) | [Next: Code of Conduct](../../CODE-OF-CONDUCT.md)
 
-> This document defines how Aurex should behave while pursuing its mission. It does not grant operational, regulatory, utility, or system-operator authority.
+> These values and principles guide decisions; they do not assign institutional decision rights.
 
 ## 1. Role of This Document
 

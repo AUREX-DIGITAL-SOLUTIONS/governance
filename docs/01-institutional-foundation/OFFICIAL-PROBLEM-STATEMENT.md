@@ -1,16 +1,15 @@
-# Task 2 - Official Problem Statement
+# Official Problem Statement
 
 ## Aurex Digital Solutions
 
 **Version:** 1.0  
-**Status:** Complete / Draft v1.0  
-**Scope:** Kenya case study; electricity-system digitalization; facility-level energy management; distributed-energy coordination
 **Institution:** Aurex Digital Solutions  
+**Status:** Draft v1.0
+**Document type:** Official Problem Statement
+**Scope:** Kenya case study; electricity-system digitalization; facility-level energy management; distributed-energy coordination
 **Starting jurisdiction:** Kenya
-**Document type:** Official problem statement
-**Navigation:** [Previous: Founding Thesis](FOUNDING-THESIS.md) | [Home: Documentation Index](../../README.md) | [Next: Vision, Mission & Purpose](VISION-MISSION-PURPOSE.md)
 
-> This document defines the problem Aurex exists to investigate and validate. It does not claim that Aurex is a government agency, licensed utility, regulator, national grid operator, or deployed national energy platform.
+> This statement defines a problem for investigation and validation; it does not establish a service or operational mandate.
 
 ## 1. Purpose
 
@@ -49,44 +48,27 @@ This is a structural problem, not a claim that any single institution has failed
 
 ## 4. Problem Areas
 
-The root problem appears in five connected areas:
+The root problem has three connected dimensions:
 
-### Visibility
+### Visibility and interoperability
 
-Energy actors may lack timely, usable information about distributed assets, facility demand, network conditions, outages, equipment health, flexible loads, and available resilience resources.
+Energy actors may lack timely information about distributed assets, facility demand, network conditions, outages, and flexible loads. Devices, data systems, and institutions may also use incompatible interfaces, data models, permissions, and operating processes.
 
-### Interoperability
+### Facility and system performance
 
-Meters, inverters, batteries, building systems, utility platforms, outage systems, GIS, SCADA, forecasting tools, and analytics systems may use different interfaces, data models, permissions, and operating processes.
+Facilities may lack practical tools to monitor, forecast, optimize, and report energy use. A more renewable and distributed system also needs better coordination of storage, flexible demand, charging, local constraints, outages, and loss-reduction interventions.
 
-### Facility performance
+### Trust and safeguards
 
-Facilities experience energy as cost, uptime, equipment risk, productivity, comfort, and safety, yet many lack practical tools to monitor, forecast, optimize, and report their energy use.
-
-### System flexibility and efficiency
-
-A more renewable and distributed system needs better coordination of storage, flexible demand, electric-vehicle charging, local constraints, outages, and loss-reduction interventions. The ability to create value from these resources must be demonstrated rather than assumed.
-
-### Institutional trust
-
-Digital energy systems require clear authority, data permissions, cybersecurity, privacy, safety boundaries, accountability, and public-interest safeguards. Open technology must be compatible with regulated operations.
+Digital energy systems require clear authority, data permissions, cybersecurity, privacy, safety boundaries, accountability, and public-interest safeguards. Open technology must remain compatible with regulated operations.
 
 The technical and security implications are developed in the [Security & Responsible Technology Policy](../02-technical-governance/SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md) and [Open-Source & Licensing Framework](../02-technical-governance/OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md). Institutional safeguards are defined in the [Governance Framework](GOVERNANCE-FRAMEWORK.md), [Ethics, Sovereignty & Public-Interest Framework](../02-technical-governance/ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md), and [Legal & Institutional Readiness](../04-readiness-and-baseline/LEGAL-AND-INSTITUTIONAL-READINESS.md).
 
 ## 5. Initial Problem Boundary
 
-Aurex's initial research boundary includes:
+The initial research boundary covers facility-level visibility and optimization, open monitoring and decision-support tools, energy-data interoperability, distributed-energy coordination research, demand-side flexibility, loss and outage analysis, and data-governance and cybersecurity design.
 
-- Facility-level energy visibility and optimization
-- Open tools for energy monitoring, modeling, and decision support
-- Interoperability patterns for energy data and devices
-- Distributed-energy visibility and coordination research
-- Demand-side intelligence and flexibility validation
-- Loss and outage analytics
-- Energy-data governance and cybersecurity design
-- Evidence from research, prototypes, pilots, standards, and partnerships
-
-It excludes acting as a national utility, regulator, or system operator; claiming government approval; replacing physical grid investment; or exercising operational control without authority, validation, and cybersecurity readiness.
+The [Organization Charter](ORGANIZATION-CHARTER.md) defines Aurex's mandate and authority boundaries; the [Vision, Mission & Purpose](VISION-MISSION-PURPOSE.md) defines its institutional boundaries. This statement does not expand either.
 
 The staged technical pathway is described in the [Founding Thesis](FOUNDING-THESIS.md) and [Operating Model](../03-operations-and-development/OPERATING-MODEL.md).
 
@@ -113,6 +95,8 @@ Aurex must test, rather than assume, the following:
 - Where is software valuable, and where are physical infrastructure, financing, or regulatory changes the binding constraint?
 
 The research design, evidence standards, and pilot learning process belong in the [Research & Innovation Framework](../03-operations-and-development/RESEARCH-AND-INNOVATION-FRAMEWORK.md), [Risk Management Framework](../03-operations-and-development/RISK-MANAGEMENT-FRAMEWORK.md), and [Programme Governance Framework](../03-operations-and-development/PROGRAMME-GOVERNANCE-FRAMEWORK.md).
+
+These questions form the initial research agenda; hypotheses, methods, and evidence criteria are maintained in the [Research & Innovation Framework](../03-operations-and-development/RESEARCH-AND-INNOVATION-FRAMEWORK.md).
 
 ## 8. One-Sentence Version
 

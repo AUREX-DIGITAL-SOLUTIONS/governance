@@ -1,14 +1,13 @@
 # Aurex Digital Solutions Founding Thesis
 
 **Version:** 1.0  
-**Status:** Complete / Draft v1.0  
-**Founder:** Ayiemba Rodgers  
 **Institution:** Aurex Digital Solutions  
+**Status:** Draft v1.0
+**Document type:** Founding Thesis
+**Founder:** Ayiemba Rodgers
 **Starting jurisdiction:** Kenya
-**Document type:** Foundational thesis
-**Navigation:** [Home: Documentation Index](../../README.md) | [Next: Official Problem Statement](OFFICIAL-PROBLEM-STATEMENT.md)
 
-> This thesis describes Aurex's founding argument. It does not claim that Aurex currently operates a national energy system, has government approval, or has deployed a national energy platform.
+> This thesis sets out Aurex's founding argument; it does not establish operational or public authority.
 
 ## 1. Founding Argument
 
@@ -22,11 +21,11 @@ Its founding proposition is that open, interoperable, intelligence-driven digita
 
 The detailed problem context and supporting evidence belong in the [Official Problem Statement](OFFICIAL-PROBLEM-STATEMENT.md).
 
-## 2. Mission
+## 2. Institutional Direction
 
-Aurex will research, develop, validate, and steward digital energy infrastructure that helps African energy systems become more reliable, resilient, affordable, transparent, flexible, and productive.
+Aurex's mission, vision, purpose, and institutional principles are defined in the [Vision, Mission & Purpose](VISION-MISSION-PURPOSE.md) and [Values & Institutional Principles](VALUES-AND-INSTITUTIONAL-PRINCIPLES.md).
 
-The institution will combine energy-systems research, open-source software, digital infrastructure design, applied artificial intelligence, policy analysis, and practical pilots. Its institutional identity and principles are defined in the [Vision, Mission & Purpose](VISION-MISSION-PURPOSE.md), [Values & Institutional Principles](VALUES-AND-INSTITUTIONAL-PRINCIPLES.md), and [Organization Charter](ORGANIZATION-CHARTER.md).
+This thesis supplies the founding argument for that direction: open, interoperable digital infrastructure should be researched and validated as a means to improve energy-system coordination.
 
 ## 3. Digital Infrastructure Thesis
 
@@ -46,9 +45,9 @@ Aurex's open-source approach is governed by the [Open-Source & Licensing Framewo
 
 ## 4. Starting Case: Kenya
 
-Kenya is Aurex's starting case because it combines strong renewable-energy resources and deployment, a growing digital economy, expanding distributed and commercial energy demand, and continuing challenges in affordability, reliability, coordination, investment, and system efficiency.
+Kenya is Aurex's initial research and validation environment for investigating energy-system visibility, interoperability, and coordination challenges.
 
-Kenya will provide the initial research base, case-study context, pilot environment, and policy-learning setting. Kenya-specific claims and evidence should be maintained in the [Official Problem Statement](OFFICIAL-PROBLEM-STATEMENT.md) and the [Research & Innovation Framework](../03-operations-and-development/RESEARCH-AND-INNOVATION-FRAMEWORK.md).
+Kenya-specific context and evidence are maintained in the [Official Problem Statement](OFFICIAL-PROBLEM-STATEMENT.md) and [Research & Innovation Framework](../03-operations-and-development/RESEARCH-AND-INNOVATION-FRAMEWORK.md).
 
 ## 5. Staged Technology Direction
 
@@ -82,19 +81,11 @@ The research and validation pathway is defined further in the [Research & Innova
 
 This hypothesis must be tested through research, prototypes, pilots, partnerships, measured outcomes, and policy engagement. Its risks, assumptions, and safeguards are addressed in the [Risk Management Framework](../03-operations-and-development/RISK-MANAGEMENT-FRAMEWORK.md), [Ethics, Sovereignty & Public-Interest Framework](../02-technical-governance/ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md), and [Programme Governance Framework](../03-operations-and-development/PROGRAMME-GOVERNANCE-FRAMEWORK.md).
 
-## 7. Institutional Boundaries
-
-Aurex is a proposed, mission-driven research and development institution. It is not a government agency, licensed utility, regulator, national grid operator, deployed national energy platform, government-approved programme, or substitute for existing energy institutions.
-
-Aurex may credibly operate as an open-source research initiative, digital energy infrastructure builder, platform-development effort, and future partner to utilities, regulators, counties, facilities, researchers, developers, and communities.
-
-Legal, governance, partnership, funding, and readiness requirements are maintained in the [Governance Framework](GOVERNANCE-FRAMEWORK.md), [Partnership & Stakeholder Framework](../03-operations-and-development/PARTNERSHIP-AND-STAKEHOLDER-FRAMEWORK.md), [Funding & Financial Framework](../03-operations-and-development/FUNDING-AND-FINANCIAL-FRAMEWORK.md), and [Legal & Institutional Readiness](../04-readiness-and-baseline/LEGAL-AND-INSTITUTIONAL-READINESS.md).
-
-## 8. Short-Form Thesis
+## 7. Short-Form Thesis
 
 > Aurex Digital Solutions is a Kenyan-founded institution building the digital operating layer for Africa's energy transition. It develops open, interoperable, intelligence-driven energy infrastructure to help coordinate facilities, distributed energy resources, utilities, markets, and institutions so that Africa's renewable-energy potential can become reliable, resilient, affordable, and productive power for its people.
 
-## 9. Founding Principle
+## 8. Founding Principle
 
 > Africa's energy future should not be built only by adding more power plants. It should be built by making energy systems more intelligent, coordinated, open, resilient, and economically useful from the facility level to the national level.
 
