@@ -1,18 +1,13 @@
-# Task 9 - Open-Source & Licensing Framework
+# Open-Source & Licensing Framework
 
 ## Aurex Digital Solutions
 
-**Version:** 1.0  
-**Status:** Foundational Draft / Draft v1.0  
-**Institution:** Aurex Digital Solutions  
-**Phase:** Technical Governance  
+**Version:** 1.0
+**Institution:** Aurex Digital Solutions
+**Status:** Draft v1.0
+**Document type:** Open-Source & Licensing Framework
+**Phase:** Technical Governance
 **Purpose:** Define Aurex Digital Solutions' draft institutional policy direction for open-source software, licensing, contributor intellectual property, third-party dependencies, documentation, data, trademarks, security-sensitive materials, and open technical collaboration.
-
-**Navigation:** [Previous: Organization Structure & Decision Rights](../01-institutional-foundation/ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md) | [Home: Documentation Index](../../README.md) | [Next: Contributing Framework](CONTRIBUTING-FRAMEWORK.md)
-
-Task 8 established who holds responsibility and decision authority.
-
-Task 9 establishes the legal and operational rules governing how Aurex creates, uses, modifies, distributes, and contributes open technology.
 
 This framework is institutional policy direction. It is not legal advice, not a final legal opinion, not a claim that Aurex has completed legal incorporation, and not a claim that all unresolved intellectual-property ownership questions have been settled.
 
@@ -47,7 +42,7 @@ The objective is:
 
 This document guides future decisions. It does not automatically apply a license to this repository or to any existing Aurex codebase.
 
-As of 2026-09-02, this repository's documentation content is licensed under CC BY 4.0 via the root [LICENSE](./LICENSE) file, consistent with the recommendation in Section 11 (Documentation Licensing). No Aurex software license has been adopted; the Apache-2.0 recommendation in Section 7 remains a preferred candidate only, not an adopted license.
+As of 2026-09-02, this repository's documentation content is licensed under CC BY 4.0 via the root [LICENSE](../../LICENSE) file, consistent with the recommendation in Section 11 (Documentation Licensing). No Aurex software license has been adopted; the Apache-2.0 recommendation in Section 7 remains a preferred candidate only, not an adopted license.
 
 ---
 
@@ -875,7 +870,7 @@ COORDINATE RELEASE
 DISCLOSE APPROPRIATELY
 ```
 
-Task 11 formalizes this through the Security & Responsible Technology Policy.
+The [Security & Responsible Technology Policy](SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md) defines the related security requirements.
 
 ---
 
@@ -1122,59 +1117,9 @@ Make license decisions, dependency obligations, notices, and exceptions traceabl
 
 ---
 
-## 48. How Task 10 Continues This Framework
+## 48. Document Status
 
-Task 10 is now:
-
-**Contributing Framework**
-
-It defines:
-
-- who may contribute;
-- how contributions are proposed, reviewed, accepted, rejected, and maintained;
-- DCO or CLA implementation details;
-- contribution quality expectations;
-- technical review process;
-- documentation review process;
-- maintainer responsibilities;
-- decision escalation;
-- security reporting;
-- code-of-conduct enforcement;
-- contributor recognition;
-- repository governance;
-- contribution pathways for researchers, engineers, institutions, utilities, vendors, and community participants.
-
-Task 10 converts this licensing direction into a practical participation model.
-
----
-
-## 49. Institutional Build Status
-
-```text
-01 Founding Thesis                         COMPLETE / DRAFT v1.0
-02 Official Problem Statement              COMPLETE / DRAFT v1.0
-03 Vision, Mission & Purpose               COMPLETE / DRAFT v1.0
-04 Values & Institutional Principles       COMPLETE / DRAFT v1.0
-05 Code of Conduct                         COMPLETE / DRAFT v1.0
-06 Organization Charter                    COMPLETE / DRAFT v1.0
-07 Governance Framework                    COMPLETE / DRAFT v1.0
-08 Organization Structure & Decision Rights COMPLETE / DRAFT v1.0
-09 Open-Source & Licensing Framework       COMPLETE / DRAFT v1.0
-10 Contributing Framework                  COMPLETE / DRAFT v1.0
-11 Security & Responsible Technology Policy COMPLETE / DRAFT v1.0
-12 Ethics, Sovereignty & Public-Interest Framework COMPLETE / DRAFT v1.0
-13 Risk Management Framework               COMPLETE / DRAFT v1.0
-14 Operating Model                         COMPLETE / DRAFT v1.0
-15 Organization Roadmap                    COMPLETE / DRAFT v1.0
-16 Funding & Financial Framework           COMPLETE / DRAFT v1.0
-17 Partnership & Stakeholder Framework     COMPLETE / DRAFT v1.0
-18 Research & Innovation Framework         COMPLETE / DRAFT v1.0
-19 Programme Governance Framework          COMPLETE / DRAFT v1.0
-20 Legal & Institutional Readiness         COMPLETE / DRAFT v1.0
-21 Organization Documentation Baseline v1.0 COMPLETE / BASELINE DRAFT v1.0
-```
-
-Task 9 is complete as a Draft v1.0 foundational artifact.
+This document is a Draft v1.0 technical-governance framework. Repository-wide status is maintained in the [Document Register](../04-readiness-and-baseline/DOCUMENT-REGISTER.md).
 
 Previous document: [Organization Structure & Decision Rights](../01-institutional-foundation/ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md)
 

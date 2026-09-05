@@ -1,18 +1,13 @@
-# Task 10 - Contributing Framework
+# Contributing Framework
 
 ## Aurex Digital Solutions
 
 **Version:** 1.0
-**Status:** Foundational Draft / Draft v1.0
 **Institution:** Aurex Digital Solutions
+**Status:** Draft v1.0
+**Document type:** Contributing Framework
 **Phase:** Technical Governance
 **Purpose:** Define Aurex Digital Solutions' institution-wide framework for responsible participation, contribution review, contributor progression, maintainer authority, and contribution governance across Aurex-controlled projects.
-
-**Navigation:** [Previous: Open-Source & Licensing Framework](OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md) | [Home: Documentation Index](../../README.md) | [Next: Security & Responsible Technology Policy](SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md)
-
-Task 9 established how Aurex technology can be legally shared, reused, modified, distributed, and governed through open-source and licensing rules.
-
-Task 10 establishes how people participate in building Aurex technology and documentation responsibly.
 
 > Open source provides permission to participate. A contributing framework provides the pathway to participate responsibly.
 
@@ -253,15 +248,7 @@ Personal hostility is not.
 
 Contributions must comply with the applicable project license and the [Open-Source & Licensing Framework](OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md).
 
-A contributor must have the right to submit the work.
-
-Contributors must not knowingly submit:
-
-- proprietary employer code without permission;
-- confidential information;
-- incompatible licensed code;
-- copied third-party work without authorization;
-- unlawfully obtained data.
+A contributor must have the right to submit the work and meet the inbound intellectual-property requirements in the [Open-Source & Licensing Framework](OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md).
 
 ---
 
@@ -724,13 +711,7 @@ Task 11 defines that process through the Security & Responsible Technology Polic
 
 ## 31. Secrets
 
-Contributors must never intentionally commit:
-
-- passwords;
-- API keys;
-- private keys;
-- tokens;
-- production credentials.
+Contributors must never intentionally commit secrets, as defined in the [Security & Responsible Technology Policy](SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md).
 
 If exposed:
 
@@ -755,7 +736,7 @@ A contributor should identify:
 
 "Found online" is not sufficient provenance.
 
-Operational energy data must be treated carefully because it may expose people, facilities, commercial activity, grid behavior, or sensitive infrastructure.
+Operational energy data is not automatically open because the software is open source. Data sensitivity and disclosure requirements are defined in the [Ethics, Sovereignty & Public-Interest Framework](ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md).
 
 ---
 
@@ -1208,74 +1189,6 @@ MERGE
 Do not install enterprise bureaucracy before a contributor community exists.
 
 ---
-
-## 55. How Task 11 Continues This Framework
-
-Task 10 opens Aurex to participation.
-
-Task 11 is now:
-
-**Security & Responsible Technology Policy**
-
-It defines:
-
-- security governance;
-- threat modelling;
-- secure development;
-- vulnerability disclosure;
-- secrets management;
-- identity and access;
-- dependency security;
-- supply-chain security;
-- incident response;
-- infrastructure security;
-- operational technology and energy-system security;
-- AI safety and responsible automation;
-- responsible release rules for sensitive energy infrastructure work.
-
-Task 11 establishes the security boundary contributors must respect.
-
-## 56. How Task 12 Continues This Framework
-
-Task 11 defines secure and responsible technology boundaries.
-
-Task 12 now defines the wider ethical, sovereignty, and public-interest framework that guides how Aurex technology should serve African energy systems and communities.
-
-The next completed artifact is:
-
-[Task 12 - Ethics, Sovereignty & Public-Interest Framework](ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md)
-
-Task 13 begins the Operations phase through the Risk Management Framework. Task 14 - Operating Model, Task 15 - Organization Roadmap, and Task 16 - Funding & Financial Framework are now complete. Task 17 - Partnership & Stakeholder Framework is now complete as a Draft v1.0 foundational artifact. Task 18 - Research & Innovation Framework is now complete as a Draft v1.0 foundational artifact. Task 19 - Programme Governance Framework is now complete as a Draft v1.0 foundational artifact. Task 20 - Legal & Institutional Readiness is now complete as a Draft v1.0 foundational artifact. Task 21 - Organization Documentation Baseline v1.0 is complete as the Baseline Draft v1.0 consolidation artifact.
-
----
-
-## 57. Institutional Build Status
-
-```text
-01 Founding Thesis                         COMPLETE / DRAFT v1.0
-02 Official Problem Statement              COMPLETE / DRAFT v1.0
-03 Vision, Mission & Purpose               COMPLETE / DRAFT v1.0
-04 Values & Institutional Principles       COMPLETE / DRAFT v1.0
-05 Code of Conduct                         COMPLETE / DRAFT v1.0
-06 Organization Charter                    COMPLETE / DRAFT v1.0
-07 Governance Framework                    COMPLETE / DRAFT v1.0
-08 Organization Structure & Decision Rights COMPLETE / DRAFT v1.0
-09 Open-Source & Licensing Framework       COMPLETE / DRAFT v1.0
-10 Contributing Framework                  COMPLETE / DRAFT v1.0
-11 Security & Responsible Technology Policy COMPLETE / DRAFT v1.0
-12 Ethics, Sovereignty & Public-Interest Framework COMPLETE / DRAFT v1.0
-13 Risk Management Framework               COMPLETE / DRAFT v1.0
-14 Operating Model                         COMPLETE / DRAFT v1.0
-15 Organization Roadmap                    COMPLETE / DRAFT v1.0
-16 Funding & Financial Framework           COMPLETE / DRAFT v1.0
-17 Partnership & Stakeholder Framework     COMPLETE / DRAFT v1.0
-18 Research & Innovation Framework         COMPLETE / DRAFT v1.0
-19 Programme Governance Framework          COMPLETE / DRAFT v1.0
-20 Legal & Institutional Readiness         COMPLETE / DRAFT v1.0
-21 Organization Documentation Baseline v1.0 COMPLETE / BASELINE DRAFT v1.0
-```
-
-Task 10 is complete as a Draft v1.0 foundational artifact.
 
 Previous document: [Open-Source & Licensing Framework](OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md)
 

@@ -1,16 +1,12 @@
-# Task 11 - Security & Responsible Technology Policy
+# Security & Responsible Technology Policy
 ## Aurex Digital Solutions
 
-**Version:** 1.0  
-**Status:** Foundational Draft / Draft v1.0  
-**Institution:** Aurex Digital Solutions  
-**Phase:** Technical Governance  
-**Applicability:** Aurex software, research, infrastructure, programmes, repositories, contributors, data systems, AI systems, edge devices, and energy-control technologies  
-**Navigation:** [Previous: Contributing Framework](CONTRIBUTING-FRAMEWORK.md) | [Home: Documentation Index](../../README.md) | [Next: Ethics, Sovereignty & Public-Interest Framework](ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md)
-
-Task 10 established how people participate in building Aurex.
-
-Task 11 establishes the boundary those contributions must operate within:
+**Version:** 1.0
+**Institution:** Aurex Digital Solutions
+**Status:** Draft v1.0
+**Document type:** Security & Responsible Technology Policy
+**Phase:** Technical Governance
+**Applicability:** Aurex software, research, infrastructure, programmes, repositories, contributors, data systems, AI systems, edge devices, and energy-control technologies
 
 > **Aurex technology must be secure enough for its risk, safe enough for its environment, and remain under legitimate human and institutional authority.**
 
@@ -41,9 +37,7 @@ This policy establishes Aurex's baseline direction for:
 - technology misuse;
 - security exceptions.
 
-Its objective is not to claim that Aurex is already compliant with every mature critical-infrastructure security standard.
-
-The objective is to establish the institutional security posture Aurex must mature toward.
+This policy establishes the institutional security posture Aurex must mature toward; it does not claim compliance with every mature critical-infrastructure security standard.
 
 ---
 
@@ -778,7 +772,7 @@ Aurex should track:
 - maintenance state;
 - license obligations.
 
-Task 9's SBOM requirement supports this directly.
+The [Open-Source & Licensing Framework](OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md) provides the related SBOM requirement.
 
 Dependency selection is both a technical and governance decision.
 
@@ -1488,7 +1482,7 @@ It is disciplined responsibility.
 
 ---
 
-## 61. Minimum Security Baseline - Now
+## 61. Current Minimum Security Baseline
 
 At the current foundational stage, Aurex's immediate minimum baseline should be:
 
@@ -1509,22 +1503,9 @@ This baseline is intentionally practical. It is the floor, not the final destina
 
 ---
 
-## 62. Relationship to Earlier Frameworks
+## 62. Relationship to Related Frameworks
 
-This policy extends the previous institutional documents:
-
-1. [Founding Thesis](../01-institutional-foundation/FOUNDING-THESIS.md) - establishes why Aurex exists.
-2. [Official Problem Statement](../01-institutional-foundation/OFFICIAL-PROBLEM-STATEMENT.md) - defines the infrastructure problem.
-3. [Vision, Mission & Purpose](../01-institutional-foundation/VISION-MISSION-PURPOSE.md) - defines the institutional direction.
-4. [Values & Institutional Principles](../01-institutional-foundation/VALUES-AND-INSTITUTIONAL-PRINCIPLES.md) - establishes the values security must protect.
-5. [Code of Conduct](../../CODE-OF-CONDUCT.md) - defines responsible participation norms.
-6. [Organization Charter](../01-institutional-foundation/ORGANIZATION-CHARTER.md) - establishes institutional authority boundaries.
-7. [Governance Framework](../01-institutional-foundation/GOVERNANCE-FRAMEWORK.md) - defines how authority and oversight mature.
-8. [Organization Structure & Decision Rights](../01-institutional-foundation/ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md) - defines who may hold decision authority.
-9. [Open-Source & Licensing Framework](OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md) - defines responsible sharing, licensing, SBOM direction, and public/private boundaries.
-10. [Contributing Framework](CONTRIBUTING-FRAMEWORK.md) - defines how people contribute responsibly.
-
-Task 11 adds the security and responsible-technology boundary those contributions must respect.
+This policy implements the security and responsible-technology requirements within Aurex's constitutional and governance boundaries. Related requirements are defined in the [Organization Charter](../01-institutional-foundation/ORGANIZATION-CHARTER.md), [Governance Framework](../01-institutional-foundation/GOVERNANCE-FRAMEWORK.md), [Open-Source & Licensing Framework](OPEN-SOURCE-AND-LICENSING-FRAMEWORK.md), [Contributing Framework](CONTRIBUTING-FRAMEWORK.md), [Ethics, Sovereignty & Public-Interest Framework](ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md), [Risk Management Framework](../03-operations-and-development/RISK-MANAGEMENT-FRAMEWORK.md), and [Legal & Institutional Readiness](../04-readiness-and-baseline/LEGAL-AND-INSTITUTIONAL-READINESS.md).
 
 ---
 
@@ -1557,63 +1538,6 @@ Physical-control authority must be explicit, lawful, technically bounded, valida
 This boundary is central to Aurex's public-interest legitimacy.
 
 ---
-
-## 65. How Task 12 Continues This Framework
-
-Task 11 establishes secure and responsible technology boundaries.
-
-Task 12 now answers a wider institutional question:
-
-> How does Aurex ensure its technology serves ethics, sovereignty, public interest, and African institutional agency?
-
-The next completed artifact is:
-
-[Task 12 - Ethics, Sovereignty & Public-Interest Framework](ETHICS-SOVEREIGNTY-AND-PUBLIC-INTEREST-FRAMEWORK.md)
-
-It addresses:
-
-- public-interest obligations;
-- energy sovereignty;
-- data sovereignty;
-- community impact;
-- fairness and inclusion;
-- AI ethics;
-- institutional legitimacy;
-- public accountability;
-- stakeholder rights;
-- responsible use of infrastructure intelligence;
-- cross-border African technology governance;
-- limits on extractive or harmful technology deployment.
-
----
-
-## 66. Institutional Build Status
-
-```text
-01 Founding Thesis                         COMPLETE / DRAFT v1.0
-02 Official Problem Statement              COMPLETE / DRAFT v1.0
-03 Vision, Mission & Purpose               COMPLETE / DRAFT v1.0
-04 Values & Institutional Principles       COMPLETE / DRAFT v1.0
-05 Code of Conduct                         COMPLETE / DRAFT v1.0
-06 Organization Charter                    COMPLETE / DRAFT v1.0
-07 Governance Framework                    COMPLETE / DRAFT v1.0
-08 Organization Structure & Decision Rights COMPLETE / DRAFT v1.0
-09 Open-Source & Licensing Framework       COMPLETE / DRAFT v1.0
-10 Contributing Framework                  COMPLETE / DRAFT v1.0
-11 Security & Responsible Technology Policy COMPLETE / DRAFT v1.0
-12 Ethics, Sovereignty & Public-Interest Framework COMPLETE / DRAFT v1.0
-13 Risk Management Framework               COMPLETE / DRAFT v1.0
-14 Operating Model                         COMPLETE / DRAFT v1.0
-15 Organization Roadmap                    COMPLETE / DRAFT v1.0
-16 Funding & Financial Framework           COMPLETE / DRAFT v1.0
-17 Partnership & Stakeholder Framework     COMPLETE / DRAFT v1.0
-18 Research & Innovation Framework         COMPLETE / DRAFT v1.0
-19 Programme Governance Framework          COMPLETE / DRAFT v1.0
-20 Legal & Institutional Readiness         COMPLETE / DRAFT v1.0
-21 Organization Documentation Baseline v1.0 COMPLETE / BASELINE DRAFT v1.0
-```
-
-Task 11 is complete as a Draft v1.0 foundational artifact.
 
 Previous document: [Contributing Framework](CONTRIBUTING-FRAMEWORK.md)
 

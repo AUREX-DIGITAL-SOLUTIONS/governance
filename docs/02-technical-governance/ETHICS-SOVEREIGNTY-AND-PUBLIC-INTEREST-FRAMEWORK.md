@@ -1,18 +1,12 @@
-# Task 12 - Ethics, Sovereignty & Public-Interest Framework
+# Ethics, Sovereignty & Public-Interest Framework
 ## Aurex Digital Solutions
 
 **Version:** 1.0
-**Status:** Foundational Draft / Draft v1.0
 **Institution:** Aurex Digital Solutions
+**Status:** Draft v1.0
+**Document type:** Ethics, Sovereignty & Public-Interest Framework
 **Phase:** Technical Governance
 **Orientation:** Kenya-founded, Africa-focused, public-interest digital energy infrastructure
-**Navigation:** [Previous: Security & Responsible Technology Policy](SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md) | [Home: Documentation Index](../../README.md) | [Next: Risk Management Framework](../03-operations-and-development/RISK-MANAGEMENT-FRAMEWORK.md)
-
-Task 11 established:
-
-> **Can Aurex build and operate technology securely and responsibly?**
-
-Task 12 asks the deeper institutional question:
 
 > **Even when technology is secure, legal, and technically effective, does its deployment strengthen the people, institutions, and energy systems it is intended to serve?**
 
@@ -187,7 +181,7 @@ LOWER SWITCHING COST
 INSTITUTIONAL AUTONOMY
 ```
 
-This directly connects Task 12 to Aurex's open-source strategy.
+This connects open-source design to Aurex's sovereignty strategy.
 
 ---
 
@@ -412,7 +406,7 @@ But:
 
 Authority comes from governance.
 
-This preserves Task 8's decision-rights model.
+This preserves Aurex's decision-rights model.
 
 ---
 
@@ -661,7 +655,7 @@ For material partnerships, Aurex should ask:
 8. Are there conflicts of interest?
 9. Could the partnership compromise institutional independence?
 
-Task 17 formalizes partnership governance.
+The [Partnership & Stakeholder Framework](../03-operations-and-development/PARTNERSHIP-AND-STAKEHOLDER-FRAMEWORK.md) defines partnership-governance requirements.
 
 ---
 
@@ -1086,7 +1080,7 @@ Over time, it may require:
 - community-impact review;
 - escalation to governance bodies.
 
-Task 7 and Task 8 provide the authority model that a future ethics-review process must use.
+The [Governance Framework](../01-institutional-foundation/GOVERNANCE-FRAMEWORK.md) and [Organization Structure & Decision Rights](../01-institutional-foundation/ORGANIZATION-STRUCTURE-AND-DECISION-RIGHTS.md) provide the authority model that a future ethics-review process must use.
 
 ---
 
@@ -1144,110 +1138,9 @@ This is a practical baseline, not a final legal or compliance programme.
 
 ---
 
-## 58. Relationship to the Technical Governance Phase
+## 58. Document Status
 
-Task 9 established how Aurex should share, license, and steward open technology.
-
-Task 10 established how people should contribute to Aurex technology and documentation.
-
-Task 11 established security and responsible-technology boundaries.
-
-Task 12 completes the initial Technical Governance phase by defining the public-interest and sovereignty tests that should guide technical decisions.
-
-Together, Tasks 9-12 answer:
-
-```text
-HOW DO WE OPEN TECHNOLOGY?
-HOW DO PEOPLE CONTRIBUTE?
-HOW DO WE KEEP TECHNOLOGY SECURE AND RESPONSIBLE?
-HOW DO WE ENSURE IT SERVES PUBLIC INTEREST AND SOVEREIGNTY?
-```
-
----
-
-## 59. Institutional Stack So Far
-
-The institutional documentation stack now consists of:
-
-```text
-IDENTITY
-  Founding Thesis
-  Official Problem Statement
-  Vision, Mission & Purpose
-  Values & Institutional Principles
-
-CONSTITUTIONAL FOUNDATION
-  Code of Conduct
-  Organization Charter
-  Governance Framework
-  Organization Structure & Decision Rights
-
-TECHNICAL GOVERNANCE
-  Open-Source & Licensing Framework
-  Contributing Framework
-  Security & Responsible Technology Policy
-  Ethics, Sovereignty & Public-Interest Framework
-```
-
-This completes the first twelve foundational artifacts.
-
----
-
-## 60. How Task 13 Continues This Framework
-
-Task 12 establishes public-interest and sovereignty principles.
-
-Task 13 now converts the institution's accumulated risks into an operational risk-management framework.
-
-The next completed artifact is:
-
-[Task 13 - Risk Management Framework](../03-operations-and-development/RISK-MANAGEMENT-FRAMEWORK.md)
-
-It should define:
-
-- risk categories;
-- risk ownership;
-- likelihood and impact assessment;
-- escalation thresholds;
-- risk registers;
-- controls;
-- residual risk;
-- monitoring;
-- review cadence;
-- reporting;
-- relationship to governance, security, finance, operations, partnerships, research, legal readiness, and programme delivery.
-
-Task 13 begins the Operations phase.
-
----
-
-## 61. Institutional Build Status
-
-```text
-01 Founding Thesis                         COMPLETE / DRAFT v1.0
-02 Official Problem Statement              COMPLETE / DRAFT v1.0
-03 Vision, Mission & Purpose               COMPLETE / DRAFT v1.0
-04 Values & Institutional Principles       COMPLETE / DRAFT v1.0
-05 Code of Conduct                         COMPLETE / DRAFT v1.0
-06 Organization Charter                    COMPLETE / DRAFT v1.0
-07 Governance Framework                    COMPLETE / DRAFT v1.0
-08 Organization Structure & Decision Rights COMPLETE / DRAFT v1.0
-09 Open-Source & Licensing Framework       COMPLETE / DRAFT v1.0
-10 Contributing Framework                  COMPLETE / DRAFT v1.0
-11 Security & Responsible Technology Policy COMPLETE / DRAFT v1.0
-12 Ethics, Sovereignty & Public-Interest Framework COMPLETE / DRAFT v1.0
-13 Risk Management Framework               COMPLETE / DRAFT v1.0
-14 Operating Model                         COMPLETE / DRAFT v1.0
-15 Organization Roadmap                    COMPLETE / DRAFT v1.0
-16 Funding & Financial Framework           COMPLETE / DRAFT v1.0
-17 Partnership & Stakeholder Framework     COMPLETE / DRAFT v1.0
-18 Research & Innovation Framework         COMPLETE / DRAFT v1.0
-19 Programme Governance Framework          COMPLETE / DRAFT v1.0
-20 Legal & Institutional Readiness         COMPLETE / DRAFT v1.0
-21 Organization Documentation Baseline v1.0 COMPLETE / BASELINE DRAFT v1.0
-```
-
-Task 12 is complete as a Draft v1.0 foundational artifact.
+This document is a Draft v1.0 technical-governance framework. Repository-wide status is maintained in the [Document Register](../04-readiness-and-baseline/DOCUMENT-REGISTER.md).
 
 Previous document: [Security & Responsible Technology Policy](SECURITY-AND-RESPONSIBLE-TECHNOLOGY-POLICY.md)
 
